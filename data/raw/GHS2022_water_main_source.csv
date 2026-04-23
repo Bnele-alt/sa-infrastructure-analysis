@@ -1,0 +1,163 @@
+SuperWEB2(tm)
+
+"General Household Survey 2022"
+"Province by Main source of water"
+"Counting: Person Weight"
+
+Filters:
+"Default Summation","Person Weight"
+
+"Summation Options","Province","Main source of water","Count",
+"Person Weight","Western Cape","Piped (tap) water in dwelling",6058027.3722223
+"Person Weight","Western Cape","Piped (tap) water on site or in yard",610768.0255248
+"Person Weight","Western Cape","Borehole on site",20362.6210909
+"Person Weight","Western Cape","Rain-water tank on site",642.5384618
+"Person Weight","Western Cape","Neighbour's tap",6001.424152
+"Person Weight","Western Cape","Public/communal tap",518073.3372866
+"Person Weight","Western Cape","Water-carrier/tanker",0
+"Person Weight","Western Cape","Water vendor",0
+"Person Weight","Western Cape","Borehole outside yard",6263.8000711
+"Person Weight","Western Cape","Flowing water/stream/river",6162.0318504
+"Person Weight","Western Cape","Stagnant water/dam/pool",0
+"Person Weight","Western Cape","Well",0
+"Person Weight","Western Cape","Spring",1593.489775
+"Person Weight","Western Cape","Other source of drinking water",2963.4677168
+"Person Weight","Western Cape","Total",7230858.1081517
+"Person Weight","Eastern Cape","Piped (tap) water in dwelling",2083323.5606209
+"Person Weight","Eastern Cape","Piped (tap) water on site or in yard",925757.5028249
+"Person Weight","Eastern Cape","Borehole on site",15615.2646542
+"Person Weight","Eastern Cape","Rain-water tank on site",1292070.6310516
+"Person Weight","Eastern Cape","Neighbour's tap",45974.8022542
+"Person Weight","Eastern Cape","Public/communal tap",1028925.538893
+"Person Weight","Eastern Cape","Water-carrier/tanker",24373.7446454
+"Person Weight","Eastern Cape","Water vendor",31977.7233401
+"Person Weight","Eastern Cape","Borehole outside yard",30244.3623841
+"Person Weight","Eastern Cape","Flowing water/stream/river",488674.0046032
+"Person Weight","Eastern Cape","Stagnant water/dam/pool",31134.7888565
+"Person Weight","Eastern Cape","Well",510.3544683
+"Person Weight","Eastern Cape","Spring",439391.7061137
+"Person Weight","Eastern Cape","Other source of drinking water",101080.4532996
+"Person Weight","Eastern Cape","Total",6539054.4380097
+"Person Weight","Northern Cape","Piped (tap) water in dwelling",625529.1196378
+"Person Weight","Northern Cape","Piped (tap) water on site or in yard",412250.1592454
+"Person Weight","Northern Cape","Borehole on site",22011.114806
+"Person Weight","Northern Cape","Rain-water tank on site",2563.564324
+"Person Weight","Northern Cape","Neighbour's tap",24121.2728335
+"Person Weight","Northern Cape","Public/communal tap",148613.2927749
+"Person Weight","Northern Cape","Water-carrier/tanker",12530.9555069
+"Person Weight","Northern Cape","Water vendor",22432.1173368
+"Person Weight","Northern Cape","Borehole outside yard",20551.3543283
+"Person Weight","Northern Cape","Flowing water/stream/river",2140.6090572
+"Person Weight","Northern Cape","Stagnant water/dam/pool",0
+"Person Weight","Northern Cape","Well",0
+"Person Weight","Northern Cape","Spring",0
+"Person Weight","Northern Cape","Other source of drinking water",1300.1443419
+"Person Weight","Northern Cape","Total",1294043.7041927
+"Person Weight","Free State","Piped (tap) water in dwelling",1310099.8967266
+"Person Weight","Free State","Piped (tap) water on site or in yard",1391153.8462687
+"Person Weight","Free State","Borehole on site",8116.1045767
+"Person Weight","Free State","Rain-water tank on site",0
+"Person Weight","Free State","Neighbour's tap",49163.689226
+"Person Weight","Free State","Public/communal tap",98237.134507
+"Person Weight","Free State","Water-carrier/tanker",26940.8299606
+"Person Weight","Free State","Water vendor",36514.2835157
+"Person Weight","Free State","Borehole outside yard",62408.4675622
+"Person Weight","Free State","Flowing water/stream/river",0
+"Person Weight","Free State","Stagnant water/dam/pool",0
+"Person Weight","Free State","Well",0
+"Person Weight","Free State","Spring",6293.8654355
+"Person Weight","Free State","Other source of drinking water",11509.2709551
+"Person Weight","Free State","Total",3000437.388734
+"Person Weight","KwaZulu-Natal","Piped (tap) water in dwelling",3982786.4628984
+"Person Weight","KwaZulu-Natal","Piped (tap) water on site or in yard",3624817.3667401
+"Person Weight","KwaZulu-Natal","Borehole on site",208745.9718426
+"Person Weight","KwaZulu-Natal","Rain-water tank on site",157047.0875641
+"Person Weight","KwaZulu-Natal","Neighbour's tap",327632.8978778
+"Person Weight","KwaZulu-Natal","Public/communal tap",1632642.7596099
+"Person Weight","KwaZulu-Natal","Water-carrier/tanker",469264.5306752
+"Person Weight","KwaZulu-Natal","Water vendor",76469.6437991
+"Person Weight","KwaZulu-Natal","Borehole outside yard",297891.005131
+"Person Weight","KwaZulu-Natal","Flowing water/stream/river",730550.523546
+"Person Weight","KwaZulu-Natal","Stagnant water/dam/pool",19357.1316299
+"Person Weight","KwaZulu-Natal","Well",112427.6503307
+"Person Weight","KwaZulu-Natal","Spring",111885.388981
+"Person Weight","KwaZulu-Natal","Other source of drinking water",70523.3903048
+"Person Weight","KwaZulu-Natal","Total",11822041.8109305
+"Person Weight","North West","Piped (tap) water in dwelling",1212295.7827899
+"Person Weight","North West","Piped (tap) water on site or in yard",1541581.0839908
+"Person Weight","North West","Borehole on site",200500.0179058
+"Person Weight","North West","Rain-water tank on site",374.0806743
+"Person Weight","North West","Neighbour's tap",128330.0705849
+"Person Weight","North West","Public/communal tap",733694.8441651
+"Person Weight","North West","Water-carrier/tanker",76772.4237508
+"Person Weight","North West","Water vendor",211464.0416188
+"Person Weight","North West","Borehole outside yard",80612.9596777
+"Person Weight","North West","Flowing water/stream/river",5643.2661903
+"Person Weight","North West","Stagnant water/dam/pool",0
+"Person Weight","North West","Well",492.5355593
+"Person Weight","North West","Spring",0
+"Person Weight","North West","Other source of drinking water",14647.2981739
+"Person Weight","North West","Total",4206408.4050816
+"Person Weight","Gauteng","Piped (tap) water in dwelling",10988393.0944495
+"Person Weight","Gauteng","Piped (tap) water on site or in yard",4411362.2057923
+"Person Weight","Gauteng","Borehole on site",90342.1790282
+"Person Weight","Gauteng","Rain-water tank on site",5695.6489735
+"Person Weight","Gauteng","Neighbour's tap",76898.338451
+"Person Weight","Gauteng","Public/communal tap",542333.5111441
+"Person Weight","Gauteng","Water-carrier/tanker",104237.836882
+"Person Weight","Gauteng","Water vendor",17511.8745046
+"Person Weight","Gauteng","Borehole outside yard",14508.110696
+"Person Weight","Gauteng","Flowing water/stream/river",650.6064683
+"Person Weight","Gauteng","Stagnant water/dam/pool",2104.088932
+"Person Weight","Gauteng","Well",0
+"Person Weight","Gauteng","Spring",0
+"Person Weight","Gauteng","Other source of drinking water",12557.2468974
+"Person Weight","Gauteng","Total",16266594.7422187
+"Person Weight","Mpumalanga","Piped (tap) water in dwelling",1487305.5835336
+"Person Weight","Mpumalanga","Piped (tap) water on site or in yard",2165871.5059603
+"Person Weight","Mpumalanga","Borehole on site",99799.853523
+"Person Weight","Mpumalanga","Rain-water tank on site",17671.2086674
+"Person Weight","Mpumalanga","Neighbour's tap",148385.0872902
+"Person Weight","Mpumalanga","Public/communal tap",409372.3666337
+"Person Weight","Mpumalanga","Water-carrier/tanker",139131.3660148
+"Person Weight","Mpumalanga","Water vendor",190516.4031216
+"Person Weight","Mpumalanga","Borehole outside yard",70228.1000419
+"Person Weight","Mpumalanga","Flowing water/stream/river",38785.9874622
+"Person Weight","Mpumalanga","Stagnant water/dam/pool",0
+"Person Weight","Mpumalanga","Well",46341.2529113
+"Person Weight","Mpumalanga","Spring",24248.3878177
+"Person Weight","Mpumalanga","Other source of drinking water",19552.7553594
+"Person Weight","Mpumalanga","Total",4857209.8583372
+"Person Weight","Limpopo","Piped (tap) water in dwelling",936124.5958525
+"Person Weight","Limpopo","Piped (tap) water on site or in yard",1920939.478333
+"Person Weight","Limpopo","Borehole on site",691130.9039701
+"Person Weight","Limpopo","Rain-water tank on site",21698.1068392
+"Person Weight","Limpopo","Neighbour's tap",241046.5122469
+"Person Weight","Limpopo","Public/communal tap",1080363.0613968
+"Person Weight","Limpopo","Water-carrier/tanker",51377.1412888
+"Person Weight","Limpopo","Water vendor",655630.0773975
+"Person Weight","Limpopo","Borehole outside yard",176767.4347308
+"Person Weight","Limpopo","Flowing water/stream/river",76455.6469448
+"Person Weight","Limpopo","Stagnant water/dam/pool",15258.0597198
+"Person Weight","Limpopo","Well",49541.070756
+"Person Weight","Limpopo","Spring",45104.9549381
+"Person Weight","Limpopo","Other source of drinking water",206082.4302755
+"Person Weight","Limpopo","Total",6167519.4746898
+"Person Weight","Total","Piped (tap) water in dwelling",28683885.4687315
+"Person Weight","Total","Piped (tap) water on site or in yard",17004501.1746803
+"Person Weight","Total","Borehole on site",1356624.0313976
+"Person Weight","Total","Rain-water tank on site",1497762.8665559
+"Person Weight","Total","Neighbour's tap",1047554.0949167
+"Person Weight","Total","Public/communal tap",6192255.8464112
+"Person Weight","Total","Water-carrier/tanker",904628.8287244
+"Person Weight","Total","Water vendor",1242516.1646342
+"Person Weight","Total","Borehole outside yard",759475.5946231
+"Person Weight","Total","Flowing water/stream/river",1349062.6761223
+"Person Weight","Total","Stagnant water/dam/pool",67854.0691382
+"Person Weight","Total","Well",209312.8640256
+"Person Weight","Total","Spring",628517.7930609
+"Person Weight","Total","Other source of drinking water",440216.4573243
+"Person Weight","Total","Total",61384167.9303451
+
+
+(c) Copyright Statistics South Africa

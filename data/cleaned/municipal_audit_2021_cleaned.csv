@@ -1,0 +1,258 @@
+muni_code,demarcation_label,opinion_code,opinion_label,governance_score
+BUF,Buffalo City,qualified,Qualified,3
+CPT,Cape Town,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC1,West Coast,unqualified,Unqualified - No findings,5
+DC10,Sarah Baartman,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC12,Amathole,adverse,Adverse opinion,2
+DC13,Chris Hani,disclaimer,Disclaimer of opinion,1
+DC14,Joe Gqabi,unqualified,Unqualified - No findings,5
+DC15,O R Tambo,qualified,Qualified,3
+DC16,Xhariep,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC18,Lejweleputswa,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC19,Thabo Mofutsanyana,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC2,Cape Winelands DM,unqualified,Unqualified - No findings,5
+DC20,Fezile Dabi,qualified,Qualified,3
+DC21,Ugu,qualified,Qualified,3
+DC22,uMgungundlovu,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC23,Uthukela,qualified,Qualified,3
+DC24,Umzinyathi,qualified,Qualified,3
+DC25,Amajuba,qualified,Qualified,3
+DC26,Zululand,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC27,Umkhanyakude,disclaimer,Disclaimer of opinion,1
+DC28,King Cetshwayo,unqualified,Unqualified - No findings,5
+DC29,iLembe,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC3,Overberg,unqualified,Unqualified - No findings,5
+DC30,Gert Sibande,unqualified,Unqualified - No findings,5
+DC31,Nkangala,unqualified,Unqualified - No findings,5
+DC32,Ehlanzeni,unqualified,Unqualified - No findings,5
+DC33,Mopani,disclaimer,Disclaimer of opinion,1
+DC34,Vhembe,qualified,Qualified,3
+DC35,Capricorn,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC36,Waterberg,unqualified,Unqualified - No findings,5
+DC37,Bojanala Platinum,outstanding,Outstanding,0
+DC38,Ngaka Modiri Molema,adverse,Adverse opinion,2
+DC39,Dr Ruth Segomotsi Mompati,qualified,Qualified,3
+DC4,Garden Route,unqualified,Unqualified - No findings,5
+DC40,Dr Kenneth Kaunda,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC42,Sedibeng,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC43,Harry Gwala,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC44,Alfred Nzo,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC45,John Taolo Gaetsewe,unqualified,Unqualified - No findings,5
+DC47,Sekhukhune,qualified,Qualified,3
+DC48,West Rand,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC5,Central Karoo,unqualified,Unqualified - No findings,5
+DC6,Namakwa,unqualified,Unqualified - No findings,5
+DC7,Pixley Ka Seme (NC),unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+DC8,Z F Mgcawu,unqualified,Unqualified - No findings,5
+DC9,Frances Baard,unqualified,Unqualified - No findings,5
+EC101,Dr Beyers Naude,qualified,Qualified,3
+EC102,Blue Crane Route,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC104,Makana,disclaimer,Disclaimer of opinion,1
+EC105,Ndlambe,qualified,Qualified,3
+EC106,Sundays River Valley,disclaimer,Disclaimer of opinion,1
+EC108,Kouga,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC109,Kou-Kamma,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC121,Mbhashe,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC122,Mnquma,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC123,Great Kei,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC124,Amahlathi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC126,Ngqushwa,qualified,Qualified,3
+EC129,Raymond Mhlaba,qualified,Qualified,3
+EC131,Inxuba Yethemba,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC135,Intsika Yethu,qualified,Qualified,3
+EC136,Emalahleni (EC),qualified,Qualified,3
+EC137,Dr. A.B. Xuma,qualified,Qualified,3
+EC138,Sakhisizwe,qualified,Qualified,3
+EC139,Enoch Mgijima,qualified,Qualified,3
+EC141,Elundini,unqualified,Unqualified - No findings,5
+EC142,Senqu,unqualified,Unqualified - No findings,5
+EC145,Walter Sisulu,disclaimer,Disclaimer of opinion,1
+EC153,Ngquza Hills,qualified,Qualified,3
+EC154,Port St Johns,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC155,Nyandeni,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC156,Mhlontlo,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC157,King Sabata Dalindyebo,qualified,Qualified,3
+EC441,Matatiele,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC442,Umzimvubu,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EC443,Winnie Madikizela-Mandela,unqualified,Unqualified - No findings,5
+EC444,Ntabankulu,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+EKU,City of Ekurhuleni,unqualified,Unqualified - No findings,5
+ETH,eThekwini,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+FS161,Letsemeng,qualified,Qualified,3
+FS162,Kopanong,outstanding,Outstanding,0
+FS163,Mohokare,outstanding,Outstanding,0
+FS181,Masilonyana,outstanding,Outstanding,0
+FS182,Tokologo,outstanding,Outstanding,0
+FS183,Tswelopele,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+FS184,Matjhabeng,qualified,Qualified,3
+FS185,Nala,outstanding,Outstanding,0
+FS191,Setsoto,qualified,Qualified,3
+FS192,Dihlabeng,qualified,Qualified,3
+FS193,Nketoana,outstanding,Outstanding,0
+FS194,Maluti-a-Phofung,outstanding,Outstanding,0
+FS195,Phumelela,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+FS196,Mantsopa,outstanding,Outstanding,0
+FS201,Moqhaka,qualified,Qualified,3
+FS203,Ngwathe,qualified,Qualified,3
+FS204,Metsimaholo,qualified,Qualified,3
+FS205,Mafube,outstanding,Outstanding,0
+GT421,Emfuleni,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+GT422,Midvaal,unqualified,Unqualified - No findings,5
+GT423,Lesedi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+GT481,Mogale City,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+GT484,Merafong City,adverse,Adverse opinion,2
+GT485,Rand West City,qualified,Qualified,3
+JHB,City of Johannesburg,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN212,Umdoni,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN213,Umzumbe,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN214,uMuziwabantu,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN216,Ray Nkonyeni,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN221,uMshwathi,qualified,Qualified,3
+KZN222,uMngeni,qualified,Qualified,3
+KZN223,Mpofana,qualified,Qualified,3
+KZN224,Impendle,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN225,Msunduzi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN226,Mkhambathini,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN227,Richmond,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN235,Okhahlamba,unqualified,Unqualified - No findings,5
+KZN237,Inkosi Langalibalele,disclaimer,Disclaimer of opinion,1
+KZN238,Alfred Duma,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN241,Endumeni,qualified,Qualified,3
+KZN242,Nquthu,disclaimer,Disclaimer of opinion,1
+KZN244,Msinga,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN245,Umvoti,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN252,Newcastle,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN253,Emadlangeni,qualified,Qualified,3
+KZN254,Dannhauser,qualified,Qualified,3
+KZN261,eDumbe,qualified,Qualified,3
+KZN262,uPhongolo,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN263,Abaqulusi,qualified,Qualified,3
+KZN265,Nongoma,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN266,Ulundi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN271,Umhlabuyalingana,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN272,Jozini,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN275,Mtubatuba,qualified,Qualified,3
+KZN276,Hlabisa Big Five,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN281,Mfolozi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN282,uMhlathuze,unqualified,Unqualified - No findings,5
+KZN284,uMlalazi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN285,Mthonjaneni,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN286,Nkandla,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN291,Mandeni,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN292,KwaDukuza,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN293,Ndwedwe,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN294,Maphumulo,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN433,Greater Kokstad,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN434,Ubuhlebezwe,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN435,Umzimkhulu,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+KZN436,Dr Nkosazana Dlamini Zuma,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM331,Greater Giyani,qualified,Qualified,3
+LIM332,Greater Letaba,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM333,Greater Tzaneen,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM334,Ba-Phalaborwa,qualified,Qualified,3
+LIM335,Maruleng,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM341,Musina,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM343,Thulamela,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM344,Makhado,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM345,Collins Chabane,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM351,Blouberg,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM353,Molemole,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM354,Polokwane,qualified,Qualified,3
+LIM355,Lepelle-Nkumpi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM361,Thabazimbi,qualified,Qualified,3
+LIM362,Lephalale,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM366,Bela Bela,outstanding,Outstanding,0
+LIM367,Mogalakwena,qualified,Qualified,3
+LIM368,Modimolle-Mookgopong,qualified,Qualified,3
+LIM471,Ephraim Mogale,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM472,Elias Motsoaledi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM473,Makhuduthamaga,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+LIM476,Tubatse Fetakgomo,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MAN,Mangaung,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MP301,Albert Luthuli,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MP302,Msukaligwa,qualified,Qualified,3
+MP303,Mkhondo,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MP304,Pixley Ka Seme (MP),qualified,Qualified,3
+MP305,Lekwa,disclaimer,Disclaimer of opinion,1
+MP306,Dipaleseng,disclaimer,Disclaimer of opinion,1
+MP307,Govan Mbeki,qualified,Qualified,3
+MP311,Victor Khanye,qualified,Qualified,3
+MP312,Emalahleni (MP),qualified,Qualified,3
+MP313,Steve Tshwete,unqualified,Unqualified - No findings,5
+MP314,Emakhazeni,adverse,Adverse opinion,2
+MP315,Thembisile Hani,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MP316,Dr J.S. Moroka,disclaimer,Disclaimer of opinion,1
+MP321,Thaba Chweu,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MP324,Nkomazi,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MP325,Bushbuckridge,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+MP326,City of Mbombela,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+NC061,Richtersveld,qualified,Qualified,3
+NC062,Nama Khoi,outstanding,Outstanding,0
+NC064,Kamiesberg,qualified,Qualified,3
+NC065,Hantam,outstanding,Outstanding,0
+NC066,Karoo Hoogland,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+NC067,Khai-Ma,qualified,Qualified,3
+NC071,Ubuntu,qualified,Qualified,3
+NC072,Umsobomvu,qualified,Qualified,3
+NC073,Emthanjeni,qualified,Qualified,3
+NC074,Kareeberg,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+NC075,Renosterberg,outstanding,Outstanding,0
+NC076,Thembelihle,qualified,Qualified,3
+NC077,Siyathemba,qualified,Qualified,3
+NC078,Siyancuma,qualified,Qualified,3
+NC082,!Kai! Garib,outstanding,Outstanding,0
+NC084,!Kheis,outstanding,Outstanding,0
+NC085,Tsantsabane,qualified,Qualified,3
+NC086,Kgatelopele,outstanding,Outstanding,0
+NC087,Dawid Kruiper,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+NC091,Sol Plaatje,qualified,Qualified,3
+NC092,Dikgatlong,qualified,Qualified,3
+NC093,Magareng,qualified,Qualified,3
+NC094,Phokwane,outstanding,Outstanding,0
+NC451,Joe Morolong,outstanding,Outstanding,0
+NC452,Ga-Segonyana,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+NC453,Gamagara,qualified,Qualified,3
+NMA,Nelson Mandela Bay,qualified,Qualified,3
+NW371,Moretele,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+NW372,Madibeng,disclaimer,Disclaimer of opinion,1
+NW373,Rustenburg,qualified,Qualified,3
+NW374,Kgetlengrivier,disclaimer,Disclaimer of opinion,1
+NW375,Moses Kotane,qualified,Qualified,3
+NW381,Ratlou,disclaimer,Disclaimer of opinion,1
+NW382,Tswaing,qualified,Qualified,3
+NW383,Mafikeng,qualified,Qualified,3
+NW384,Ditsobotla,outstanding,Outstanding,0
+NW385,Ramotshere Moiloa,outstanding,Outstanding,0
+NW392,Naledi (NW),disclaimer,Disclaimer of opinion,1
+NW393,Mamusa,disclaimer,Disclaimer of opinion,1
+NW394,Greater Taung,disclaimer,Disclaimer of opinion,1
+NW396,Lekwa-Teemane,qualified,Qualified,3
+NW397,Kagisano-Molopo,qualified,Qualified,3
+NW403,City of Matlosana,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+NW404,Maquassi Hills,disclaimer,Disclaimer of opinion,1
+NW405,J B Marks,qualified,Qualified,3
+TSH,City of Tshwane,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+WC011,Matzikama,unqualified,Unqualified - No findings,5
+WC012,Cederberg,unqualified,Unqualified - No findings,5
+WC013,Bergrivier,unqualified,Unqualified - No findings,5
+WC014,Saldanha Bay,unqualified,Unqualified - No findings,5
+WC015,Swartland,unqualified,Unqualified - No findings,5
+WC022,Witzenberg,unqualified,Unqualified - No findings,5
+WC023,Drakenstein,unqualified,Unqualified - No findings,5
+WC024,Stellenbosch,unqualified,Unqualified - No findings,5
+WC025,Breede Valley,unqualified,Unqualified - No findings,5
+WC026,Langeberg,unqualified,Unqualified - No findings,5
+WC031,Theewaterskloof,unqualified,Unqualified - No findings,5
+WC032,Overstrand,unqualified,Unqualified - No findings,5
+WC033,Cape Agulhas,unqualified,Unqualified - No findings,5
+WC034,Swellendam,unqualified,Unqualified - No findings,5
+WC041,Kannaland,outstanding,Outstanding,0
+WC042,Hessequa,unqualified,Unqualified - No findings,5
+WC043,Mossel Bay,unqualified,Unqualified - No findings,5
+WC044,George,unqualified,Unqualified - No findings,5
+WC045,Oudtshoorn,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+WC047,Bitou,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+WC048,Knysna,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+WC051,Laingsburg,outstanding,Outstanding,0
+WC052,Prince Albert,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4
+WC053,Beaufort West,outstanding,Outstanding,0

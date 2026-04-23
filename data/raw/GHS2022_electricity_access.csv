@@ -1,0 +1,53 @@
+SuperWEB2(tm)
+
+"General Household Survey 2022"
+"Province by Access to electricity"
+"Counting: Person Weight"
+
+Filters:
+"Default Summation","Person Weight"
+
+"Summation Options","Province","Access to electricity","Count",
+"Person Weight","Western Cape","Yes",7123512.060894
+"Person Weight","Western Cape","No",107346.0472577
+"Person Weight","Western Cape","Unspecified",0
+"Person Weight","Western Cape","Total",7230858.1081517
+"Person Weight","Eastern Cape","Yes",6292748.4819263
+"Person Weight","Eastern Cape","No",246305.9560835
+"Person Weight","Eastern Cape","Unspecified",0
+"Person Weight","Eastern Cape","Total",6539054.4380097
+"Person Weight","Northern Cape","Yes",1242681.1976911
+"Person Weight","Northern Cape","No",51362.5065016
+"Person Weight","Northern Cape","Unspecified",0
+"Person Weight","Northern Cape","Total",1294043.7041927
+"Person Weight","Free State","Yes",2877751.5099831
+"Person Weight","Free State","No",122685.8787509
+"Person Weight","Free State","Unspecified",0
+"Person Weight","Free State","Total",3000437.388734
+"Person Weight","KwaZulu-Natal","Yes",11634620.7733085
+"Person Weight","KwaZulu-Natal","No",187421.037622
+"Person Weight","KwaZulu-Natal","Unspecified",0
+"Person Weight","KwaZulu-Natal","Total",11822041.8109305
+"Person Weight","North West","Yes",3987861.0671053
+"Person Weight","North West","No",218547.3379762
+"Person Weight","North West","Unspecified",0
+"Person Weight","North West","Total",4206408.4050816
+"Person Weight","Gauteng","Yes",15363314.1825159
+"Person Weight","Gauteng","No",896541.916174
+"Person Weight","Gauteng","Unspecified",6738.6435288
+"Person Weight","Gauteng","Total",16266594.7422187
+"Person Weight","Mpumalanga","Yes",4611514.5314685
+"Person Weight","Mpumalanga","No",245695.3268686
+"Person Weight","Mpumalanga","Unspecified",0
+"Person Weight","Mpumalanga","Total",4857209.8583372
+"Person Weight","Limpopo","Yes",6073532.9349378
+"Person Weight","Limpopo","No",93986.5397521
+"Person Weight","Limpopo","Unspecified",0
+"Person Weight","Limpopo","Total",6167519.4746898
+"Person Weight","Total","Yes",59207536.7398295
+"Person Weight","Total","No",2169892.5469866
+"Person Weight","Total","Unspecified",6738.6435288
+"Person Weight","Total","Total",61384167.9303451
+
+
+(c) Copyright Statistics South Africa

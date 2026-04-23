@@ -1,0 +1,55 @@
+province,toilet_distance,count
+Western Cape,Less than 50m,315750
+Western Cape,51 m - 100m,131387
+Western Cape,101 m - 200m,37834
+Western Cape,201 m - 500m,829
+Western Cape,More than 500m,0
+Western Cape,Not applicable,6745059
+Eastern Cape,Less than 50m,50408
+Eastern Cape,51 m - 100m,52028
+Eastern Cape,101 m - 200m,19464
+Eastern Cape,201 m - 500m,7103
+Eastern Cape,More than 500m,0
+Eastern Cape,Not applicable,6410052
+Northern Cape,Less than 50m,47366
+Northern Cape,51 m - 100m,5584
+Northern Cape,101 m - 200m,2770
+Northern Cape,201 m - 500m,399
+Northern Cape,More than 500m,505
+Northern Cape,Not applicable,1237419
+Free State,Less than 50m,25747
+Free State,51 m - 100m,3299
+Free State,101 m - 200m,0
+Free State,201 m - 500m,0
+Free State,More than 500m,0
+Free State,Not applicable,2971391
+KwaZulu-Natal,Less than 50m,167562
+KwaZulu-Natal,51 m - 100m,260640
+KwaZulu-Natal,101 m - 200m,43284
+KwaZulu-Natal,201 m - 500m,8279
+KwaZulu-Natal,More than 500m,0
+KwaZulu-Natal,Not applicable,11342276
+North West,Less than 50m,45834
+North West,51 m - 100m,5528
+North West,101 m - 200m,1704
+North West,201 m - 500m,1086
+North West,More than 500m,0
+North West,Not applicable,4152257
+Gauteng,Less than 50m,266381
+Gauteng,51 m - 100m,26575
+Gauteng,101 m - 200m,0
+Gauteng,201 m - 500m,0
+Gauteng,More than 500m,0
+Gauteng,Not applicable,15973639
+Mpumalanga,Less than 50m,79544
+Mpumalanga,51 m - 100m,5671
+Mpumalanga,101 m - 200m,3463
+Mpumalanga,201 m - 500m,0
+Mpumalanga,More than 500m,0
+Mpumalanga,Not applicable,4768532
+Limpopo,Less than 50m,41785
+Limpopo,51 m - 100m,29854
+Limpopo,101 m - 200m,4815
+Limpopo,201 m - 500m,1502
+Limpopo,More than 500m,0
+Limpopo,Not applicable,6089563

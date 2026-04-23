@@ -1,0 +1,772 @@
+demarcation.code,demarcation.label,financial_year_end.year,item.code,item.label,amount
+BUF,Buffalo City,2021,fruitless,Fruitless and Wasteful Expenditure,0
+BUF,Buffalo City,2021,irregular,Irregular Expenditure,311222630
+BUF,Buffalo City,2021,unauthorised,Unauthorised Expenditure,0
+CPT,Cape Town,2021,fruitless,Fruitless and Wasteful Expenditure,12328000
+CPT,Cape Town,2021,irregular,Irregular Expenditure,762186000
+CPT,Cape Town,2021,unauthorised,Unauthorised Expenditure,0
+DC1,West Coast,2021,fruitless,Fruitless and Wasteful Expenditure,315879
+DC1,West Coast,2021,irregular,Irregular Expenditure,8652271
+DC1,West Coast,2021,unauthorised,Unauthorised Expenditure,0
+DC10,Sarah Baartman,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC10,Sarah Baartman,2021,irregular,Irregular Expenditure,1718002
+DC10,Sarah Baartman,2021,unauthorised,Unauthorised Expenditure,0
+DC12,Amathole,2021,fruitless,Fruitless and Wasteful Expenditure,6960460
+DC12,Amathole,2021,irregular,Irregular Expenditure,39232551
+DC12,Amathole,2021,unauthorised,Unauthorised Expenditure,0
+DC13,Chris Hani,2021,fruitless,Fruitless and Wasteful Expenditure,456109
+DC13,Chris Hani,2021,irregular,Irregular Expenditure,56504779
+DC13,Chris Hani,2021,unauthorised,Unauthorised Expenditure,392410627
+DC14,Joe Gqabi,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC14,Joe Gqabi,2021,irregular,Irregular Expenditure,53067316
+DC14,Joe Gqabi,2021,unauthorised,Unauthorised Expenditure,0
+DC15,O R Tambo,2021,fruitless,Fruitless and Wasteful Expenditure,8250849
+DC15,O R Tambo,2021,irregular,Irregular Expenditure,249859996
+DC15,O R Tambo,2021,unauthorised,Unauthorised Expenditure,1197150
+DC16,Xhariep,2021,fruitless,Fruitless and Wasteful Expenditure,74813
+DC16,Xhariep,2021,irregular,Irregular Expenditure,3697063
+DC16,Xhariep,2021,unauthorised,Unauthorised Expenditure,1861390
+DC18,Lejweleputswa,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC18,Lejweleputswa,2021,irregular,Irregular Expenditure,10868942
+DC18,Lejweleputswa,2021,unauthorised,Unauthorised Expenditure,2912252
+DC19,Thabo Mofutsanyana,2021,fruitless,Fruitless and Wasteful Expenditure,3626
+DC19,Thabo Mofutsanyana,2021,irregular,Irregular Expenditure,16920949
+DC19,Thabo Mofutsanyana,2021,unauthorised,Unauthorised Expenditure,0
+DC2,Cape Winelands DM,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC2,Cape Winelands DM,2021,irregular,Irregular Expenditure,1486022
+DC2,Cape Winelands DM,2021,unauthorised,Unauthorised Expenditure,0
+DC20,Fezile Dabi,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC20,Fezile Dabi,2021,irregular,Irregular Expenditure,27734003
+DC20,Fezile Dabi,2021,unauthorised,Unauthorised Expenditure,46579839
+DC21,Ugu,2021,fruitless,Fruitless and Wasteful Expenditure,14197445
+DC21,Ugu,2021,irregular,Irregular Expenditure,177751802
+DC21,Ugu,2021,unauthorised,Unauthorised Expenditure,252414680
+DC22,uMgungundlovu,2021,fruitless,Fruitless and Wasteful Expenditure,283278
+DC22,uMgungundlovu,2021,irregular,Irregular Expenditure,13332251
+DC22,uMgungundlovu,2021,unauthorised,Unauthorised Expenditure,86575122
+DC23,Uthukela,2021,fruitless,Fruitless and Wasteful Expenditure,3846296
+DC23,Uthukela,2021,irregular,Irregular Expenditure,82826211
+DC23,Uthukela,2021,unauthorised,Unauthorised Expenditure,62343845
+DC24,Umzinyathi,2021,fruitless,Fruitless and Wasteful Expenditure,276625
+DC24,Umzinyathi,2021,irregular,Irregular Expenditure,299928152
+DC24,Umzinyathi,2021,unauthorised,Unauthorised Expenditure,221697206
+DC25,Amajuba,2021,fruitless,Fruitless and Wasteful Expenditure,3151383
+DC25,Amajuba,2021,irregular,Irregular Expenditure,199647348
+DC25,Amajuba,2021,unauthorised,Unauthorised Expenditure,64898298
+DC26,Zululand,2021,fruitless,Fruitless and Wasteful Expenditure,363040
+DC26,Zululand,2021,irregular,Irregular Expenditure,17918070
+DC26,Zululand,2021,unauthorised,Unauthorised Expenditure,127661348
+DC27,Umkhanyakude,2021,fruitless,Fruitless and Wasteful Expenditure,9784620
+DC27,Umkhanyakude,2021,irregular,Irregular Expenditure,193344394
+DC27,Umkhanyakude,2021,unauthorised,Unauthorised Expenditure,31857680
+DC28,King Cetshwayo,2021,fruitless,Fruitless and Wasteful Expenditure,887464
+DC28,King Cetshwayo,2021,irregular,Irregular Expenditure,30929093
+DC28,King Cetshwayo,2021,unauthorised,Unauthorised Expenditure,20033993
+DC29,iLembe,2021,fruitless,Fruitless and Wasteful Expenditure,4375888
+DC29,iLembe,2021,irregular,Irregular Expenditure,38465190
+DC29,iLembe,2021,unauthorised,Unauthorised Expenditure,0
+DC3,Overberg,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC3,Overberg,2021,irregular,Irregular Expenditure,6858060
+DC3,Overberg,2021,unauthorised,Unauthorised Expenditure,3632595
+DC30,Gert Sibande,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC30,Gert Sibande,2021,irregular,Irregular Expenditure,0
+DC30,Gert Sibande,2021,unauthorised,Unauthorised Expenditure,0
+DC31,Nkangala,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC31,Nkangala,2021,irregular,Irregular Expenditure,1052188
+DC31,Nkangala,2021,unauthorised,Unauthorised Expenditure,0
+DC32,Ehlanzeni,2021,fruitless,Fruitless and Wasteful Expenditure,50177
+DC32,Ehlanzeni,2021,irregular,Irregular Expenditure,666528
+DC32,Ehlanzeni,2021,unauthorised,Unauthorised Expenditure,0
+DC33,Mopani,2021,fruitless,Fruitless and Wasteful Expenditure,43709506
+DC33,Mopani,2021,irregular,Irregular Expenditure,300278005
+DC33,Mopani,2021,unauthorised,Unauthorised Expenditure,80584359
+DC34,Vhembe,2021,fruitless,Fruitless and Wasteful Expenditure,150397
+DC34,Vhembe,2021,irregular,Irregular Expenditure,223587468
+DC34,Vhembe,2021,unauthorised,Unauthorised Expenditure,1430908837
+DC35,Capricorn,2021,fruitless,Fruitless and Wasteful Expenditure,700552
+DC35,Capricorn,2021,irregular,Irregular Expenditure,2476130
+DC35,Capricorn,2021,unauthorised,Unauthorised Expenditure,0
+DC36,Waterberg,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC36,Waterberg,2021,irregular,Irregular Expenditure,1465921
+DC36,Waterberg,2021,unauthorised,Unauthorised Expenditure,0
+DC37,Bojanala Platinum,2021,fruitless,Fruitless and Wasteful Expenditure,82404
+DC37,Bojanala Platinum,2021,irregular,Irregular Expenditure,38780866
+DC37,Bojanala Platinum,2021,unauthorised,Unauthorised Expenditure,7959757
+DC38,Ngaka Modiri Molema,2021,fruitless,Fruitless and Wasteful Expenditure,27219
+DC38,Ngaka Modiri Molema,2021,irregular,Irregular Expenditure,334315604
+DC38,Ngaka Modiri Molema,2021,unauthorised,Unauthorised Expenditure,157857532
+DC39,Dr Ruth Segomotsi Mompati,2021,fruitless,Fruitless and Wasteful Expenditure,709876
+DC39,Dr Ruth Segomotsi Mompati,2021,irregular,Irregular Expenditure,88772063
+DC39,Dr Ruth Segomotsi Mompati,2021,unauthorised,Unauthorised Expenditure,121803841
+DC4,Garden Route,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC4,Garden Route,2021,irregular,Irregular Expenditure,25154016
+DC4,Garden Route,2021,unauthorised,Unauthorised Expenditure,1367435
+DC40,Dr Kenneth Kaunda,2021,fruitless,Fruitless and Wasteful Expenditure,7374
+DC40,Dr Kenneth Kaunda,2021,irregular,Irregular Expenditure,26583024
+DC40,Dr Kenneth Kaunda,2021,unauthorised,Unauthorised Expenditure,0
+DC42,Sedibeng,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC42,Sedibeng,2021,irregular,Irregular Expenditure,38006980
+DC42,Sedibeng,2021,unauthorised,Unauthorised Expenditure,22238633
+DC43,Harry Gwala,2021,fruitless,Fruitless and Wasteful Expenditure,8198792
+DC43,Harry Gwala,2021,irregular,Irregular Expenditure,68556550
+DC43,Harry Gwala,2021,unauthorised,Unauthorised Expenditure,0
+DC44,Alfred Nzo,2021,fruitless,Fruitless and Wasteful Expenditure,3575
+DC44,Alfred Nzo,2021,irregular,Irregular Expenditure,84389697
+DC44,Alfred Nzo,2021,unauthorised,Unauthorised Expenditure,0
+DC45,John Taolo Gaetsewe,2021,fruitless,Fruitless and Wasteful Expenditure,4634
+DC45,John Taolo Gaetsewe,2021,irregular,Irregular Expenditure,230254
+DC45,John Taolo Gaetsewe,2021,unauthorised,Unauthorised Expenditure,12243216
+DC47,Sekhukhune,2021,fruitless,Fruitless and Wasteful Expenditure,344154
+DC47,Sekhukhune,2021,irregular,Irregular Expenditure,214237255
+DC47,Sekhukhune,2021,unauthorised,Unauthorised Expenditure,11782032
+DC48,West Rand,2021,fruitless,Fruitless and Wasteful Expenditure,11670
+DC48,West Rand,2021,irregular,Irregular Expenditure,49069708
+DC48,West Rand,2021,unauthorised,Unauthorised Expenditure,14985588
+DC5,Central Karoo,2021,fruitless,Fruitless and Wasteful Expenditure,696
+DC5,Central Karoo,2021,irregular,Irregular Expenditure,0
+DC5,Central Karoo,2021,unauthorised,Unauthorised Expenditure,69693
+DC6,Namakwa,2021,fruitless,Fruitless and Wasteful Expenditure,8305
+DC6,Namakwa,2021,irregular,Irregular Expenditure,132431
+DC6,Namakwa,2021,unauthorised,Unauthorised Expenditure,6294398
+DC7,Pixley Ka Seme (NC),2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC7,Pixley Ka Seme (NC),2021,irregular,Irregular Expenditure,3648697
+DC7,Pixley Ka Seme (NC),2021,unauthorised,Unauthorised Expenditure,0
+DC8,Z F Mgcawu,2021,fruitless,Fruitless and Wasteful Expenditure,522722
+DC8,Z F Mgcawu,2021,irregular,Irregular Expenditure,3040507
+DC8,Z F Mgcawu,2021,unauthorised,Unauthorised Expenditure,0
+DC9,Frances Baard,2021,fruitless,Fruitless and Wasteful Expenditure,0
+DC9,Frances Baard,2021,irregular,Irregular Expenditure,178797
+DC9,Frances Baard,2021,unauthorised,Unauthorised Expenditure,0
+EC101,Dr Beyers Naude,2021,fruitless,Fruitless and Wasteful Expenditure,17710990
+EC101,Dr Beyers Naude,2021,irregular,Irregular Expenditure,28812860
+EC101,Dr Beyers Naude,2021,unauthorised,Unauthorised Expenditure,44076203
+EC102,Blue Crane Route,2021,fruitless,Fruitless and Wasteful Expenditure,6279
+EC102,Blue Crane Route,2021,irregular,Irregular Expenditure,8220177
+EC102,Blue Crane Route,2021,unauthorised,Unauthorised Expenditure,0
+EC104,Makana,2021,fruitless,Fruitless and Wasteful Expenditure,3902979
+EC104,Makana,2021,irregular,Irregular Expenditure,25181348
+EC104,Makana,2021,unauthorised,Unauthorised Expenditure,100121099
+EC105,Ndlambe,2021,fruitless,Fruitless and Wasteful Expenditure,60601
+EC105,Ndlambe,2021,irregular,Irregular Expenditure,243801231
+EC105,Ndlambe,2021,unauthorised,Unauthorised Expenditure,33203257
+EC106,Sundays River Valley,2021,fruitless,Fruitless and Wasteful Expenditure,3281854
+EC106,Sundays River Valley,2021,irregular,Irregular Expenditure,29563458
+EC106,Sundays River Valley,2021,unauthorised,Unauthorised Expenditure,43714971
+EC108,Kouga,2021,fruitless,Fruitless and Wasteful Expenditure,37528
+EC108,Kouga,2021,irregular,Irregular Expenditure,3540531
+EC108,Kouga,2021,unauthorised,Unauthorised Expenditure,0
+EC109,Kou-Kamma,2021,fruitless,Fruitless and Wasteful Expenditure,0
+EC109,Kou-Kamma,2021,irregular,Irregular Expenditure,1174448
+EC109,Kou-Kamma,2021,unauthorised,Unauthorised Expenditure,10703019
+EC121,Mbhashe,2021,fruitless,Fruitless and Wasteful Expenditure,204783
+EC121,Mbhashe,2021,irregular,Irregular Expenditure,21120100
+EC121,Mbhashe,2021,unauthorised,Unauthorised Expenditure,0
+EC122,Mnquma,2021,fruitless,Fruitless and Wasteful Expenditure,3452
+EC122,Mnquma,2021,irregular,Irregular Expenditure,1450978
+EC122,Mnquma,2021,unauthorised,Unauthorised Expenditure,0
+EC123,Great Kei,2021,fruitless,Fruitless and Wasteful Expenditure,1078955
+EC123,Great Kei,2021,irregular,Irregular Expenditure,4191260
+EC123,Great Kei,2021,unauthorised,Unauthorised Expenditure,31718596
+EC124,Amahlathi,2021,fruitless,Fruitless and Wasteful Expenditure,3723612
+EC124,Amahlathi,2021,irregular,Irregular Expenditure,17733598
+EC124,Amahlathi,2021,unauthorised,Unauthorised Expenditure,49136737
+EC126,Ngqushwa,2021,fruitless,Fruitless and Wasteful Expenditure,16633
+EC126,Ngqushwa,2021,irregular,Irregular Expenditure,2501349
+EC126,Ngqushwa,2021,unauthorised,Unauthorised Expenditure,18394190
+EC129,Raymond Mhlaba,2021,fruitless,Fruitless and Wasteful Expenditure,24948887
+EC129,Raymond Mhlaba,2021,irregular,Irregular Expenditure,16563951
+EC129,Raymond Mhlaba,2021,unauthorised,Unauthorised Expenditure,0
+EC131,Inxuba Yethemba,2021,fruitless,Fruitless and Wasteful Expenditure,10195102
+EC131,Inxuba Yethemba,2021,irregular,Irregular Expenditure,80153314
+EC131,Inxuba Yethemba,2021,unauthorised,Unauthorised Expenditure,133180825
+EC135,Intsika Yethu,2021,fruitless,Fruitless and Wasteful Expenditure,9294439
+EC135,Intsika Yethu,2021,irregular,Irregular Expenditure,7423045
+EC135,Intsika Yethu,2021,unauthorised,Unauthorised Expenditure,21088632
+EC136,Emalahleni (EC),2021,fruitless,Fruitless and Wasteful Expenditure,6190852
+EC136,Emalahleni (EC),2021,irregular,Irregular Expenditure,5292688
+EC136,Emalahleni (EC),2021,unauthorised,Unauthorised Expenditure,10373137
+EC137,Dr. A.B. Xuma,2021,fruitless,Fruitless and Wasteful Expenditure,0
+EC137,Dr. A.B. Xuma,2021,irregular,Irregular Expenditure,7527050
+EC137,Dr. A.B. Xuma,2021,unauthorised,Unauthorised Expenditure,0
+EC138,Sakhisizwe,2021,fruitless,Fruitless and Wasteful Expenditure,301433
+EC138,Sakhisizwe,2021,irregular,Irregular Expenditure,13756975
+EC138,Sakhisizwe,2021,unauthorised,Unauthorised Expenditure,0
+EC139,Enoch Mgijima,2021,fruitless,Fruitless and Wasteful Expenditure,122467434
+EC139,Enoch Mgijima,2021,irregular,Irregular Expenditure,52650401
+EC139,Enoch Mgijima,2021,unauthorised,Unauthorised Expenditure,189203120
+EC141,Elundini,2021,fruitless,Fruitless and Wasteful Expenditure,7000
+EC141,Elundini,2021,irregular,Irregular Expenditure,12939705
+EC141,Elundini,2021,unauthorised,Unauthorised Expenditure,0
+EC142,Senqu,2021,fruitless,Fruitless and Wasteful Expenditure,54880
+EC142,Senqu,2021,irregular,Irregular Expenditure,498236
+EC142,Senqu,2021,unauthorised,Unauthorised Expenditure,0
+EC145,Walter Sisulu,2021,fruitless,Fruitless and Wasteful Expenditure,240932
+EC145,Walter Sisulu,2021,irregular,Irregular Expenditure,25250690
+EC145,Walter Sisulu,2021,unauthorised,Unauthorised Expenditure,116305926
+EC153,Ngquza Hills,2021,fruitless,Fruitless and Wasteful Expenditure,0
+EC153,Ngquza Hills,2021,irregular,Irregular Expenditure,1906549
+EC153,Ngquza Hills,2021,unauthorised,Unauthorised Expenditure,0
+EC154,Port St Johns,2021,fruitless,Fruitless and Wasteful Expenditure,762396
+EC154,Port St Johns,2021,irregular,Irregular Expenditure,41634944
+EC154,Port St Johns,2021,unauthorised,Unauthorised Expenditure,65520518
+EC155,Nyandeni,2021,fruitless,Fruitless and Wasteful Expenditure,2069789
+EC155,Nyandeni,2021,irregular,Irregular Expenditure,251301509
+EC155,Nyandeni,2021,unauthorised,Unauthorised Expenditure,0
+EC156,Mhlontlo,2021,fruitless,Fruitless and Wasteful Expenditure,119052
+EC156,Mhlontlo,2021,irregular,Irregular Expenditure,5914423
+EC156,Mhlontlo,2021,unauthorised,Unauthorised Expenditure,0
+EC157,King Sabata Dalindyebo,2021,fruitless,Fruitless and Wasteful Expenditure,19562870
+EC157,King Sabata Dalindyebo,2021,irregular,Irregular Expenditure,9284672
+EC157,King Sabata Dalindyebo,2021,unauthorised,Unauthorised Expenditure,3646060
+EC441,Matatiele,2021,fruitless,Fruitless and Wasteful Expenditure,901631
+EC441,Matatiele,2021,irregular,Irregular Expenditure,15127717
+EC441,Matatiele,2021,unauthorised,Unauthorised Expenditure,69601485
+EC442,Umzimvubu,2021,fruitless,Fruitless and Wasteful Expenditure,61343
+EC442,Umzimvubu,2021,irregular,Irregular Expenditure,0
+EC442,Umzimvubu,2021,unauthorised,Unauthorised Expenditure,0
+EC443,Winnie Madikizela-Mandela,2021,fruitless,Fruitless and Wasteful Expenditure,1473
+EC443,Winnie Madikizela-Mandela,2021,irregular,Irregular Expenditure,1590000
+EC443,Winnie Madikizela-Mandela,2021,unauthorised,Unauthorised Expenditure,0
+EC444,Ntabankulu,2021,fruitless,Fruitless and Wasteful Expenditure,23828974
+EC444,Ntabankulu,2021,irregular,Irregular Expenditure,15362118
+EC444,Ntabankulu,2021,unauthorised,Unauthorised Expenditure,0
+EKU,City of Ekurhuleni,2021,fruitless,Fruitless and Wasteful Expenditure,641430
+EKU,City of Ekurhuleni,2021,irregular,Irregular Expenditure,226029141
+EKU,City of Ekurhuleni,2021,unauthorised,Unauthorised Expenditure,0
+ETH,eThekwini,2021,fruitless,Fruitless and Wasteful Expenditure,9573000
+ETH,eThekwini,2021,irregular,Irregular Expenditure,770324000
+ETH,eThekwini,2021,unauthorised,Unauthorised Expenditure,0
+FS161,Letsemeng,2021,fruitless,Fruitless and Wasteful Expenditure,8785108
+FS161,Letsemeng,2021,irregular,Irregular Expenditure,164094118
+FS161,Letsemeng,2021,unauthorised,Unauthorised Expenditure,177058547
+FS162,Kopanong,2021,fruitless,Fruitless and Wasteful Expenditure,0
+FS162,Kopanong,2021,irregular,Irregular Expenditure,0
+FS162,Kopanong,2021,unauthorised,Unauthorised Expenditure,0
+FS163,Mohokare,2021,fruitless,Fruitless and Wasteful Expenditure,11203586
+FS163,Mohokare,2021,irregular,Irregular Expenditure,24803506
+FS163,Mohokare,2021,unauthorised,Unauthorised Expenditure,53672874
+FS181,Masilonyana,2021,fruitless,Fruitless and Wasteful Expenditure,0
+FS181,Masilonyana,2021,irregular,Irregular Expenditure,0
+FS181,Masilonyana,2021,unauthorised,Unauthorised Expenditure,0
+FS182,Tokologo,2021,fruitless,Fruitless and Wasteful Expenditure,0
+FS182,Tokologo,2021,irregular,Irregular Expenditure,0
+FS182,Tokologo,2021,unauthorised,Unauthorised Expenditure,0
+FS183,Tswelopele,2021,fruitless,Fruitless and Wasteful Expenditure,24039
+FS183,Tswelopele,2021,irregular,Irregular Expenditure,25279466
+FS183,Tswelopele,2021,unauthorised,Unauthorised Expenditure,1387000
+FS184,Matjhabeng,2021,fruitless,Fruitless and Wasteful Expenditure,105472288
+FS184,Matjhabeng,2021,irregular,Irregular Expenditure,453550791
+FS184,Matjhabeng,2021,unauthorised,Unauthorised Expenditure,1274087422
+FS185,Nala,2021,fruitless,Fruitless and Wasteful Expenditure,650675
+FS185,Nala,2021,irregular,Irregular Expenditure,93894314
+FS185,Nala,2021,unauthorised,Unauthorised Expenditure,168667767
+FS191,Setsoto,2021,fruitless,Fruitless and Wasteful Expenditure,2504899
+FS191,Setsoto,2021,irregular,Irregular Expenditure,93216995
+FS191,Setsoto,2021,unauthorised,Unauthorised Expenditure,319561516
+FS192,Dihlabeng,2021,fruitless,Fruitless and Wasteful Expenditure,21174242
+FS192,Dihlabeng,2021,irregular,Irregular Expenditure,151323677
+FS192,Dihlabeng,2021,unauthorised,Unauthorised Expenditure,255555816
+FS193,Nketoana,2021,fruitless,Fruitless and Wasteful Expenditure,0
+FS193,Nketoana,2021,irregular,Irregular Expenditure,0
+FS193,Nketoana,2021,unauthorised,Unauthorised Expenditure,0
+FS194,Maluti-a-Phofung,2021,fruitless,Fruitless and Wasteful Expenditure,128540091
+FS194,Maluti-a-Phofung,2021,irregular,Irregular Expenditure,29908838
+FS194,Maluti-a-Phofung,2021,unauthorised,Unauthorised Expenditure,168798650
+FS195,Phumelela,2021,fruitless,Fruitless and Wasteful Expenditure,11168708
+FS195,Phumelela,2021,irregular,Irregular Expenditure,8471110
+FS195,Phumelela,2021,unauthorised,Unauthorised Expenditure,95611689
+FS196,Mantsopa,2021,fruitless,Fruitless and Wasteful Expenditure,5499916
+FS196,Mantsopa,2021,irregular,Irregular Expenditure,0
+FS196,Mantsopa,2021,unauthorised,Unauthorised Expenditure,182819770
+FS201,Moqhaka,2021,fruitless,Fruitless and Wasteful Expenditure,5386711
+FS201,Moqhaka,2021,irregular,Irregular Expenditure,140623380
+FS201,Moqhaka,2021,unauthorised,Unauthorised Expenditure,76693867
+FS203,Ngwathe,2021,fruitless,Fruitless and Wasteful Expenditure,30573142
+FS203,Ngwathe,2021,irregular,Irregular Expenditure,0
+FS203,Ngwathe,2021,unauthorised,Unauthorised Expenditure,99115148
+FS204,Metsimaholo,2021,fruitless,Fruitless and Wasteful Expenditure,3594516
+FS204,Metsimaholo,2021,irregular,Irregular Expenditure,70724402
+FS204,Metsimaholo,2021,unauthorised,Unauthorised Expenditure,16372664
+FS205,Mafube,2021,fruitless,Fruitless and Wasteful Expenditure,0
+FS205,Mafube,2021,irregular,Irregular Expenditure,0
+FS205,Mafube,2021,unauthorised,Unauthorised Expenditure,0
+GT421,Emfuleni,2021,fruitless,Fruitless and Wasteful Expenditure,399626377
+GT421,Emfuleni,2021,irregular,Irregular Expenditure,80089622
+GT421,Emfuleni,2021,unauthorised,Unauthorised Expenditure,1152484854
+GT422,Midvaal,2021,fruitless,Fruitless and Wasteful Expenditure,4298751
+GT422,Midvaal,2021,irregular,Irregular Expenditure,5461600
+GT422,Midvaal,2021,unauthorised,Unauthorised Expenditure,0
+GT423,Lesedi,2021,fruitless,Fruitless and Wasteful Expenditure,39564
+GT423,Lesedi,2021,irregular,Irregular Expenditure,14481206
+GT423,Lesedi,2021,unauthorised,Unauthorised Expenditure,22369422
+GT481,Mogale City,2021,fruitless,Fruitless and Wasteful Expenditure,22940652
+GT481,Mogale City,2021,irregular,Irregular Expenditure,84644079
+GT481,Mogale City,2021,unauthorised,Unauthorised Expenditure,0
+GT484,Merafong City,2021,fruitless,Fruitless and Wasteful Expenditure,46119165
+GT484,Merafong City,2021,irregular,Irregular Expenditure,33893638
+GT484,Merafong City,2021,unauthorised,Unauthorised Expenditure,0
+GT485,Rand West City,2021,fruitless,Fruitless and Wasteful Expenditure,59726643
+GT485,Rand West City,2021,irregular,Irregular Expenditure,164128326
+GT485,Rand West City,2021,unauthorised,Unauthorised Expenditure,202072243
+JHB,City of Johannesburg,2021,fruitless,Fruitless and Wasteful Expenditure,11380000
+JHB,City of Johannesburg,2021,irregular,Irregular Expenditure,1118009000
+JHB,City of Johannesburg,2021,unauthorised,Unauthorised Expenditure,1003250000
+KZN212,Umdoni,2021,fruitless,Fruitless and Wasteful Expenditure,15396807
+KZN212,Umdoni,2021,irregular,Irregular Expenditure,91640629
+KZN212,Umdoni,2021,unauthorised,Unauthorised Expenditure,16930064
+KZN213,Umzumbe,2021,fruitless,Fruitless and Wasteful Expenditure,11729
+KZN213,Umzumbe,2021,irregular,Irregular Expenditure,60778479
+KZN213,Umzumbe,2021,unauthorised,Unauthorised Expenditure,0
+KZN214,uMuziwabantu,2021,fruitless,Fruitless and Wasteful Expenditure,87847
+KZN214,uMuziwabantu,2021,irregular,Irregular Expenditure,26391122
+KZN214,uMuziwabantu,2021,unauthorised,Unauthorised Expenditure,9000
+KZN216,Ray Nkonyeni,2021,fruitless,Fruitless and Wasteful Expenditure,171467
+KZN216,Ray Nkonyeni,2021,irregular,Irregular Expenditure,31850292
+KZN216,Ray Nkonyeni,2021,unauthorised,Unauthorised Expenditure,0
+KZN221,uMshwathi,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN221,uMshwathi,2021,irregular,Irregular Expenditure,124900
+KZN221,uMshwathi,2021,unauthorised,Unauthorised Expenditure,77090800
+KZN222,uMngeni,2021,fruitless,Fruitless and Wasteful Expenditure,646535
+KZN222,uMngeni,2021,irregular,Irregular Expenditure,21965833
+KZN222,uMngeni,2021,unauthorised,Unauthorised Expenditure,86057073
+KZN223,Mpofana,2021,fruitless,Fruitless and Wasteful Expenditure,635760
+KZN223,Mpofana,2021,irregular,Irregular Expenditure,50781958
+KZN223,Mpofana,2021,unauthorised,Unauthorised Expenditure,51943526
+KZN224,Impendle,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN224,Impendle,2021,irregular,Irregular Expenditure,3985261
+KZN224,Impendle,2021,unauthorised,Unauthorised Expenditure,15962209
+KZN225,Msunduzi,2021,fruitless,Fruitless and Wasteful Expenditure,9219285
+KZN225,Msunduzi,2021,irregular,Irregular Expenditure,50096103
+KZN225,Msunduzi,2021,unauthorised,Unauthorised Expenditure,920571748
+KZN226,Mkhambathini,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN226,Mkhambathini,2021,irregular,Irregular Expenditure,441012
+KZN226,Mkhambathini,2021,unauthorised,Unauthorised Expenditure,4701195
+KZN227,Richmond,2021,fruitless,Fruitless and Wasteful Expenditure,464868
+KZN227,Richmond,2021,irregular,Irregular Expenditure,22583824
+KZN227,Richmond,2021,unauthorised,Unauthorised Expenditure,6731230
+KZN235,Okhahlamba,2021,fruitless,Fruitless and Wasteful Expenditure,46308
+KZN235,Okhahlamba,2021,irregular,Irregular Expenditure,3638879
+KZN235,Okhahlamba,2021,unauthorised,Unauthorised Expenditure,0
+KZN237,Inkosi Langalibalele,2021,fruitless,Fruitless and Wasteful Expenditure,965498
+KZN237,Inkosi Langalibalele,2021,irregular,Irregular Expenditure,34881808
+KZN237,Inkosi Langalibalele,2021,unauthorised,Unauthorised Expenditure,33944499
+KZN238,Alfred Duma,2021,fruitless,Fruitless and Wasteful Expenditure,514876
+KZN238,Alfred Duma,2021,irregular,Irregular Expenditure,51744
+KZN238,Alfred Duma,2021,unauthorised,Unauthorised Expenditure,2026081
+KZN241,Endumeni,2021,fruitless,Fruitless and Wasteful Expenditure,1505239
+KZN241,Endumeni,2021,irregular,Irregular Expenditure,9864208
+KZN241,Endumeni,2021,unauthorised,Unauthorised Expenditure,32220268
+KZN242,Nquthu,2021,fruitless,Fruitless and Wasteful Expenditure,33035
+KZN242,Nquthu,2021,irregular,Irregular Expenditure,217750735
+KZN242,Nquthu,2021,unauthorised,Unauthorised Expenditure,0
+KZN244,Msinga,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN244,Msinga,2021,irregular,Irregular Expenditure,808266
+KZN244,Msinga,2021,unauthorised,Unauthorised Expenditure,24711092
+KZN245,Umvoti,2021,fruitless,Fruitless and Wasteful Expenditure,194690
+KZN245,Umvoti,2021,irregular,Irregular Expenditure,34124626
+KZN245,Umvoti,2021,unauthorised,Unauthorised Expenditure,26590020
+KZN252,Newcastle,2021,fruitless,Fruitless and Wasteful Expenditure,4361163
+KZN252,Newcastle,2021,irregular,Irregular Expenditure,31645210
+KZN252,Newcastle,2021,unauthorised,Unauthorised Expenditure,0
+KZN253,Emadlangeni,2021,fruitless,Fruitless and Wasteful Expenditure,116167
+KZN253,Emadlangeni,2021,irregular,Irregular Expenditure,29801585
+KZN253,Emadlangeni,2021,unauthorised,Unauthorised Expenditure,11437157
+KZN254,Dannhauser,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN254,Dannhauser,2021,irregular,Irregular Expenditure,21639030
+KZN254,Dannhauser,2021,unauthorised,Unauthorised Expenditure,0
+KZN261,eDumbe,2021,fruitless,Fruitless and Wasteful Expenditure,37730
+KZN261,eDumbe,2021,irregular,Irregular Expenditure,16054509
+KZN261,eDumbe,2021,unauthorised,Unauthorised Expenditure,32398772
+KZN262,uPhongolo,2021,fruitless,Fruitless and Wasteful Expenditure,2529
+KZN262,uPhongolo,2021,irregular,Irregular Expenditure,404337
+KZN262,uPhongolo,2021,unauthorised,Unauthorised Expenditure,21186752
+KZN263,Abaqulusi,2021,fruitless,Fruitless and Wasteful Expenditure,8061007
+KZN263,Abaqulusi,2021,irregular,Irregular Expenditure,80744070
+KZN263,Abaqulusi,2021,unauthorised,Unauthorised Expenditure,129439476
+KZN265,Nongoma,2021,fruitless,Fruitless and Wasteful Expenditure,161703
+KZN265,Nongoma,2021,irregular,Irregular Expenditure,18058160
+KZN265,Nongoma,2021,unauthorised,Unauthorised Expenditure,26546551
+KZN266,Ulundi,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN266,Ulundi,2021,irregular,Irregular Expenditure,44187041
+KZN266,Ulundi,2021,unauthorised,Unauthorised Expenditure,0
+KZN271,Umhlabuyalingana,2021,fruitless,Fruitless and Wasteful Expenditure,979402
+KZN271,Umhlabuyalingana,2021,irregular,Irregular Expenditure,25101864
+KZN271,Umhlabuyalingana,2021,unauthorised,Unauthorised Expenditure,0
+KZN272,Jozini,2021,fruitless,Fruitless and Wasteful Expenditure,77739
+KZN272,Jozini,2021,irregular,Irregular Expenditure,40460908
+KZN272,Jozini,2021,unauthorised,Unauthorised Expenditure,24286001
+KZN275,Mtubatuba,2021,fruitless,Fruitless and Wasteful Expenditure,2968670
+KZN275,Mtubatuba,2021,irregular,Irregular Expenditure,179490313
+KZN275,Mtubatuba,2021,unauthorised,Unauthorised Expenditure,34402664
+KZN276,Hlabisa Big Five,2021,fruitless,Fruitless and Wasteful Expenditure,318024
+KZN276,Hlabisa Big Five,2021,irregular,Irregular Expenditure,8836899
+KZN276,Hlabisa Big Five,2021,unauthorised,Unauthorised Expenditure,44748909
+KZN281,Mfolozi,2021,fruitless,Fruitless and Wasteful Expenditure,15290
+KZN281,Mfolozi,2021,irregular,Irregular Expenditure,45001629
+KZN281,Mfolozi,2021,unauthorised,Unauthorised Expenditure,9687889
+KZN282,uMhlathuze,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN282,uMhlathuze,2021,irregular,Irregular Expenditure,12480823
+KZN282,uMhlathuze,2021,unauthorised,Unauthorised Expenditure,0
+KZN284,uMlalazi,2021,fruitless,Fruitless and Wasteful Expenditure,1275
+KZN284,uMlalazi,2021,irregular,Irregular Expenditure,35138579
+KZN284,uMlalazi,2021,unauthorised,Unauthorised Expenditure,0
+KZN285,Mthonjaneni,2021,fruitless,Fruitless and Wasteful Expenditure,201340
+KZN285,Mthonjaneni,2021,irregular,Irregular Expenditure,24345817
+KZN285,Mthonjaneni,2021,unauthorised,Unauthorised Expenditure,0
+KZN286,Nkandla,2021,fruitless,Fruitless and Wasteful Expenditure,151098
+KZN286,Nkandla,2021,irregular,Irregular Expenditure,9397515
+KZN286,Nkandla,2021,unauthorised,Unauthorised Expenditure,0
+KZN291,Mandeni,2021,fruitless,Fruitless and Wasteful Expenditure,166750
+KZN291,Mandeni,2021,irregular,Irregular Expenditure,10342370
+KZN291,Mandeni,2021,unauthorised,Unauthorised Expenditure,0
+KZN292,KwaDukuza,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN292,KwaDukuza,2021,irregular,Irregular Expenditure,68753850
+KZN292,KwaDukuza,2021,unauthorised,Unauthorised Expenditure,17082697
+KZN293,Ndwedwe,2021,fruitless,Fruitless and Wasteful Expenditure,2896
+KZN293,Ndwedwe,2021,irregular,Irregular Expenditure,0
+KZN293,Ndwedwe,2021,unauthorised,Unauthorised Expenditure,0
+KZN294,Maphumulo,2021,fruitless,Fruitless and Wasteful Expenditure,39888
+KZN294,Maphumulo,2021,irregular,Irregular Expenditure,159540
+KZN294,Maphumulo,2021,unauthorised,Unauthorised Expenditure,0
+KZN433,Greater Kokstad,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN433,Greater Kokstad,2021,irregular,Irregular Expenditure,49713355
+KZN433,Greater Kokstad,2021,unauthorised,Unauthorised Expenditure,0
+KZN434,Ubuhlebezwe,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN434,Ubuhlebezwe,2021,irregular,Irregular Expenditure,66535431
+KZN434,Ubuhlebezwe,2021,unauthorised,Unauthorised Expenditure,0
+KZN435,Umzimkhulu,2021,fruitless,Fruitless and Wasteful Expenditure,0
+KZN435,Umzimkhulu,2021,irregular,Irregular Expenditure,21385537
+KZN435,Umzimkhulu,2021,unauthorised,Unauthorised Expenditure,0
+KZN436,Dr Nkosazana Dlamini Zuma,2021,fruitless,Fruitless and Wasteful Expenditure,93652
+KZN436,Dr Nkosazana Dlamini Zuma,2021,irregular,Irregular Expenditure,11032923
+KZN436,Dr Nkosazana Dlamini Zuma,2021,unauthorised,Unauthorised Expenditure,0
+LIM331,Greater Giyani,2021,fruitless,Fruitless and Wasteful Expenditure,86005
+LIM331,Greater Giyani,2021,irregular,Irregular Expenditure,10596671
+LIM331,Greater Giyani,2021,unauthorised,Unauthorised Expenditure,51282044
+LIM332,Greater Letaba,2021,fruitless,Fruitless and Wasteful Expenditure,1243158
+LIM332,Greater Letaba,2021,irregular,Irregular Expenditure,33872398
+LIM332,Greater Letaba,2021,unauthorised,Unauthorised Expenditure,19585070
+LIM333,Greater Tzaneen,2021,fruitless,Fruitless and Wasteful Expenditure,6166778
+LIM333,Greater Tzaneen,2021,irregular,Irregular Expenditure,29565272
+LIM333,Greater Tzaneen,2021,unauthorised,Unauthorised Expenditure,15083719
+LIM334,Ba-Phalaborwa,2021,fruitless,Fruitless and Wasteful Expenditure,86673
+LIM334,Ba-Phalaborwa,2021,irregular,Irregular Expenditure,28553529
+LIM334,Ba-Phalaborwa,2021,unauthorised,Unauthorised Expenditure,27120364
+LIM335,Maruleng,2021,fruitless,Fruitless and Wasteful Expenditure,192757
+LIM335,Maruleng,2021,irregular,Irregular Expenditure,52330301
+LIM335,Maruleng,2021,unauthorised,Unauthorised Expenditure,20914389
+LIM341,Musina,2021,fruitless,Fruitless and Wasteful Expenditure,61569
+LIM341,Musina,2021,irregular,Irregular Expenditure,23182105
+LIM341,Musina,2021,unauthorised,Unauthorised Expenditure,0
+LIM343,Thulamela,2021,fruitless,Fruitless and Wasteful Expenditure,17173
+LIM343,Thulamela,2021,irregular,Irregular Expenditure,186218
+LIM343,Thulamela,2021,unauthorised,Unauthorised Expenditure,0
+LIM344,Makhado,2021,fruitless,Fruitless and Wasteful Expenditure,880
+LIM344,Makhado,2021,irregular,Irregular Expenditure,0
+LIM344,Makhado,2021,unauthorised,Unauthorised Expenditure,0
+LIM345,Collins Chabane,2021,fruitless,Fruitless and Wasteful Expenditure,4605
+LIM345,Collins Chabane,2021,irregular,Irregular Expenditure,82341432
+LIM345,Collins Chabane,2021,unauthorised,Unauthorised Expenditure,45453428
+LIM351,Blouberg,2021,fruitless,Fruitless and Wasteful Expenditure,0
+LIM351,Blouberg,2021,irregular,Irregular Expenditure,30286364
+LIM351,Blouberg,2021,unauthorised,Unauthorised Expenditure,0
+LIM353,Molemole,2021,fruitless,Fruitless and Wasteful Expenditure,28477
+LIM353,Molemole,2021,irregular,Irregular Expenditure,2303412
+LIM353,Molemole,2021,unauthorised,Unauthorised Expenditure,0
+LIM354,Polokwane,2021,fruitless,Fruitless and Wasteful Expenditure,17708
+LIM354,Polokwane,2021,irregular,Irregular Expenditure,72934604
+LIM354,Polokwane,2021,unauthorised,Unauthorised Expenditure,614252938
+LIM355,Lepelle-Nkumpi,2021,fruitless,Fruitless and Wasteful Expenditure,243505
+LIM355,Lepelle-Nkumpi,2021,irregular,Irregular Expenditure,10253198
+LIM355,Lepelle-Nkumpi,2021,unauthorised,Unauthorised Expenditure,257157237
+LIM361,Thabazimbi,2021,fruitless,Fruitless and Wasteful Expenditure,12047583
+LIM361,Thabazimbi,2021,irregular,Irregular Expenditure,60101966
+LIM361,Thabazimbi,2021,unauthorised,Unauthorised Expenditure,40651314
+LIM362,Lephalale,2021,fruitless,Fruitless and Wasteful Expenditure,12295
+LIM362,Lephalale,2021,irregular,Irregular Expenditure,23083715
+LIM362,Lephalale,2021,unauthorised,Unauthorised Expenditure,0
+LIM366,Bela Bela,2021,fruitless,Fruitless and Wasteful Expenditure,834003
+LIM366,Bela Bela,2021,irregular,Irregular Expenditure,14448304
+LIM366,Bela Bela,2021,unauthorised,Unauthorised Expenditure,70995531
+LIM367,Mogalakwena,2021,fruitless,Fruitless and Wasteful Expenditure,3589209
+LIM367,Mogalakwena,2021,irregular,Irregular Expenditure,242399102
+LIM367,Mogalakwena,2021,unauthorised,Unauthorised Expenditure,583819945
+LIM368,Modimolle-Mookgopong,2021,fruitless,Fruitless and Wasteful Expenditure,30720491
+LIM368,Modimolle-Mookgopong,2021,irregular,Irregular Expenditure,33042442
+LIM368,Modimolle-Mookgopong,2021,unauthorised,Unauthorised Expenditure,131631710
+LIM471,Ephraim Mogale,2021,fruitless,Fruitless and Wasteful Expenditure,2942611
+LIM471,Ephraim Mogale,2021,irregular,Irregular Expenditure,7977419
+LIM471,Ephraim Mogale,2021,unauthorised,Unauthorised Expenditure,0
+LIM472,Elias Motsoaledi,2021,fruitless,Fruitless and Wasteful Expenditure,2184677
+LIM472,Elias Motsoaledi,2021,irregular,Irregular Expenditure,77379399
+LIM472,Elias Motsoaledi,2021,unauthorised,Unauthorised Expenditure,40945923
+LIM473,Makhuduthamaga,2021,fruitless,Fruitless and Wasteful Expenditure,0
+LIM473,Makhuduthamaga,2021,irregular,Irregular Expenditure,62417624
+LIM473,Makhuduthamaga,2021,unauthorised,Unauthorised Expenditure,38086857
+LIM476,Tubatse Fetakgomo,2021,fruitless,Fruitless and Wasteful Expenditure,5668684
+LIM476,Tubatse Fetakgomo,2021,irregular,Irregular Expenditure,139763961
+LIM476,Tubatse Fetakgomo,2021,unauthorised,Unauthorised Expenditure,94300362
+MAN,Mangaung,2021,fruitless,Fruitless and Wasteful Expenditure,19694896
+MAN,Mangaung,2021,irregular,Irregular Expenditure,190844856
+MAN,Mangaung,2021,unauthorised,Unauthorised Expenditure,570024938
+MP301,Albert Luthuli,2021,fruitless,Fruitless and Wasteful Expenditure,122284
+MP301,Albert Luthuli,2021,irregular,Irregular Expenditure,16189484
+MP301,Albert Luthuli,2021,unauthorised,Unauthorised Expenditure,9859613
+MP302,Msukaligwa,2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP302,Msukaligwa,2021,irregular,Irregular Expenditure,174767721
+MP302,Msukaligwa,2021,unauthorised,Unauthorised Expenditure,83459000
+MP303,Mkhondo,2021,fruitless,Fruitless and Wasteful Expenditure,8454831
+MP303,Mkhondo,2021,irregular,Irregular Expenditure,12886791
+MP303,Mkhondo,2021,unauthorised,Unauthorised Expenditure,158365190
+MP304,Pixley Ka Seme (MP),2021,fruitless,Fruitless and Wasteful Expenditure,23378
+MP304,Pixley Ka Seme (MP),2021,irregular,Irregular Expenditure,10177404
+MP304,Pixley Ka Seme (MP),2021,unauthorised,Unauthorised Expenditure,0
+MP305,Lekwa,2021,fruitless,Fruitless and Wasteful Expenditure,11518648
+MP305,Lekwa,2021,irregular,Irregular Expenditure,40751096
+MP305,Lekwa,2021,unauthorised,Unauthorised Expenditure,233469317
+MP306,Dipaleseng,2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP306,Dipaleseng,2021,irregular,Irregular Expenditure,3317530
+MP306,Dipaleseng,2021,unauthorised,Unauthorised Expenditure,26087611
+MP307,Govan Mbeki,2021,fruitless,Fruitless and Wasteful Expenditure,85106221
+MP307,Govan Mbeki,2021,irregular,Irregular Expenditure,79610378
+MP307,Govan Mbeki,2021,unauthorised,Unauthorised Expenditure,815585332
+MP311,Victor Khanye,2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP311,Victor Khanye,2021,irregular,Irregular Expenditure,121930026
+MP311,Victor Khanye,2021,unauthorised,Unauthorised Expenditure,60489490
+MP312,Emalahleni (MP),2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP312,Emalahleni (MP),2021,irregular,Irregular Expenditure,198888018
+MP312,Emalahleni (MP),2021,unauthorised,Unauthorised Expenditure,444726152
+MP313,Steve Tshwete,2021,fruitless,Fruitless and Wasteful Expenditure,70520
+MP313,Steve Tshwete,2021,irregular,Irregular Expenditure,0
+MP313,Steve Tshwete,2021,unauthorised,Unauthorised Expenditure,107014335
+MP314,Emakhazeni,2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP314,Emakhazeni,2021,irregular,Irregular Expenditure,22344475
+MP314,Emakhazeni,2021,unauthorised,Unauthorised Expenditure,294760
+MP315,Thembisile Hani,2021,fruitless,Fruitless and Wasteful Expenditure,39413
+MP315,Thembisile Hani,2021,irregular,Irregular Expenditure,20466469
+MP315,Thembisile Hani,2021,unauthorised,Unauthorised Expenditure,0
+MP316,Dr J.S. Moroka,2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP316,Dr J.S. Moroka,2021,irregular,Irregular Expenditure,49465313
+MP316,Dr J.S. Moroka,2021,unauthorised,Unauthorised Expenditure,0
+MP321,Thaba Chweu,2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP321,Thaba Chweu,2021,irregular,Irregular Expenditure,205364591
+MP321,Thaba Chweu,2021,unauthorised,Unauthorised Expenditure,130702206
+MP324,Nkomazi,2021,fruitless,Fruitless and Wasteful Expenditure,18221
+MP324,Nkomazi,2021,irregular,Irregular Expenditure,38330542
+MP324,Nkomazi,2021,unauthorised,Unauthorised Expenditure,33953290
+MP325,Bushbuckridge,2021,fruitless,Fruitless and Wasteful Expenditure,31560
+MP325,Bushbuckridge,2021,irregular,Irregular Expenditure,211536197
+MP325,Bushbuckridge,2021,unauthorised,Unauthorised Expenditure,0
+MP326,City of Mbombela,2021,fruitless,Fruitless and Wasteful Expenditure,0
+MP326,City of Mbombela,2021,irregular,Irregular Expenditure,50788204
+MP326,City of Mbombela,2021,unauthorised,Unauthorised Expenditure,486319531
+NC061,Richtersveld,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC061,Richtersveld,2021,irregular,Irregular Expenditure,8239883
+NC061,Richtersveld,2021,unauthorised,Unauthorised Expenditure,20050050
+NC062,Nama Khoi,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC062,Nama Khoi,2021,irregular,Irregular Expenditure,3954351
+NC062,Nama Khoi,2021,unauthorised,Unauthorised Expenditure,16661252
+NC064,Kamiesberg,2021,fruitless,Fruitless and Wasteful Expenditure,751299
+NC064,Kamiesberg,2021,irregular,Irregular Expenditure,31681868
+NC064,Kamiesberg,2021,unauthorised,Unauthorised Expenditure,29307899
+NC065,Hantam,2021,fruitless,Fruitless and Wasteful Expenditure,419
+NC065,Hantam,2021,irregular,Irregular Expenditure,45734634
+NC065,Hantam,2021,unauthorised,Unauthorised Expenditure,2248077
+NC066,Karoo Hoogland,2021,fruitless,Fruitless and Wasteful Expenditure,1100
+NC066,Karoo Hoogland,2021,irregular,Irregular Expenditure,8557831
+NC066,Karoo Hoogland,2021,unauthorised,Unauthorised Expenditure,10838507
+NC067,Khai-Ma,2021,fruitless,Fruitless and Wasteful Expenditure,799513
+NC067,Khai-Ma,2021,irregular,Irregular Expenditure,2075762
+NC067,Khai-Ma,2021,unauthorised,Unauthorised Expenditure,5519149
+NC071,Ubuntu,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC071,Ubuntu,2021,irregular,Irregular Expenditure,23715832
+NC071,Ubuntu,2021,unauthorised,Unauthorised Expenditure,40046760
+NC072,Umsobomvu,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC072,Umsobomvu,2021,irregular,Irregular Expenditure,10716472
+NC072,Umsobomvu,2021,unauthorised,Unauthorised Expenditure,27818818
+NC073,Emthanjeni,2021,fruitless,Fruitless and Wasteful Expenditure,89617
+NC073,Emthanjeni,2021,irregular,Irregular Expenditure,9628128
+NC073,Emthanjeni,2021,unauthorised,Unauthorised Expenditure,87873319
+NC074,Kareeberg,2021,fruitless,Fruitless and Wasteful Expenditure,1496651
+NC074,Kareeberg,2021,irregular,Irregular Expenditure,2343735
+NC074,Kareeberg,2021,unauthorised,Unauthorised Expenditure,0
+NC075,Renosterberg,2021,fruitless,Fruitless and Wasteful Expenditure,1869765
+NC075,Renosterberg,2021,irregular,Irregular Expenditure,0
+NC075,Renosterberg,2021,unauthorised,Unauthorised Expenditure,0
+NC076,Thembelihle,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC076,Thembelihle,2021,irregular,Irregular Expenditure,4022962
+NC076,Thembelihle,2021,unauthorised,Unauthorised Expenditure,10625564
+NC077,Siyathemba,2021,fruitless,Fruitless and Wasteful Expenditure,112459
+NC077,Siyathemba,2021,irregular,Irregular Expenditure,69697668
+NC077,Siyathemba,2021,unauthorised,Unauthorised Expenditure,67157509
+NC078,Siyancuma,2021,fruitless,Fruitless and Wasteful Expenditure,1714097
+NC078,Siyancuma,2021,irregular,Irregular Expenditure,13173019
+NC078,Siyancuma,2021,unauthorised,Unauthorised Expenditure,54068110
+NC082,!Kai! Garib,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC082,!Kai! Garib,2021,irregular,Irregular Expenditure,0
+NC082,!Kai! Garib,2021,unauthorised,Unauthorised Expenditure,0
+NC084,!Kheis,2021,fruitless,Fruitless and Wasteful Expenditure,2725930
+NC084,!Kheis,2021,irregular,Irregular Expenditure,33785427
+NC084,!Kheis,2021,unauthorised,Unauthorised Expenditure,0
+NC085,Tsantsabane,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC085,Tsantsabane,2021,irregular,Irregular Expenditure,0
+NC085,Tsantsabane,2021,unauthorised,Unauthorised Expenditure,44750238
+NC086,Kgatelopele,2021,fruitless,Fruitless and Wasteful Expenditure,597864
+NC086,Kgatelopele,2021,irregular,Irregular Expenditure,2293497
+NC086,Kgatelopele,2021,unauthorised,Unauthorised Expenditure,0
+NC087,Dawid Kruiper,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC087,Dawid Kruiper,2021,irregular,Irregular Expenditure,2931993
+NC087,Dawid Kruiper,2021,unauthorised,Unauthorised Expenditure,51817779
+NC091,Sol Plaatje,2021,fruitless,Fruitless and Wasteful Expenditure,13693326
+NC091,Sol Plaatje,2021,irregular,Irregular Expenditure,116568677
+NC091,Sol Plaatje,2021,unauthorised,Unauthorised Expenditure,0
+NC092,Dikgatlong,2021,fruitless,Fruitless and Wasteful Expenditure,393506
+NC092,Dikgatlong,2021,irregular,Irregular Expenditure,1060509
+NC092,Dikgatlong,2021,unauthorised,Unauthorised Expenditure,103093132
+NC093,Magareng,2021,fruitless,Fruitless and Wasteful Expenditure,852562
+NC093,Magareng,2021,irregular,Irregular Expenditure,26104553
+NC093,Magareng,2021,unauthorised,Unauthorised Expenditure,57943576
+NC094,Phokwane,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC094,Phokwane,2021,irregular,Irregular Expenditure,0
+NC094,Phokwane,2021,unauthorised,Unauthorised Expenditure,0
+NC451,Joe Morolong,2021,fruitless,Fruitless and Wasteful Expenditure,106582
+NC451,Joe Morolong,2021,irregular,Irregular Expenditure,4065059
+NC451,Joe Morolong,2021,unauthorised,Unauthorised Expenditure,249407
+NC452,Ga-Segonyana,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NC452,Ga-Segonyana,2021,irregular,Irregular Expenditure,18864640
+NC452,Ga-Segonyana,2021,unauthorised,Unauthorised Expenditure,67810223
+NC453,Gamagara,2021,fruitless,Fruitless and Wasteful Expenditure,2400000
+NC453,Gamagara,2021,irregular,Irregular Expenditure,673691381
+NC453,Gamagara,2021,unauthorised,Unauthorised Expenditure,49796070
+NMA,Nelson Mandela Bay,2021,fruitless,Fruitless and Wasteful Expenditure,999816
+NMA,Nelson Mandela Bay,2021,irregular,Irregular Expenditure,1389805210
+NMA,Nelson Mandela Bay,2021,unauthorised,Unauthorised Expenditure,847087284
+NW371,Moretele,2021,fruitless,Fruitless and Wasteful Expenditure,941314
+NW371,Moretele,2021,irregular,Irregular Expenditure,47191775
+NW371,Moretele,2021,unauthorised,Unauthorised Expenditure,72597000
+NW372,Madibeng,2021,fruitless,Fruitless and Wasteful Expenditure,22679006
+NW372,Madibeng,2021,irregular,Irregular Expenditure,529040614
+NW372,Madibeng,2021,unauthorised,Unauthorised Expenditure,0
+NW373,Rustenburg,2021,fruitless,Fruitless and Wasteful Expenditure,4478000
+NW373,Rustenburg,2021,irregular,Irregular Expenditure,614594000
+NW373,Rustenburg,2021,unauthorised,Unauthorised Expenditure,0
+NW374,Kgetlengrivier,2021,fruitless,Fruitless and Wasteful Expenditure,0
+NW374,Kgetlengrivier,2021,irregular,Irregular Expenditure,100247417
+NW374,Kgetlengrivier,2021,unauthorised,Unauthorised Expenditure,126213876
+NW375,Moses Kotane,2021,fruitless,Fruitless and Wasteful Expenditure,101610737
+NW375,Moses Kotane,2021,irregular,Irregular Expenditure,231435794
+NW375,Moses Kotane,2021,unauthorised,Unauthorised Expenditure,133238930
+NW381,Ratlou,2021,fruitless,Fruitless and Wasteful Expenditure,69670
+NW381,Ratlou,2021,irregular,Irregular Expenditure,92830421
+NW381,Ratlou,2021,unauthorised,Unauthorised Expenditure,0
+NW382,Tswaing,2021,fruitless,Fruitless and Wasteful Expenditure,7044293
+NW382,Tswaing,2021,irregular,Irregular Expenditure,115428031
+NW382,Tswaing,2021,unauthorised,Unauthorised Expenditure,116486966
+NW383,Mafikeng,2021,fruitless,Fruitless and Wasteful Expenditure,559695
+NW383,Mafikeng,2021,irregular,Irregular Expenditure,209770249
+NW383,Mafikeng,2021,unauthorised,Unauthorised Expenditure,120803265
+NW384,Ditsobotla,2021,fruitless,Fruitless and Wasteful Expenditure,19148746
+NW384,Ditsobotla,2021,irregular,Irregular Expenditure,195711038
+NW384,Ditsobotla,2021,unauthorised,Unauthorised Expenditure,61725999
+NW385,Ramotshere Moiloa,2021,fruitless,Fruitless and Wasteful Expenditure,2383099
+NW385,Ramotshere Moiloa,2021,irregular,Irregular Expenditure,149467424
+NW385,Ramotshere Moiloa,2021,unauthorised,Unauthorised Expenditure,980250
+NW392,Naledi (NW),2021,fruitless,Fruitless and Wasteful Expenditure,19093803
+NW392,Naledi (NW),2021,irregular,Irregular Expenditure,7504311
+NW392,Naledi (NW),2021,unauthorised,Unauthorised Expenditure,10129849
+NW393,Mamusa,2021,fruitless,Fruitless and Wasteful Expenditure,15431815
+NW393,Mamusa,2021,irregular,Irregular Expenditure,54101526
+NW393,Mamusa,2021,unauthorised,Unauthorised Expenditure,104164221
+NW394,Greater Taung,2021,fruitless,Fruitless and Wasteful Expenditure,70981
+NW394,Greater Taung,2021,irregular,Irregular Expenditure,1456873
+NW394,Greater Taung,2021,unauthorised,Unauthorised Expenditure,29929109
+NW396,Lekwa-Teemane,2021,fruitless,Fruitless and Wasteful Expenditure,3156934
+NW396,Lekwa-Teemane,2021,irregular,Irregular Expenditure,78557939
+NW396,Lekwa-Teemane,2021,unauthorised,Unauthorised Expenditure,220112453
+NW397,Kagisano-Molopo,2021,fruitless,Fruitless and Wasteful Expenditure,24368
+NW397,Kagisano-Molopo,2021,irregular,Irregular Expenditure,113463617
+NW397,Kagisano-Molopo,2021,unauthorised,Unauthorised Expenditure,35157052
+NW403,City of Matlosana,2021,fruitless,Fruitless and Wasteful Expenditure,274306
+NW403,City of Matlosana,2021,irregular,Irregular Expenditure,489028859
+NW403,City of Matlosana,2021,unauthorised,Unauthorised Expenditure,642450889
+NW404,Maquassi Hills,2021,fruitless,Fruitless and Wasteful Expenditure,2698371
+NW404,Maquassi Hills,2021,irregular,Irregular Expenditure,109910379
+NW404,Maquassi Hills,2021,unauthorised,Unauthorised Expenditure,32995777
+NW405,J B Marks,2021,fruitless,Fruitless and Wasteful Expenditure,616620
+NW405,J B Marks,2021,irregular,Irregular Expenditure,364709765
+NW405,J B Marks,2021,unauthorised,Unauthorised Expenditure,542310
+TSH,City of Tshwane,2021,fruitless,Fruitless and Wasteful Expenditure,221559102
+TSH,City of Tshwane,2021,irregular,Irregular Expenditure,2702803906
+TSH,City of Tshwane,2021,unauthorised,Unauthorised Expenditure,566041443
+WC011,Matzikama,2021,fruitless,Fruitless and Wasteful Expenditure,1808376
+WC011,Matzikama,2021,irregular,Irregular Expenditure,30019307
+WC011,Matzikama,2021,unauthorised,Unauthorised Expenditure,6000343
+WC012,Cederberg,2021,fruitless,Fruitless and Wasteful Expenditure,3511254
+WC012,Cederberg,2021,irregular,Irregular Expenditure,12793616
+WC012,Cederberg,2021,unauthorised,Unauthorised Expenditure,1749171
+WC013,Bergrivier,2021,fruitless,Fruitless and Wasteful Expenditure,297
+WC013,Bergrivier,2021,irregular,Irregular Expenditure,94750
+WC013,Bergrivier,2021,unauthorised,Unauthorised Expenditure,764459
+WC014,Saldanha Bay,2021,fruitless,Fruitless and Wasteful Expenditure,25356
+WC014,Saldanha Bay,2021,irregular,Irregular Expenditure,427960
+WC014,Saldanha Bay,2021,unauthorised,Unauthorised Expenditure,0
+WC015,Swartland,2021,fruitless,Fruitless and Wasteful Expenditure,10767
+WC015,Swartland,2021,irregular,Irregular Expenditure,15407005
+WC015,Swartland,2021,unauthorised,Unauthorised Expenditure,13258009
+WC022,Witzenberg,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC022,Witzenberg,2021,irregular,Irregular Expenditure,0
+WC022,Witzenberg,2021,unauthorised,Unauthorised Expenditure,1935841
+WC023,Drakenstein,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC023,Drakenstein,2021,irregular,Irregular Expenditure,3113057
+WC023,Drakenstein,2021,unauthorised,Unauthorised Expenditure,0
+WC024,Stellenbosch,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC024,Stellenbosch,2021,irregular,Irregular Expenditure,89820222
+WC024,Stellenbosch,2021,unauthorised,Unauthorised Expenditure,0
+WC025,Breede Valley,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC025,Breede Valley,2021,irregular,Irregular Expenditure,0
+WC025,Breede Valley,2021,unauthorised,Unauthorised Expenditure,0
+WC026,Langeberg,2021,fruitless,Fruitless and Wasteful Expenditure,77599
+WC026,Langeberg,2021,irregular,Irregular Expenditure,1096656
+WC026,Langeberg,2021,unauthorised,Unauthorised Expenditure,4707818
+WC031,Theewaterskloof,2021,fruitless,Fruitless and Wasteful Expenditure,1850
+WC031,Theewaterskloof,2021,irregular,Irregular Expenditure,4477211
+WC031,Theewaterskloof,2021,unauthorised,Unauthorised Expenditure,0
+WC032,Overstrand,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC032,Overstrand,2021,irregular,Irregular Expenditure,1450910
+WC032,Overstrand,2021,unauthorised,Unauthorised Expenditure,14253808
+WC033,Cape Agulhas,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC033,Cape Agulhas,2021,irregular,Irregular Expenditure,4150289
+WC033,Cape Agulhas,2021,unauthorised,Unauthorised Expenditure,7635586
+WC034,Swellendam,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC034,Swellendam,2021,irregular,Irregular Expenditure,19836140
+WC034,Swellendam,2021,unauthorised,Unauthorised Expenditure,3844185
+WC041,Kannaland,2021,fruitless,Fruitless and Wasteful Expenditure,3441178
+WC041,Kannaland,2021,irregular,Irregular Expenditure,21459507
+WC041,Kannaland,2021,unauthorised,Unauthorised Expenditure,6699423
+WC042,Hessequa,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC042,Hessequa,2021,irregular,Irregular Expenditure,121276
+WC042,Hessequa,2021,unauthorised,Unauthorised Expenditure,2631310
+WC043,Mossel Bay,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC043,Mossel Bay,2021,irregular,Irregular Expenditure,43117726
+WC043,Mossel Bay,2021,unauthorised,Unauthorised Expenditure,14868611
+WC044,George,2021,fruitless,Fruitless and Wasteful Expenditure,21703
+WC044,George,2021,irregular,Irregular Expenditure,5532526
+WC044,George,2021,unauthorised,Unauthorised Expenditure,84133628
+WC045,Oudtshoorn,2021,fruitless,Fruitless and Wasteful Expenditure,0
+WC045,Oudtshoorn,2021,irregular,Irregular Expenditure,24614634
+WC045,Oudtshoorn,2021,unauthorised,Unauthorised Expenditure,0
+WC047,Bitou,2021,fruitless,Fruitless and Wasteful Expenditure,102577
+WC047,Bitou,2021,irregular,Irregular Expenditure,44080048
+WC047,Bitou,2021,unauthorised,Unauthorised Expenditure,35293700
+WC048,Knysna,2021,fruitless,Fruitless and Wasteful Expenditure,32340
+WC048,Knysna,2021,irregular,Irregular Expenditure,67700043
+WC048,Knysna,2021,unauthorised,Unauthorised Expenditure,9922302
+WC051,Laingsburg,2021,fruitless,Fruitless and Wasteful Expenditure,728865
+WC051,Laingsburg,2021,irregular,Irregular Expenditure,13860538
+WC051,Laingsburg,2021,unauthorised,Unauthorised Expenditure,10299062
+WC052,Prince Albert,2021,fruitless,Fruitless and Wasteful Expenditure,93716
+WC052,Prince Albert,2021,irregular,Irregular Expenditure,842695
+WC052,Prince Albert,2021,unauthorised,Unauthorised Expenditure,1079611
+WC053,Beaufort West,2021,fruitless,Fruitless and Wasteful Expenditure,2981
+WC053,Beaufort West,2021,irregular,Irregular Expenditure,23272530
+WC053,Beaufort West,2021,unauthorised,Unauthorised Expenditure,103898922

@@ -1,0 +1,118 @@
+province,toilet_type,count
+Western Cape,Flush toilet connected to a public sewerage system,6787188
+Western Cape,Flush toilet connected to a septic tank or conservancy tank,140715
+Western Cape,Pour bucket-flush toilet connected to a septic tank (or septic pit),27088
+Western Cape,Chemical toilet,21707
+Western Cape,Pit latrine/toilet with ventilation pipe,17896
+Western Cape,Pit latrine/toilet without ventilation pipe,14222
+Western Cape,Bucket toilet,135689
+Western Cape,Portable flush toilet,48918
+Western Cape,Composting toilet,0
+Western Cape,Urine diversion dry toilet,1020
+Western Cape,Open defecation (e.g. no facilities; field; bush),25052
+Western Cape,Other toilet facility,11363
+Western Cape,Unspecified,0
+Eastern Cape,Flush toilet connected to a public sewerage system,2551058
+Eastern Cape,Flush toilet connected to a septic tank or conservancy tank,164990
+Eastern Cape,Pour bucket-flush toilet connected to a septic tank (or septic pit),27556
+Eastern Cape,Chemical toilet,4739
+Eastern Cape,Pit latrine/toilet with ventilation pipe,3116678
+Eastern Cape,Pit latrine/toilet without ventilation pipe,439092
+Eastern Cape,Bucket toilet,21459
+Eastern Cape,Portable flush toilet,0
+Eastern Cape,Composting toilet,20377
+Eastern Cape,Urine diversion dry toilet,2425
+Eastern Cape,Open defecation (e.g. no facilities; field; bush),163785
+Eastern Cape,Other toilet facility,26896
+Eastern Cape,Unspecified,0
+Northern Cape,Flush toilet connected to a public sewerage system,792717
+Northern Cape,Flush toilet connected to a septic tank or conservancy tank,142703
+Northern Cape,Pour bucket-flush toilet connected to a septic tank (or septic pit),7366
+Northern Cape,Chemical toilet,813
+Northern Cape,Pit latrine/toilet with ventilation pipe,167904
+Northern Cape,Pit latrine/toilet without ventilation pipe,118132
+Northern Cape,Bucket toilet,3157
+Northern Cape,Portable flush toilet,0
+Northern Cape,Composting toilet,0
+Northern Cape,Urine diversion dry toilet,0
+Northern Cape,Open defecation (e.g. no facilities; field; bush),52480
+Northern Cape,Other toilet facility,8772
+Northern Cape,Unspecified,0
+Free State,Flush toilet connected to a public sewerage system,2284739
+Free State,Flush toilet connected to a septic tank or conservancy tank,83388
+Free State,Pour bucket-flush toilet connected to a septic tank (or septic pit),8063
+Free State,Chemical toilet,334
+Free State,Pit latrine/toilet with ventilation pipe,257185
+Free State,Pit latrine/toilet without ventilation pipe,284792
+Free State,Bucket toilet,43079
+Free State,Portable flush toilet,0
+Free State,Composting toilet,1036
+Free State,Urine diversion dry toilet,0
+Free State,Open defecation (e.g. no facilities; field; bush),23771
+Free State,Other toilet facility,14052
+Free State,Unspecified,0
+KwaZulu-Natal,Flush toilet connected to a public sewerage system,4369742
+KwaZulu-Natal,Flush toilet connected to a septic tank or conservancy tank,404518
+KwaZulu-Natal,Pour bucket-flush toilet connected to a septic tank (or septic pit),79110
+KwaZulu-Natal,Chemical toilet,199383
+KwaZulu-Natal,Pit latrine/toilet with ventilation pipe,4765041
+KwaZulu-Natal,Pit latrine/toilet without ventilation pipe,1870284
+KwaZulu-Natal,Bucket toilet,10904
+KwaZulu-Natal,Portable flush toilet,8890
+KwaZulu-Natal,Composting toilet,15381
+KwaZulu-Natal,Urine diversion dry toilet,0
+KwaZulu-Natal,Open defecation (e.g. no facilities; field; bush),40290
+KwaZulu-Natal,Other toilet facility,58497
+KwaZulu-Natal,Unspecified,0
+North West,Flush toilet connected to a public sewerage system,1665409
+North West,Flush toilet connected to a septic tank or conservancy tank,446939
+North West,Pour bucket-flush toilet connected to a septic tank (or septic pit),12219
+North West,Chemical toilet,0
+North West,Pit latrine/toilet with ventilation pipe,985967
+North West,Pit latrine/toilet without ventilation pipe,1052625
+North West,Bucket toilet,0
+North West,Portable flush toilet,0
+North West,Composting toilet,0
+North West,Urine diversion dry toilet,0
+North West,Open defecation (e.g. no facilities; field; bush),40746
+North West,Other toilet facility,2502
+North West,Unspecified,0
+Gauteng,Flush toilet connected to a public sewerage system,14223165
+Gauteng,Flush toilet connected to a septic tank or conservancy tank,213256
+Gauteng,Pour bucket-flush toilet connected to a septic tank (or septic pit),115537
+Gauteng,Chemical toilet,213369
+Gauteng,Pit latrine/toilet with ventilation pipe,396513
+Gauteng,Pit latrine/toilet without ventilation pipe,854546
+Gauteng,Bucket toilet,168949
+Gauteng,Portable flush toilet,17418
+Gauteng,Composting toilet,6094
+Gauteng,Urine diversion dry toilet,13485
+Gauteng,Open defecation (e.g. no facilities; field; bush),9523
+Gauteng,Other toilet facility,28002
+Gauteng,Unspecified,6739
+Mpumalanga,Flush toilet connected to a public sewerage system,1785811
+Mpumalanga,Flush toilet connected to a septic tank or conservancy tank,252367
+Mpumalanga,Pour bucket-flush toilet connected to a septic tank (or septic pit),10649
+Mpumalanga,Chemical toilet,6247
+Mpumalanga,Pit latrine/toilet with ventilation pipe,1081994
+Mpumalanga,Pit latrine/toilet without ventilation pipe,1667570
+Mpumalanga,Bucket toilet,0
+Mpumalanga,Portable flush toilet,0
+Mpumalanga,Composting toilet,0
+Mpumalanga,Urine diversion dry toilet,0
+Mpumalanga,Open defecation (e.g. no facilities; field; bush),33311
+Mpumalanga,Other toilet facility,19262
+Mpumalanga,Unspecified,0
+Limpopo,Flush toilet connected to a public sewerage system,1198858
+Limpopo,Flush toilet connected to a septic tank or conservancy tank,480247
+Limpopo,Pour bucket-flush toilet connected to a septic tank (or septic pit),13103
+Limpopo,Chemical toilet,2751
+Limpopo,Pit latrine/toilet with ventilation pipe,2091126
+Limpopo,Pit latrine/toilet without ventilation pipe,2283140
+Limpopo,Bucket toilet,8648
+Limpopo,Portable flush toilet,3801
+Limpopo,Composting toilet,5786
+Limpopo,Urine diversion dry toilet,0
+Limpopo,Open defecation (e.g. no facilities; field; bush),57783
+Limpopo,Other toilet facility,22278
+Limpopo,Unspecified,0

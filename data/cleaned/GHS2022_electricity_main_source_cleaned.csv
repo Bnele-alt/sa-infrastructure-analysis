@@ -1,0 +1,73 @@
+province,electricity_source,count
+Western Cape,In-house pre-paid meter,6231196
+Western Cape,In-house conventional meter,637688
+Western Cape,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),203778
+Western Cape,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),50850
+Western Cape,Generator,0
+Western Cape,Home solar panels,0
+Western Cape,Other source of main electricity supply,0
+Western Cape,Not applicable,107346
+Northern Cape,In-house pre-paid meter,1112574
+Northern Cape,In-house conventional meter,93670
+Northern Cape,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),14533
+Northern Cape,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),3805
+Northern Cape,Generator,0
+Northern Cape,Home solar panels,17707
+Northern Cape,Other source of main electricity supply,391
+Northern Cape,Not applicable,51363
+Eastern Cape,In-house pre-paid meter,5985118
+Eastern Cape,In-house conventional meter,174580
+Eastern Cape,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),33898
+Eastern Cape,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),43821
+Eastern Cape,Generator,0
+Eastern Cape,Home solar panels,36237
+Eastern Cape,Other source of main electricity supply,19095
+Eastern Cape,Not applicable,246306
+Free State,In-house pre-paid meter,2597738
+Free State,In-house conventional meter,193650
+Free State,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),56187
+Free State,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),24357
+Free State,Generator,0
+Free State,Home solar panels,5820
+Free State,Other source of main electricity supply,0
+Free State,Not applicable,122686
+KwaZulu-Natal,In-house pre-paid meter,9787743
+KwaZulu-Natal,In-house conventional meter,1495750
+KwaZulu-Natal,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),144552
+KwaZulu-Natal,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),203056
+KwaZulu-Natal,Generator,0
+KwaZulu-Natal,Home solar panels,0
+KwaZulu-Natal,Other source of main electricity supply,3520
+KwaZulu-Natal,Not applicable,187421
+North West,In-house pre-paid meter,3619334
+North West,In-house conventional meter,213831
+North West,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),131593
+North West,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),23103
+North West,Generator,0
+North West,Home solar panels,0
+North West,Other source of main electricity supply,0
+North West,Not applicable,218547
+Gauteng,In-house pre-paid meter,10354754
+Gauteng,In-house conventional meter,3382890
+Gauteng,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),950027
+Gauteng,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),568824
+Gauteng,Generator,4257
+Gauteng,Home solar panels,8991
+Gauteng,Other source of main electricity supply,93572
+Gauteng,Not applicable,903281
+Mpumalanga,In-house pre-paid meter,4349379
+Mpumalanga,In-house conventional meter,177709
+Mpumalanga,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),65591
+Mpumalanga,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),11303
+Mpumalanga,Generator,0
+Mpumalanga,Home solar panels,0
+Mpumalanga,Other source of main electricity supply,7532
+Mpumalanga,Not applicable,245695
+Limpopo,In-house pre-paid meter,5836354
+Limpopo,In-house conventional meter,157772
+Limpopo,Connected to other source which the household pays for (e.g. connected to neighbour's line and paying neighbours),47498
+Limpopo,Connected to other source which the household does not pay for (e.g. connected to neighbour's line and not paying),7333
+Limpopo,Generator,0
+Limpopo,Home solar panels,0
+Limpopo,Other source of main electricity supply,24575
+Limpopo,Not applicable,93987

@@ -1,0 +1,55 @@
+province,water_distance,count
+Western Cape,201â€“500 metres,51089
+Western Cape,501 metres â€“ 1 kilometre,5543
+Western Cape,More than 1 kilometre,0
+Western Cape,DO NOT KNOW,0
+Western Cape,Not applicable,6689801
+Western Cape,Less than 200 metres,484425
+Eastern Cape,201â€“500 metres,859948
+Eastern Cape,501 metres â€“ 1 kilometre,217495
+Eastern Cape,More than 1 kilometre,113953
+Eastern Cape,DO NOT KNOW,614
+Eastern Cape,Not applicable,4316767
+Eastern Cape,Less than 200 metres,1030278
+Northern Cape,201â€“500 metres,56935
+Northern Cape,501 metres â€“ 1 kilometre,12565
+Northern Cape,More than 1 kilometre,11921
+Northern Cape,DO NOT KNOW,0
+Northern Cape,Not applicable,1062354
+Northern Cape,Less than 200 metres,150269
+Free State,201â€“500 metres,37988
+Free State,501 metres â€“ 1 kilometre,12714
+Free State,More than 1 kilometre,31604
+Free State,DO NOT KNOW,0
+Free State,Not applicable,2709370
+Free State,Less than 200 metres,208762
+KwaZulu-Natal,201â€“500 metres,1641165
+KwaZulu-Natal,501 metres â€“ 1 kilometre,625226
+KwaZulu-Natal,More than 1 kilometre,278998
+KwaZulu-Natal,DO NOT KNOW,35112
+KwaZulu-Natal,Not applicable,7973397
+KwaZulu-Natal,Less than 200 metres,1268143
+North West,201â€“500 metres,379630
+North West,501 metres â€“ 1 kilometre,63135
+North West,More than 1 kilometre,2612
+North West,DO NOT KNOW,14641
+North West,Not applicable,2954751
+North West,Less than 200 metres,791639
+Gauteng,201â€“500 metres,87973
+Gauteng,501 metres â€“ 1 kilometre,0
+Gauteng,More than 1 kilometre,3756
+Gauteng,DO NOT KNOW,1665
+Gauteng,Not applicable,15495793
+Gauteng,Less than 200 metres,677408
+Mpumalanga,201â€“500 metres,309735
+Mpumalanga,501 metres â€“ 1 kilometre,82988
+Mpumalanga,More than 1 kilometre,60576
+Mpumalanga,DO NOT KNOW,43278
+Mpumalanga,Not applicable,3770648
+Mpumalanga,Less than 200 metres,589985
+Limpopo,201â€“500 metres,924781
+Limpopo,501 metres â€“ 1 kilometre,211581
+Limpopo,More than 1 kilometre,66428
+Limpopo,DO NOT KNOW,14733
+Limpopo,Not applicable,3569893
+Limpopo,Less than 200 metres,1380103

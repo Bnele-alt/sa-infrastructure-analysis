@@ -1,0 +1,109 @@
+province,dwelling_type,count
+Western Cape,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,4935688
+Western Cape,Traditional dwelling/hut/structure made of traditional materials,5777
+Western Cape,Flat or apartment in a block of flats,468225
+Western Cape,Cluster house in complex,50758
+Western Cape,Town house (semi-detached house in complex),107186
+Western Cape,Semi-detached house,685538
+Western Cape,Dwelling/house/flat/room in backyard,30788
+Western Cape,Informal dwelling/shack in backyard,216517
+Western Cape,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,661311
+Western Cape,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,64760
+Western Cape,Caravan/tent,0
+Western Cape,Other dwelling type,4310
+Eastern Cape,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,4419176
+Eastern Cape,Traditional dwelling/hut/structure made of traditional materials,1536983
+Eastern Cape,Flat or apartment in a block of flats,67447
+Eastern Cape,Cluster house in complex,7491
+Eastern Cape,Town house (semi-detached house in complex),10736
+Eastern Cape,Semi-detached house,196248
+Eastern Cape,Dwelling/house/flat/room in backyard,16308
+Eastern Cape,Informal dwelling/shack in backyard,40467
+Eastern Cape,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,168792
+Eastern Cape,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,55033
+Eastern Cape,Caravan/tent,7814
+Eastern Cape,Other dwelling type,12558
+Northern Cape,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,1016396
+Northern Cape,Traditional dwelling/hut/structure made of traditional materials,4012
+Northern Cape,Flat or apartment in a block of flats,18012
+Northern Cape,Cluster house in complex,637
+Northern Cape,Town house (semi-detached house in complex),4483
+Northern Cape,Semi-detached house,47780
+Northern Cape,Dwelling/house/flat/room in backyard,0
+Northern Cape,Informal dwelling/shack in backyard,8986
+Northern Cape,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,181750
+Northern Cape,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,6617
+Northern Cape,Caravan/tent,0
+Northern Cape,Other dwelling type,5369
+Free State,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,2363855
+Free State,Traditional dwelling/hut/structure made of traditional materials,59103
+Free State,Flat or apartment in a block of flats,58853
+Free State,Cluster house in complex,3919
+Free State,Town house (semi-detached house in complex),37291
+Free State,Semi-detached house,6262
+Free State,Dwelling/house/flat/room in backyard,34954
+Free State,Informal dwelling/shack in backyard,60609
+Free State,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,336577
+Free State,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,38282
+Free State,Caravan/tent,733
+Free State,Other dwelling type,0
+KwaZulu-Natal,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,8929216
+KwaZulu-Natal,Traditional dwelling/hut/structure made of traditional materials,1713946
+KwaZulu-Natal,Flat or apartment in a block of flats,229884
+KwaZulu-Natal,Cluster house in complex,44452
+KwaZulu-Natal,Town house (semi-detached house in complex),21473
+KwaZulu-Natal,Semi-detached house,301036
+KwaZulu-Natal,Dwelling/house/flat/room in backyard,57981
+KwaZulu-Natal,Informal dwelling/shack in backyard,74377
+KwaZulu-Natal,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,216227
+KwaZulu-Natal,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,231862
+KwaZulu-Natal,Caravan/tent,659
+KwaZulu-Natal,Other dwelling type,928
+North West,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,3441169
+North West,Traditional dwelling/hut/structure made of traditional materials,10868
+North West,Flat or apartment in a block of flats,50261
+North West,Cluster house in complex,3773
+North West,Town house (semi-detached house in complex),8813
+North West,Semi-detached house,0
+North West,Dwelling/house/flat/room in backyard,58266
+North West,Informal dwelling/shack in backyard,54751
+North West,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,502901
+North West,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,75607
+North West,Caravan/tent,0
+North West,Other dwelling type,0
+Gauteng,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,10343234
+Gauteng,Traditional dwelling/hut/structure made of traditional materials,9504
+Gauteng,Flat or apartment in a block of flats,914825
+Gauteng,Cluster house in complex,259278
+Gauteng,Town house (semi-detached house in complex),362893
+Gauteng,Semi-detached house,66466
+Gauteng,Dwelling/house/flat/room in backyard,1516615
+Gauteng,Informal dwelling/shack in backyard,684466
+Gauteng,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,1490470
+Gauteng,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,570081
+Gauteng,Caravan/tent,3900
+Gauteng,Other dwelling type,44863
+Mpumalanga,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,4358436
+Mpumalanga,Traditional dwelling/hut/structure made of traditional materials,74106
+Mpumalanga,Flat or apartment in a block of flats,60880
+Mpumalanga,Cluster house in complex,4537
+Mpumalanga,Town house (semi-detached house in complex),20569
+Mpumalanga,Semi-detached house,1486
+Mpumalanga,Dwelling/house/flat/room in backyard,18691
+Mpumalanga,Informal dwelling/shack in backyard,9458
+Mpumalanga,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,250859
+Mpumalanga,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,55666
+Mpumalanga,Caravan/tent,0
+Mpumalanga,Other dwelling type,2522
+Limpopo,Dwelling/house or brick/concrete block structure on a separate stand or yard or on farm,5819219
+Limpopo,Traditional dwelling/hut/structure made of traditional materials,25198
+Limpopo,Flat or apartment in a block of flats,23641
+Limpopo,Cluster house in complex,0
+Limpopo,Town house (semi-detached house in complex),14012
+Limpopo,Semi-detached house,10898
+Limpopo,Dwelling/house/flat/room in backyard,52924
+Limpopo,Informal dwelling/shack in backyard,50031
+Limpopo,Informal dwelling/shack not in backyard; e.g. in an informal/squatter settlement or on farm,57913
+Limpopo,Room/flatlet on a property or a larger dwelling servants' quarters/granny flat,113684
+Limpopo,Caravan/tent,0
+Limpopo,Other dwelling type,0

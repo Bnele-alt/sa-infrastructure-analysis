@@ -1,0 +1,206 @@
+muni_code,muni_name,province,muni_category,avg_taxable_income,governance_score,spending_ratio,uifw_pct_budget,cluster,cluster_name
+BUF,Buffalo City,Eastern Cape,A,295774.0,3.0,0.855,8.86,1,Operational — Moderate governance
+CPT,Cape Town,Western Cape,A,337051.0,4.0,0.621,5.38,1,Operational — Moderate governance
+EC101,Dr Beyers Naude,Eastern Cape,B,212953.0,3.0,0.61,60.85,1,Operational — Moderate governance
+EC102,Blue Crane Route,Eastern Cape,B,214942.0,4.0,0.785,7.72,1,Operational — Moderate governance
+EC104,Makana,Eastern Cape,B,281019.0,1.0,0.435,112.2,0,At Risk — High irregular expenditure
+EC105,Ndlambe,Eastern Cape,B,235015.0,3.0,1.233,105.16,0,At Risk — High irregular expenditure
+EC106,Sundays River Valley,Eastern Cape,B,219758.0,1.0,28.995,156.18,3,Critical — Extreme budget breach
+EC108,Kouga,Eastern Cape,B,254479.0,4.0,0.807,1.5,1,Operational — Moderate governance
+EC109,Kou-Kamma,Eastern Cape,B,205961.0,4.0,0.741,24.26,1,Operational — Moderate governance
+EC121,Mbhashe,Eastern Cape,B,228866.0,4.0,1.12,12.26,1,Operational — Moderate governance
+EC122,Mnquma,Eastern Cape,B,270548.0,4.0,0.341,0.53,1,Operational — Moderate governance
+EC123,Great Kei,Eastern Cape,B,233480.0,4.0,0.86,114.66,0,At Risk — High irregular expenditure
+EC124,Amahlathi,Eastern Cape,B,229189.0,4.0,0.472,84.45,1,Operational — Moderate governance
+EC126,Ngqushwa,Eastern Cape,B,195909.0,3.0,0.827,32.7,1,Operational — Moderate governance
+EC129,Raymond Mhlaba,Eastern Cape,B,243164.0,3.0,0.507,43.13,1,Operational — Moderate governance
+EC131,Inxuba Yethemba,Eastern Cape,B,231133.0,4.0,1.378,200.0,0,At Risk — High irregular expenditure
+EC135,Intsika Yethu,Eastern Cape,B,245564.0,3.0,0.435,22.19,1,Operational — Moderate governance
+EC136,Emalahleni (EC),Eastern Cape,B,213519.0,3.0,1.091,30.31,1,Operational — Moderate governance
+EC138,Sakhisizwe,Eastern Cape,B,232854.0,3.0,0.485,28.1,1,Operational — Moderate governance
+EC139,Enoch Mgijima,Eastern Cape,B,276653.0,3.0,0.624,200.0,0,At Risk — High irregular expenditure
+EC141,Elundini,Eastern Cape,B,231749.0,5.0,0.604,8.27,1,Operational — Moderate governance
+EC142,Senqu,Eastern Cape,B,238458.0,5.0,0.24,0.28,1,Operational — Moderate governance
+EC145,Walter Sisulu,Eastern Cape,B,237872.0,1.0,0.089,200.0,0,At Risk — High irregular expenditure
+EC153,Ngquza Hills,Eastern Cape,B,222336.0,3.0,0.617,0.69,1,Operational — Moderate governance
+EC154,Port St Johns,Eastern Cape,B,249092.0,4.0,0.581,56.53,1,Operational — Moderate governance
+EC155,Nyandeni,Eastern Cape,B,235021.0,4.0,0.945,120.06,0,At Risk — High irregular expenditure
+EC156,Mhlontlo,Eastern Cape,B,236633.0,4.0,0.771,3.85,1,Operational — Moderate governance
+EC157,King Sabata Dalindyebo,Eastern Cape,B,286589.0,3.0,1.072,7.18,1,Operational — Moderate governance
+EC441,Matatiele,Eastern Cape,B,242783.0,4.0,0.683,34.6,1,Operational — Moderate governance
+EC442,Umzimvubu,Eastern Cape,B,244541.0,4.0,0.836,0.02,1,Operational — Moderate governance
+EC443,Winnie Madikizela-Mandela,Eastern Cape,B,234473.0,5.0,0.678,0.65,1,Operational — Moderate governance
+EC444,Ntabankulu,Eastern Cape,B,241716.0,4.0,0.569,40.73,1,Operational — Moderate governance
+EKU,City of Ekurhuleni,Gauteng,A,327518.0,5.0,0.934,2.31,1,Operational — Moderate governance
+ETH,eThekwini,KwaZulu-Natal,A,303080.0,4.0,0.745,6.93,1,Operational — Moderate governance
+FS161,Letsemeng,Free State,B,212639.0,3.0,0.139,195.78,0,At Risk — High irregular expenditure
+FS162,Kopanong,Free State,B,239757.0,0.0,0.08,0.0,2,Failing — No financial accountability
+FS163,Mohokare,Free State,B,200324.0,0.0,0.429,73.88,2,Failing — No financial accountability
+FS181,Masilonyana,Free State,B,206522.0,0.0,0.012,0.0,2,Failing — No financial accountability
+FS182,Tokologo,Free State,B,188450.0,0.0,0.445,0.0,2,Failing — No financial accountability
+FS183,Tswelopele,Free State,B,180134.0,4.0,0.575,41.28,1,Operational — Moderate governance
+FS184,Matjhabeng,Free State,B,303876.0,3.0,0.373,200.0,0,At Risk — High irregular expenditure
+FS185,Nala,Free State,B,229665.0,0.0,0.68,75.37,2,Failing — No financial accountability
+FS191,Setsoto,Free State,B,223568.0,3.0,0.488,124.91,0,At Risk — High irregular expenditure
+FS192,Dihlabeng,Free State,B,249021.0,3.0,0.397,200.0,0,At Risk — High irregular expenditure
+FS193,Nketoana,Free State,B,185393.0,0.0,0.408,0.0,2,Failing — No financial accountability
+FS194,Maluti-a-Phofung,Free State,B,253197.0,0.0,0.493,53.45,2,Failing — No financial accountability
+FS195,Phumelela,Free State,B,221516.0,4.0,0.691,109.5,0,At Risk — High irregular expenditure
+FS196,Mantsopa,Free State,B,232149.0,0.0,0.543,200.0,0,At Risk — High irregular expenditure
+FS201,Moqhaka,Free State,B,245962.0,3.0,0.662,117.56,0,At Risk — High irregular expenditure
+FS203,Ngwathe,Free State,B,234451.0,3.0,0.673,64.41,1,Operational — Moderate governance
+FS204,Metsimaholo,Free State,B,289871.0,3.0,0.183,28.39,1,Operational — Moderate governance
+FS205,Mafube,Free State,B,217719.0,0.0,0.386,0.0,2,Failing — No financial accountability
+GT421,Emfuleni,Gauteng,B,289711.0,4.0,0.549,137.85,0,At Risk — High irregular expenditure
+GT422,Midvaal,Gauteng,B,333158.0,5.0,0.894,1.87,1,Operational — Moderate governance
+GT423,Lesedi,Gauteng,B,302019.0,4.0,0.592,18.59,1,Operational — Moderate governance
+GT481,Mogale City,Gauteng,B,344334.0,4.0,0.957,10.57,1,Operational — Moderate governance
+GT484,Merafong City,Gauteng,B,308070.0,2.0,0.827,25.05,1,Operational — Moderate governance
+GT485,Rand West City,Gauteng,B,293349.0,3.0,0.317,81.06,1,Operational — Moderate governance
+JHB,City of Johannesburg,Gauteng,A,446739.0,4.0,0.769,15.13,1,Operational — Moderate governance
+KZN212,Umdoni,KwaZulu-Natal,B,250567.0,4.0,0.644,86.78,1,Operational — Moderate governance
+KZN213,Umzumbe,KwaZulu-Natal,B,255740.0,4.0,2.7,27.11,1,Operational — Moderate governance
+KZN214,uMuziwabantu,KwaZulu-Natal,B,258097.0,4.0,0.759,29.48,1,Operational — Moderate governance
+KZN216,Ray Nkonyeni,KwaZulu-Natal,B,256297.0,4.0,0.851,12.24,1,Operational — Moderate governance
+KZN221,uMshwathi,KwaZulu-Natal,B,276054.0,3.0,16.966,117.84,3,Critical — Extreme budget breach
+KZN222,uMngeni,KwaZulu-Natal,B,299181.0,3.0,1.025,100.22,0,At Risk — High irregular expenditure
+KZN223,Mpofana,KwaZulu-Natal,B,229856.0,3.0,0.285,200.0,0,At Risk — High irregular expenditure
+KZN225,Msunduzi,KwaZulu-Natal,B,306378.0,4.0,2.998,67.12,1,Operational — Moderate governance
+KZN226,Mkhambathini,KwaZulu-Natal,B,240741.0,4.0,0.908,5.95,1,Operational — Moderate governance
+KZN227,Richmond,KwaZulu-Natal,B,238642.0,4.0,0.935,47.28,1,Operational — Moderate governance
+KZN235,Okhahlamba,KwaZulu-Natal,B,241438.0,5.0,0.83,3.89,1,Operational — Moderate governance
+KZN237,Inkosi Langalibalele,KwaZulu-Natal,B,251536.0,1.0,0.255,35.64,2,Failing — No financial accountability
+KZN238,Alfred Duma,KwaZulu-Natal,B,264989.0,4.0,0.389,0.81,1,Operational — Moderate governance
+KZN241,Endumeni,KwaZulu-Natal,B,272486.0,3.0,0.652,88.83,0,At Risk — High irregular expenditure
+KZN242,Nquthu,KwaZulu-Natal,B,246899.0,1.0,0.668,105.96,2,Failing — No financial accountability
+KZN244,Msinga,KwaZulu-Natal,B,239206.0,4.0,0.604,23.71,1,Operational — Moderate governance
+KZN245,Umvoti,KwaZulu-Natal,B,262009.0,4.0,0.944,59.68,1,Operational — Moderate governance
+KZN252,Newcastle,KwaZulu-Natal,B,280934.0,4.0,0.827,6.56,1,Operational — Moderate governance
+KZN253,Emadlangeni,KwaZulu-Natal,B,235765.0,3.0,0.708,171.08,0,At Risk — High irregular expenditure
+KZN254,Dannhauser,KwaZulu-Natal,B,233161.0,3.0,0.808,16.53,1,Operational — Moderate governance
+KZN262,uPhongolo,KwaZulu-Natal,B,252006.0,4.0,0.542,21.93,1,Operational — Moderate governance
+KZN263,Abaqulusi,KwaZulu-Natal,B,270273.0,3.0,0.666,185.07,0,At Risk — High irregular expenditure
+KZN265,Nongoma,KwaZulu-Natal,B,235146.0,4.0,0.926,62.88,1,Operational — Moderate governance
+KZN266,Ulundi,KwaZulu-Natal,B,264355.0,4.0,0.803,41.25,1,Operational — Moderate governance
+KZN272,Jozini,KwaZulu-Natal,B,243262.0,4.0,1.06,81.64,1,Operational — Moderate governance
+KZN275,Mtubatuba,KwaZulu-Natal,B,243116.0,3.0,0.697,200.0,0,At Risk — High irregular expenditure
+KZN281,Mfolozi,KwaZulu-Natal,B,249129.0,4.0,0.69,63.46,1,Operational — Moderate governance
+KZN282,uMhlathuze,KwaZulu-Natal,B,319559.0,5.0,1.038,0.89,1,Operational — Moderate governance
+KZN284,uMlalazi,KwaZulu-Natal,B,273626.0,4.0,0.897,20.81,1,Operational — Moderate governance
+KZN285,Mthonjaneni,KwaZulu-Natal,B,242424.0,4.0,0.834,32.73,1,Operational — Moderate governance
+KZN292,KwaDukuza,KwaZulu-Natal,B,358166.0,4.0,0.715,22.54,1,Operational — Moderate governance
+KZN293,Ndwedwe,KwaZulu-Natal,B,231410.0,4.0,0.824,0.0,1,Operational — Moderate governance
+KZN294,Maphumulo,KwaZulu-Natal,B,234761.0,4.0,0.672,0.25,1,Operational — Moderate governance
+KZN433,Greater Kokstad,KwaZulu-Natal,B,264337.0,4.0,0.628,23.4,1,Operational — Moderate governance
+KZN434,Ubuhlebezwe,KwaZulu-Natal,B,251983.0,4.0,0.376,68.0,1,Operational — Moderate governance
+KZN435,Umzimkhulu,KwaZulu-Natal,B,255311.0,4.0,0.788,11.18,1,Operational — Moderate governance
+KZN436,Dr Nkosazana Dlamini Zuma,KwaZulu-Natal,B,247630.0,4.0,0.663,6.7,1,Operational — Moderate governance
+LIM331,Greater Giyani,Limpopo,B,288025.0,3.0,0.504,24.13,1,Operational — Moderate governance
+LIM332,Greater Letaba,Limpopo,B,285780.0,4.0,0.765,26.96,1,Operational — Moderate governance
+LIM333,Greater Tzaneen,Limpopo,B,298580.0,4.0,0.42,14.28,1,Operational — Moderate governance
+LIM334,Ba-Phalaborwa,Limpopo,B,371874.0,3.0,0.548,35.32,1,Operational — Moderate governance
+LIM335,Maruleng,Limpopo,B,282717.0,4.0,0.549,36.19,1,Operational — Moderate governance
+LIM341,Musina,Limpopo,B,328175.0,4.0,0.373,27.12,1,Operational — Moderate governance
+LIM343,Thulamela,Limpopo,B,298314.0,4.0,0.667,0.07,1,Operational — Moderate governance
+LIM344,Makhado,Limpopo,B,295193.0,4.0,0.397,0.0,1,Operational — Moderate governance
+LIM345,Collins Chabane,Limpopo,B,277287.0,4.0,0.769,31.03,1,Operational — Moderate governance
+LIM351,Blouberg,Limpopo,B,268776.0,4.0,0.532,23.23,1,Operational — Moderate governance
+LIM353,Molemole,Limpopo,B,290355.0,4.0,0.816,2.32,1,Operational — Moderate governance
+LIM354,Polokwane,Limpopo,B,329251.0,3.0,0.713,35.22,1,Operational — Moderate governance
+LIM355,Lepelle-Nkumpi,Limpopo,B,285283.0,4.0,0.352,124.93,0,At Risk — High irregular expenditure
+LIM361,Thabazimbi,Limpopo,B,373696.0,3.0,0.656,71.87,1,Operational — Moderate governance
+LIM362,Lephalale,Limpopo,B,302590.0,4.0,0.617,6.94,1,Operational — Moderate governance
+LIM366,Bela Bela,Limpopo,B,255177.0,0.0,0.61,62.13,2,Failing — No financial accountability
+LIM367,Mogalakwena,Limpopo,B,320653.0,3.0,0.525,200.0,0,At Risk — High irregular expenditure
+LIM368,Modimolle-Mookgopong,Limpopo,B,230965.0,3.0,0.528,101.13,0,At Risk — High irregular expenditure
+LIM471,Ephraim Mogale,Limpopo,B,233876.0,4.0,0.532,6.87,1,Operational — Moderate governance
+LIM472,Elias Motsoaledi,Limpopo,B,251087.0,4.0,0.581,72.59,1,Operational — Moderate governance
+LIM473,Makhuduthamaga,Limpopo,B,276512.0,4.0,9.763,42.67,1,Operational — Moderate governance
+LIM476,Tubatse Fetakgomo,Limpopo,B,311663.0,4.0,0.511,60.6,1,Operational — Moderate governance
+MAN,Mangaung,Free State,A,304958.0,4.0,1.198,41.62,1,Operational — Moderate governance
+MP301,Albert Luthuli,Mpumalanga,B,256238.0,4.0,0.947,6.04,1,Operational — Moderate governance
+MP302,Msukaligwa,Mpumalanga,B,263588.0,3.0,0.675,76.33,1,Operational — Moderate governance
+MP303,Mkhondo,Mpumalanga,B,279620.0,4.0,0.553,54.27,1,Operational — Moderate governance
+MP304,Pixley Ka Seme (MP),Mpumalanga,B,219391.0,3.0,0.36,7.3,1,Operational — Moderate governance
+MP305,Lekwa,Mpumalanga,B,272847.0,1.0,0.216,135.01,0,At Risk — High irregular expenditure
+MP306,Dipaleseng,Mpumalanga,B,209518.0,1.0,0.338,27.07,2,Failing — No financial accountability
+MP307,Govan Mbeki,Mpumalanga,B,304858.0,3.0,0.693,167.31,0,At Risk — High irregular expenditure
+MP311,Victor Khanye,Mpumalanga,B,268791.0,3.0,0.608,170.47,0,At Risk — High irregular expenditure
+MP312,Emalahleni (MP),Mpumalanga,B,349501.0,3.0,0.445,95.75,1,Operational — Moderate governance
+MP313,Steve Tshwete,Mpumalanga,B,337678.0,5.0,0.884,10.82,1,Operational — Moderate governance
+MP314,Emakhazeni,Mpumalanga,B,258116.0,2.0,0.515,13.86,2,Failing — No financial accountability
+MP315,Thembisile Hani,Mpumalanga,B,233045.0,4.0,0.683,5.94,1,Operational — Moderate governance
+MP316,Dr J.S. Moroka,Mpumalanga,B,238683.0,1.0,0.5,15.4,2,Failing — No financial accountability
+MP321,Thaba Chweu,Mpumalanga,B,367382.0,4.0,0.91,200.0,0,At Risk — High irregular expenditure
+MP324,Nkomazi,Mpumalanga,B,257246.0,4.0,0.547,15.35,1,Operational — Moderate governance
+MP325,Bushbuckridge,Mpumalanga,B,257886.0,4.0,0.397,22.73,1,Operational — Moderate governance
+MP326,City of Mbombela,Mpumalanga,B,294712.0,4.0,0.508,43.21,1,Operational — Moderate governance
+NC061,Richtersveld,Northern Cape,B,219900.0,3.0,0.341,92.94,0,At Risk — High irregular expenditure
+NC062,Nama Khoi,Northern Cape,B,259171.0,0.0,0.513,21.28,2,Failing — No financial accountability
+NC064,Kamiesberg,Northern Cape,B,192513.0,3.0,0.143,168.97,0,At Risk — High irregular expenditure
+NC065,Hantam,Northern Cape,B,195205.0,0.0,0.612,36.9,2,Failing — No financial accountability
+NC066,Karoo Hoogland,Northern Cape,B,221535.0,4.0,0.882,106.65,0,At Risk — High irregular expenditure
+NC067,Khai-Ma,Northern Cape,B,307638.0,3.0,0.519,57.15,1,Operational — Moderate governance
+NC071,Ubuntu,Northern Cape,B,200363.0,3.0,0.344,122.99,0,At Risk — High irregular expenditure
+NC072,Umsobomvu,Northern Cape,B,244356.0,3.0,0.292,59.95,1,Operational — Moderate governance
+NC073,Emthanjeni,Northern Cape,B,264891.0,3.0,1.091,200.0,0,At Risk — High irregular expenditure
+NC074,Kareeberg,Northern Cape,B,176056.0,4.0,0.309,5.76,1,Operational — Moderate governance
+NC075,Renosterberg,Northern Cape,B,277092.0,0.0,0.565,6.53,2,Failing — No financial accountability
+NC076,Thembelihle,Northern Cape,B,170257.0,3.0,0.052,42.82,1,Operational — Moderate governance
+NC077,Siyathemba,Northern Cape,B,223012.0,3.0,2.049,199.14,0,At Risk — High irregular expenditure
+NC078,Siyancuma,Northern Cape,B,226499.0,3.0,0.416,90.03,0,At Risk — High irregular expenditure
+NC082,!Kai! Garib,Northern Cape,B,238634.0,0.0,0.659,0.0,2,Failing — No financial accountability
+NC084,!Kheis,Northern Cape,B,177580.0,0.0,0.374,119.7,2,Failing — No financial accountability
+NC085,Tsantsabane,Northern Cape,B,395852.0,3.0,0.512,28.29,1,Operational — Moderate governance
+NC086,Kgatelopele,Northern Cape,B,340307.0,0.0,1.044,7.39,2,Failing — No financial accountability
+NC087,Dawid Kruiper,Northern Cape,B,260841.0,4.0,5.294,24.29,1,Operational — Moderate governance
+NC091,Sol Plaatje,Northern Cape,B,307296.0,3.0,0.704,26.44,1,Operational — Moderate governance
+NC092,Dikgatlong,Northern Cape,B,243815.0,3.0,0.308,190.02,0,At Risk — High irregular expenditure
+NC093,Magareng,Northern Cape,B,253420.0,3.0,0.556,110.3,0,At Risk — High irregular expenditure
+NC094,Phokwane,Northern Cape,B,254736.0,0.0,0.245,0.0,2,Failing — No financial accountability
+NC451,Joe Morolong,Northern Cape,B,406358.0,0.0,0.317,1.56,2,Failing — No financial accountability
+NC452,Ga-Segonyana,Northern Cape,B,313284.0,4.0,0.879,34.09,1,Operational — Moderate governance
+NC453,Gamagara,Northern Cape,B,469674.0,3.0,1.3,200.0,0,At Risk — High irregular expenditure
+NW371,Moretele,North West,B,253814.0,4.0,0.435,31.13,1,Operational — Moderate governance
+NW372,Madibeng,North West,B,325060.0,1.0,0.383,55.21,2,Failing — No financial accountability
+NW373,Rustenburg,North West,B,347095.0,3.0,0.602,51.98,1,Operational — Moderate governance
+NW374,Kgetlengrivier,North West,B,242038.0,1.0,0.479,200.0,0,At Risk — High irregular expenditure
+NW375,Moses Kotane,North West,B,263356.0,3.0,0.841,104.98,0,At Risk — High irregular expenditure
+NW381,Ratlou,North West,B,253769.0,1.0,0.593,139.11,0,At Risk — High irregular expenditure
+NW382,Tswaing,North West,B,208246.0,3.0,0.075,200.0,0,At Risk — High irregular expenditure
+NW383,Mafikeng,North West,B,321533.0,3.0,0.655,144.44,0,At Risk — High irregular expenditure
+NW384,Ditsobotla,North West,B,263000.0,0.0,0.387,200.0,0,At Risk — High irregular expenditure
+NW385,Ramotshere Moiloa,North West,B,264420.0,0.0,0.156,193.16,0,At Risk — High irregular expenditure
+NW392,Naledi (NW),North West,B,228626.0,1.0,0.223,48.37,2,Failing — No financial accountability
+NW393,Mamusa,North West,B,222395.0,1.0,0.068,200.0,0,At Risk — High irregular expenditure
+NW394,Greater Taung,North West,B,266948.0,1.0,0.536,18.03,2,Failing — No financial accountability
+NW396,Lekwa-Teemane,North West,B,265493.0,3.0,0.344,200.0,0,At Risk — High irregular expenditure
+NW397,Kagisano-Molopo,North West,B,252168.0,3.0,0.343,186.44,0,At Risk — High irregular expenditure
+NW403,City of Matlosana,North West,B,264124.0,4.0,0.785,138.95,0,At Risk — High irregular expenditure
+NW404,Maquassi Hills,North West,B,177971.0,1.0,0.364,109.84,2,Failing — No financial accountability
+NW405,J B Marks,North West,B,282770.0,3.0,0.332,71.62,1,Operational — Moderate governance
+TSH,City of Tshwane,Gauteng,A,388575.0,4.0,0.838,45.36,1,Operational — Moderate governance
+WC011,Matzikama,Western Cape,B,276080.0,5.0,0.498,36.01,1,Operational — Moderate governance
+WC012,Cederberg,Western Cape,B,234090.0,5.0,0.914,18.08,1,Operational — Moderate governance
+WC013,Bergrivier,Western Cape,B,259289.0,5.0,0.677,0.84,1,Operational — Moderate governance
+WC014,Saldanha Bay,Western Cape,B,261755.0,5.0,0.71,0.09,1,Operational — Moderate governance
+WC015,Swartland,Western Cape,B,273409.0,5.0,0.95,8.03,1,Operational — Moderate governance
+WC022,Witzenberg,Western Cape,B,254906.0,5.0,0.575,1.3,1,Operational — Moderate governance
+WC023,Drakenstein,Western Cape,B,312926.0,5.0,0.777,0.42,1,Operational — Moderate governance
+WC024,Stellenbosch,Western Cape,B,412557.0,5.0,0.518,12.16,1,Operational — Moderate governance
+WC025,Breede Valley,Western Cape,B,254208.0,5.0,0.884,0.0,1,Operational — Moderate governance
+WC026,Langeberg,Western Cape,B,238380.0,5.0,0.896,3.29,1,Operational — Moderate governance
+WC031,Theewaterskloof,Western Cape,B,238685.0,5.0,0.563,1.26,1,Operational — Moderate governance
+WC032,Overstrand,Western Cape,B,259090.0,5.0,0.847,2.44,1,Operational — Moderate governance
+WC033,Cape Agulhas,Western Cape,B,245224.0,5.0,0.512,4.9,1,Operational — Moderate governance
+WC034,Swellendam,Western Cape,B,247484.0,5.0,0.586,29.64,1,Operational — Moderate governance
+WC041,Kannaland,Western Cape,B,208540.0,0.0,0.638,38.1,2,Failing — No financial accountability
+WC042,Hessequa,Western Cape,B,219736.0,5.0,0.773,1.15,1,Operational — Moderate governance
+WC043,Mossel Bay,Western Cape,B,255696.0,5.0,1.217,11.46,1,Operational — Moderate governance
+WC044,George,Western Cape,B,259536.0,5.0,0.809,17.13,1,Operational — Moderate governance
+WC045,Oudtshoorn,Western Cape,B,244965.0,4.0,0.763,14.86,1,Operational — Moderate governance
+WC047,Bitou,Western Cape,B,266000.0,4.0,0.889,50.34,1,Operational — Moderate governance
+WC048,Knysna,Western Cape,B,260371.0,4.0,1.174,30.28,1,Operational — Moderate governance
+WC051,Laingsburg,Western Cape,B,173370.0,0.0,2.016,74.48,2,Failing — No financial accountability
+WC052,Prince Albert,Western Cape,B,213510.0,4.0,1.011,4.42,1,Operational — Moderate governance
+WC053,Beaufort West,Western Cape,B,205407.0,0.0,0.429,200.0,0,At Risk — High irregular expenditure

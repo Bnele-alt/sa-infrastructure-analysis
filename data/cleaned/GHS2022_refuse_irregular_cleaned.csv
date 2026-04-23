@@ -1,0 +1,28 @@
+province,refuse_irregular,count
+Western Cape,Yes,597270
+Western Cape,No,6633588
+Western Cape,Unspecified,0
+Eastern Cape,Yes,2044036
+Eastern Cape,No,4495019
+Eastern Cape,Unspecified,0
+Northern Cape,Yes,464635
+Northern Cape,No,829409
+Northern Cape,Unspecified,0
+Free State,Yes,1762047
+Free State,No,1238391
+Free State,Unspecified,0
+KwaZulu-Natal,Yes,2506108
+KwaZulu-Natal,No,9315934
+KwaZulu-Natal,Unspecified,0
+North West,Yes,1287565
+North West,No,2918843
+North West,Unspecified,0
+Gauteng,Yes,2109986
+Gauteng,No,14149870
+Gauteng,Unspecified,6739
+Mpumalanga,Yes,2629506
+Mpumalanga,No,2227704
+Mpumalanga,Unspecified,0
+Limpopo,Yes,753874
+Limpopo,No,5413646
+Limpopo,Unspecified,0

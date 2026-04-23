@@ -1,0 +1,153 @@
+SuperWEB2(tm)
+
+"General Household Survey 2022"
+"Province by Type of toilet facility"
+"Counting: Person Weight"
+
+Filters:
+"Default Summation","Person Weight"
+
+"Summation Options","Province","Type of toilet facility","Count",
+"Person Weight","Western Cape","Flush toilet connected to a public sewerage system",6787188.323555
+"Person Weight","Western Cape","Flush toilet connected to a septic tank or conservancy tank",140714.9907259
+"Person Weight","Western Cape","Pour bucket-flush toilet connected to a septic tank (or septic pit)",27088.4340355
+"Person Weight","Western Cape","Chemical toilet",21707.1505978
+"Person Weight","Western Cape","Pit latrine/toilet with ventilation pipe",17895.5004704
+"Person Weight","Western Cape","Pit latrine/toilet without ventilation pipe",14222.0642136
+"Person Weight","Western Cape","Bucket toilet",135688.9482694
+"Person Weight","Western Cape","Portable flush toilet",48917.5928687
+"Person Weight","Western Cape","Composting toilet",0
+"Person Weight","Western Cape","Urine diversion dry toilet",1019.7464029
+"Person Weight","Western Cape","Open defecation (e.g. no facilities; field; bush)",25051.9548947
+"Person Weight","Western Cape","Other toilet facility",11363.4021178
+"Person Weight","Western Cape","Unspecified",0
+"Person Weight","Western Cape","Total",7230858.1081517
+"Person Weight","Eastern Cape","Flush toilet connected to a public sewerage system",2551057.9990542
+"Person Weight","Eastern Cape","Flush toilet connected to a septic tank or conservancy tank",164989.7666156
+"Person Weight","Eastern Cape","Pour bucket-flush toilet connected to a septic tank (or septic pit)",27555.9827486
+"Person Weight","Eastern Cape","Chemical toilet",4739.3949157
+"Person Weight","Eastern Cape","Pit latrine/toilet with ventilation pipe",3116678.0879005
+"Person Weight","Eastern Cape","Pit latrine/toilet without ventilation pipe",439091.8836356
+"Person Weight","Eastern Cape","Bucket toilet",21458.8958767
+"Person Weight","Eastern Cape","Portable flush toilet",0
+"Person Weight","Eastern Cape","Composting toilet",20376.7471354
+"Person Weight","Eastern Cape","Urine diversion dry toilet",2424.9940881
+"Person Weight","Eastern Cape","Open defecation (e.g. no facilities; field; bush)",163784.7674604
+"Person Weight","Eastern Cape","Other toilet facility",26895.9185788
+"Person Weight","Eastern Cape","Unspecified",0
+"Person Weight","Eastern Cape","Total",6539054.4380097
+"Person Weight","Northern Cape","Flush toilet connected to a public sewerage system",792717.1353209
+"Person Weight","Northern Cape","Flush toilet connected to a septic tank or conservancy tank",142703.3378717
+"Person Weight","Northern Cape","Pour bucket-flush toilet connected to a septic tank (or septic pit)",7365.5594752
+"Person Weight","Northern Cape","Chemical toilet",813.4340706
+"Person Weight","Northern Cape","Pit latrine/toilet with ventilation pipe",167903.5357694
+"Person Weight","Northern Cape","Pit latrine/toilet without ventilation pipe",118132.0360056
+"Person Weight","Northern Cape","Bucket toilet",3156.6393987
+"Person Weight","Northern Cape","Portable flush toilet",0
+"Person Weight","Northern Cape","Composting toilet",0
+"Person Weight","Northern Cape","Urine diversion dry toilet",0
+"Person Weight","Northern Cape","Open defecation (e.g. no facilities; field; bush)",52479.6656419
+"Person Weight","Northern Cape","Other toilet facility",8772.3606387
+"Person Weight","Northern Cape","Unspecified",0
+"Person Weight","Northern Cape","Total",1294043.7041927
+"Person Weight","Free State","Flush toilet connected to a public sewerage system",2284739.0003998
+"Person Weight","Free State","Flush toilet connected to a septic tank or conservancy tank",83387.818196
+"Person Weight","Free State","Pour bucket-flush toilet connected to a septic tank (or septic pit)",8063.1141233
+"Person Weight","Free State","Chemical toilet",333.5134553
+"Person Weight","Free State","Pit latrine/toilet with ventilation pipe",257184.9323964
+"Person Weight","Free State","Pit latrine/toilet without ventilation pipe",284791.6644904
+"Person Weight","Free State","Bucket toilet",43078.7504162
+"Person Weight","Free State","Portable flush toilet",0
+"Person Weight","Free State","Composting toilet",1035.553232
+"Person Weight","Free State","Urine diversion dry toilet",0
+"Person Weight","Free State","Open defecation (e.g. no facilities; field; bush)",23771.3702359
+"Person Weight","Free State","Other toilet facility",14051.6717886
+"Person Weight","Free State","Unspecified",0
+"Person Weight","Free State","Total",3000437.388734
+"Person Weight","KwaZulu-Natal","Flush toilet connected to a public sewerage system",4369742.1424131
+"Person Weight","KwaZulu-Natal","Flush toilet connected to a septic tank or conservancy tank",404517.8212042
+"Person Weight","KwaZulu-Natal","Pour bucket-flush toilet connected to a septic tank (or septic pit)",79110.2275707
+"Person Weight","KwaZulu-Natal","Chemical toilet",199382.8805944
+"Person Weight","KwaZulu-Natal","Pit latrine/toilet with ventilation pipe",4765041.2538135
+"Person Weight","KwaZulu-Natal","Pit latrine/toilet without ventilation pipe",1870284.4515082
+"Person Weight","KwaZulu-Natal","Bucket toilet",10904.3071676
+"Person Weight","KwaZulu-Natal","Portable flush toilet",8890.4272882
+"Person Weight","KwaZulu-Natal","Composting toilet",15381.1785635
+"Person Weight","KwaZulu-Natal","Urine diversion dry toilet",0
+"Person Weight","KwaZulu-Natal","Open defecation (e.g. no facilities; field; bush)",40290.095958
+"Person Weight","KwaZulu-Natal","Other toilet facility",58497.0248489
+"Person Weight","KwaZulu-Natal","Unspecified",0
+"Person Weight","KwaZulu-Natal","Total",11822041.8109305
+"Person Weight","North West","Flush toilet connected to a public sewerage system",1665409.197716
+"Person Weight","North West","Flush toilet connected to a septic tank or conservancy tank",446939.3475192
+"Person Weight","North West","Pour bucket-flush toilet connected to a septic tank (or septic pit)",12219.0683082
+"Person Weight","North West","Chemical toilet",0
+"Person Weight","North West","Pit latrine/toilet with ventilation pipe",985967.2997367
+"Person Weight","North West","Pit latrine/toilet without ventilation pipe",1052625.3339401
+"Person Weight","North West","Bucket toilet",0
+"Person Weight","North West","Portable flush toilet",0
+"Person Weight","North West","Composting toilet",0
+"Person Weight","North West","Urine diversion dry toilet",0
+"Person Weight","North West","Open defecation (e.g. no facilities; field; bush)",40746.1360149
+"Person Weight","North West","Other toilet facility",2502.0218464
+"Person Weight","North West","Unspecified",0
+"Person Weight","North West","Total",4206408.4050816
+"Person Weight","Gauteng","Flush toilet connected to a public sewerage system",14223164.5715259
+"Person Weight","Gauteng","Flush toilet connected to a septic tank or conservancy tank",213255.5678674
+"Person Weight","Gauteng","Pour bucket-flush toilet connected to a septic tank (or septic pit)",115536.5972687
+"Person Weight","Gauteng","Chemical toilet",213369.4594295
+"Person Weight","Gauteng","Pit latrine/toilet with ventilation pipe",396513.0264837
+"Person Weight","Gauteng","Pit latrine/toilet without ventilation pipe",854545.6225156
+"Person Weight","Gauteng","Bucket toilet",168949.4306491
+"Person Weight","Gauteng","Portable flush toilet",17418.1880637
+"Person Weight","Gauteng","Composting toilet",6093.5859362
+"Person Weight","Gauteng","Urine diversion dry toilet",13485.3437086
+"Person Weight","Gauteng","Open defecation (e.g. no facilities; field; bush)",9522.6661159
+"Person Weight","Gauteng","Other toilet facility",28002.0391258
+"Person Weight","Gauteng","Unspecified",6738.6435288
+"Person Weight","Gauteng","Total",16266594.7422187
+"Person Weight","Mpumalanga","Flush toilet connected to a public sewerage system",1785810.8295468
+"Person Weight","Mpumalanga","Flush toilet connected to a septic tank or conservancy tank",252366.7680404
+"Person Weight","Mpumalanga","Pour bucket-flush toilet connected to a septic tank (or septic pit)",10648.9595295
+"Person Weight","Mpumalanga","Chemical toilet",6247.2511292
+"Person Weight","Mpumalanga","Pit latrine/toilet with ventilation pipe",1081993.8046903
+"Person Weight","Mpumalanga","Pit latrine/toilet without ventilation pipe",1667569.5469136
+"Person Weight","Mpumalanga","Bucket toilet",0
+"Person Weight","Mpumalanga","Portable flush toilet",0
+"Person Weight","Mpumalanga","Composting toilet",0
+"Person Weight","Mpumalanga","Urine diversion dry toilet",0
+"Person Weight","Mpumalanga","Open defecation (e.g. no facilities; field; bush)",33311.0487122
+"Person Weight","Mpumalanga","Other toilet facility",19261.649775
+"Person Weight","Mpumalanga","Unspecified",0
+"Person Weight","Mpumalanga","Total",4857209.8583372
+"Person Weight","Limpopo","Flush toilet connected to a public sewerage system",1198858.2855141
+"Person Weight","Limpopo","Flush toilet connected to a septic tank or conservancy tank",480246.7107407
+"Person Weight","Limpopo","Pour bucket-flush toilet connected to a septic tank (or septic pit)",13102.5373467
+"Person Weight","Limpopo","Chemical toilet",2751.1600479
+"Person Weight","Limpopo","Pit latrine/toilet with ventilation pipe",2091125.7292666
+"Person Weight","Limpopo","Pit latrine/toilet without ventilation pipe",2283139.6713532
+"Person Weight","Limpopo","Bucket toilet",8647.6608899
+"Person Weight","Limpopo","Portable flush toilet",3800.7437738
+"Person Weight","Limpopo","Composting toilet",5786.4845419
+"Person Weight","Limpopo","Urine diversion dry toilet",0
+"Person Weight","Limpopo","Open defecation (e.g. no facilities; field; bush)",57782.5981014
+"Person Weight","Limpopo","Other toilet facility",22277.8931135
+"Person Weight","Limpopo","Unspecified",0
+"Person Weight","Limpopo","Total",6167519.4746898
+"Person Weight","Total","Flush toilet connected to a public sewerage system",35658687.4850463
+"Person Weight","Total","Flush toilet connected to a septic tank or conservancy tank",2329122.1287812
+"Person Weight","Total","Pour bucket-flush toilet connected to a septic tank (or septic pit)",300690.4804063
+"Person Weight","Total","Chemical toilet",449344.2442405
+"Person Weight","Total","Pit latrine/toilet with ventilation pipe",12880303.1705276
+"Person Weight","Total","Pit latrine/toilet without ventilation pipe",8584402.274576
+"Person Weight","Total","Bucket toilet",391884.6326676
+"Person Weight","Total","Portable flush toilet",79026.9519944
+"Person Weight","Total","Composting toilet",48673.549409
+"Person Weight","Total","Urine diversion dry toilet",16930.0841996
+"Person Weight","Total","Open defecation (e.g. no facilities; field; bush)",446740.3031353
+"Person Weight","Total","Other toilet facility",191623.9818335
+"Person Weight","Total","Unspecified",6738.6435288
+"Person Weight","Total","Total",61384167.9303451
+
+
+(c) Copyright Statistics South Africa

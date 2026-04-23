@@ -1,0 +1,214 @@
+province,municipality,muni_code,num_taxpayers,taxable_income_rm,avg_taxable_income
+Eastern Cape,Amahlathi Local Municipality,EC124,4577,1049,229189.0
+Eastern Cape,Blue Crane Route Local Municipality,EC102,2503,538,214942.0
+Eastern Cape,Buffalo City Metropolitan Municipality,BUF,97402,28809,295774.0
+Eastern Cape,Dr. Beyers Naude Local Municipality,EC101,5682,1210,212953.0
+Eastern Cape,Elundini Local Municipality,EC141,3849,892,231749.0
+Eastern Cape,Emalahleni Local Municipality,EC136,3166,676,213519.0
+Eastern Cape,Engcobo Local Municipality,EC137,4218,898,212897.0
+Eastern Cape,Enoch Mgijima Local Municipality,EC139,14773,4087,276653.0
+Eastern Cape,Great Kei Local Municipality,EC123,1135,265,233480.0
+Eastern Cape,Intsika Yethu Local Municipality,EC135,4170,1024,245564.0
+Eastern Cape,Inxuba Yethemba Local Municipality,EC131,4863,1124,231133.0
+Eastern Cape,King Sabata Dalindyebo Local Municipality,EC157,33986,9740,286589.0
+Eastern Cape,Kouga Local Municipality,EC108,13730,3494,254479.0
+Eastern Cape,Kou-Kamma Local Municipality,EC109,2248,463,205961.0
+Eastern Cape,Makana Local Municipality,EC104,6754,1898,281019.0
+Eastern Cape,Matatiele Local Municipality,EC441,8106,1968,242783.0
+Eastern Cape,Mbhashe Local Municipality,EC121,7760,1776,228866.0
+Eastern Cape,Mbizana Local Municipality,EC443,8807,2065,234473.0
+Eastern Cape,Mhlontlo Local Municipality,EC156,7687,1819,236633.0
+Eastern Cape,Mnquma Local Municipality,EC122,9551,2584,270548.0
+Eastern Cape,Ndlambe Local Municipality,EC105,5689,1337,235015.0
+Eastern Cape,Nelson Mandela Bay Metropolitan Municipality,NMA,157336,44654,283813.0
+Eastern Cape,Ngqushwa Local Municipality,EC126,3813,747,195909.0
+Eastern Cape,Ngquza Hill Local Municipality,EC153,11757,2614,222336.0
+Eastern Cape,Ntabankulu Local Municipality,EC444,2354,569,241716.0
+Eastern Cape,Nyandeni Local Municipality,EC155,8395,1973,235021.0
+Eastern Cape,Port St Johns Local Municipality,EC154,3854,960,249092.0
+Eastern Cape,Raymond Mhlaba Local Municipality,EC129,8155,1983,243164.0
+Eastern Cape,Sakhisizwe Local Municipality,EC138,2362,550,232854.0
+Eastern Cape,Senqu Local Municipality,EC142,4722,1126,238458.0
+Eastern Cape,Sundays River Valley Local Municipality,EC106,3472,763,219758.0
+Eastern Cape,Umzimvubu Local Municipality,EC442,8702,2128,244541.0
+Eastern Cape,Walter Sisulu Local Municipality,EC145,4906,1167,237872.0
+Free State,Dihlabeng Local Municipality,FS192,13019,3242,249021.0
+Free State,Kopanong Local Municipality,FS162,3295,790,239757.0
+Free State,Letsemeng Local Municipality,FS161,2342,498,212639.0
+Free State,Mafube Local Municipality,FS205,3454,752,217719.0
+Free State,Maluti a Phofung Local Municipality,FS194,22524,5703,253197.0
+Free State,Mangaung Metropolitan Municipality,MAN,100535,30659,304958.0
+Free State,Mantsopa Local Municipality,FS196,3067,712,232149.0
+Free State,Masilonyana Local Municipality,FS181,3864,798,206522.0
+Free State,Matjhabeng Local Municipality,FS184,38881,11815,303876.0
+Free State,Metsimaholo Local Municipality,FS204,22410,6496,289871.0
+Free State,Mohokare Local Municipality,FS163,1852,371,200324.0
+Free State,Moqhaka Local Municipality,FS201,14055,3457,245962.0
+Free State,Nala Local Municipality,FS185,4807,1104,229665.0
+Free State,Ngwathe Local Municipality,FS203,9422,2209,234451.0
+Free State,Nketoana Local Municipality,FS193,3560,660,185393.0
+Free State,Phumelela Local Municipality,FS195,2519,558,221516.0
+Free State,Setsoto Local Municipality,FS191,6441,1440,223568.0
+Free State,Tokologo Local Municipality,FS182,1316,248,188450.0
+Free State,Tswelopele Local Municipality,FS183,3292,593,180134.0
+Gauteng,City of Johannesburg Metropolitan Municipality,JHB,726663,324629,446739.0
+Gauteng,City of Tshwane Metropolitan Municipality,TSH,554434,215439,388575.0
+Gauteng,Ekurhuleni Metropolitan Municipality,EKU,509774,166960,327518.0
+Gauteng,Emfuleni Local Municipality,GT421,88205,25554,289711.0
+Gauteng,Lesedi Local Municipality,GT423,10549,3186,302019.0
+Gauteng,Merafong City Local Municipality,GT484,19158,5902,308070.0
+Gauteng,Midvaal Local Municipality,GT422,15245,5079,333158.0
+Gauteng,Mogale City Local Municipality,GT481,50088,17247,344334.0
+Gauteng,Randfontein/Westonaria Municipality,GT485,27694,8124,293349.0
+KwaZulu-Natal,Abaqulusi Local Municipality,KZN263,10075,2723,270273.0
+KwaZulu-Natal,Alfred Duma Local Municipality,KZN238,16612,4402,264989.0
+KwaZulu-Natal,Big Five Hlabisa Local Municipality,KZN276,3356,766,228248.0
+KwaZulu-Natal,Dannhauser Local Municipality,KZN254,3088,720,233161.0
+KwaZulu-Natal,Dr. Nkosazana Dlamini-Zuma Local Municipality,KZN436,2532,627,247630.0
+KwaZulu-Natal,eDumbe Local Municipality,KZN261,2222,521,234473.0
+KwaZulu-Natal,Emadlangeni Local Municipality,KZN253,1124,265,235765.0
+KwaZulu-Natal,Endumeni Local Municipality,KZN241,7160,1951,272486.0
+KwaZulu-Natal,Ethekwini Metropolitan Municipality,ETH,461463,139860,303080.0
+KwaZulu-Natal,Greater Kokstad Local Municipality,KZN433,5667,1498,264337.0
+KwaZulu-Natal,Impendle Local Municipality,KZN224,764,168,219895.0
+KwaZulu-Natal,Inkosi Langalibalele Local Municipality,KZN237,6834,1719,251536.0
+KwaZulu-Natal,Jozini Local Municipality,KZN272,5788,1408,243262.0
+KwaZulu-Natal,KwaDukuza Local Municipality,KZN292,21303,7630,358166.0
+KwaZulu-Natal,Mandeni Local Municipality,KZN291,5927,1387,234014.0
+KwaZulu-Natal,Maphumulo Local Municipality,KZN294,1214,285,234761.0
+KwaZulu-Natal,Mfolozi Local Municipality,KZN281,1148,286,249129.0
+KwaZulu-Natal,Mkhambathini Local Municipality,KZN226,1782,429,240741.0
+KwaZulu-Natal,Mpofana Local Municipality,KZN223,1601,368,229856.0
+KwaZulu-Natal,Msinga Local Municipality,KZN244,2872,687,239206.0
+KwaZulu-Natal,Mthonjaneni Local Municipality,KZN285,1947,472,242424.0
+KwaZulu-Natal,Mtubatuba Local Municipality,KZN275,8498,2066,243116.0
+KwaZulu-Natal,Ndwedwe Local Municipality,KZN293,2999,694,231410.0
+KwaZulu-Natal,Newcastle Local Municipality,KZN252,29377,8253,280934.0
+KwaZulu-Natal,Nkandla Local Municipality,KZN286,2887,759,262903.0
+KwaZulu-Natal,Nongoma Local Municipality,KZN265,6732,1583,235146.0
+KwaZulu-Natal,Nqutu Local Municipality,KZN242,1693,418,246899.0
+KwaZulu-Natal,Okhahlamba Local Municipality,KZN235,3504,846,241438.0
+KwaZulu-Natal,Ray Nkonyeni Local Municipality,KZN216,27593,7072,256297.0
+KwaZulu-Natal,Richmond Local Municipality,KZN227,1915,457,238642.0
+KwaZulu-Natal,The Msunduzi Local Municipality,KZN225,70214,21512,306378.0
+KwaZulu-Natal,Ubuhlebezwe Local Municipality,KZN434,3278,826,251983.0
+KwaZulu-Natal,Ulundi Local Municipality,KZN266,7036,1860,264355.0
+KwaZulu-Natal,Umdoni Local Municipality,KZN212,10149,2543,250567.0
+KwaZulu-Natal,Umhlabuyalingana Local Municipality,KZN271,4563,1102,241508.0
+KwaZulu-Natal,uMhlathuze Local Municipality,KZN282,46633,14902,319559.0
+KwaZulu-Natal,uMlalazi Local Municipality,KZN284,7989,2186,273626.0
+KwaZulu-Natal,uMngeni Local Municipality,KZN222,13313,3983,299181.0
+KwaZulu-Natal,uMshwathi Local Municipality,KZN221,3416,943,276054.0
+KwaZulu-Natal,UMuziwabantu Local Municipality,KZN214,2964,765,258097.0
+KwaZulu-Natal,Umvoti Local Municipality,KZN245,5038,1320,262009.0
+KwaZulu-Natal,Umzimkhulu Local Municipality,KZN435,5319,1358,255311.0
+KwaZulu-Natal,Umzumbe Local Municipality,KZN213,1263,323,255740.0
+KwaZulu-Natal,UPhongolo Local Municipality,KZN262,4238,1068,252006.0
+Limpopo,Ba-Phalaborwa Local Municipality,LIM334,9877,3673,371874.0
+Limpopo,Bela-Bela Local Municipality,LIM366,4491,1146,255177.0
+Limpopo,Blouberg Local Municipality,LIM351,4394,1181,268776.0
+Limpopo,Elias Motsoaledi Local Municipality,LIM472,11040,2772,251087.0
+Limpopo,Ephraim Mogale Local Municipality,LIM471,5101,1193,233876.0
+Limpopo,Greater Giyani Local Municipality,LIM331,10138,2920,288025.0
+Limpopo,Greater Letaba Local Municipality,LIM332,4346,1242,285780.0
+Limpopo,Greater Tubatse/Fetakgomo Local Municipality,LIM476,18443,5748,311663.0
+Limpopo,Greater Tzaneen Local Municipality,LIM333,17744,5298,298580.0
+Limpopo,Lepele-Nkumpi Local Municipality,LIM355,13236,3776,285283.0
+Limpopo,Lephalale Local Municipality,LIM362,12122,3668,302590.0
+Limpopo,Makhado Local Municipality,LIM344,20407,6024,295193.0
+Limpopo,Makhuduthamaga Local Municipality,LIM473,7327,2026,276512.0
+Limpopo,Malamulele Local Municipality,LIM345,9849,2731,277287.0
+Limpopo,Maruleng Local Municipality,LIM335,3813,1078,282717.0
+Limpopo,Modimolle/Mookgophong Local Municipality,LIM368,5503,1271,230965.0
+Limpopo,Mogalakwena Local Municipality,LIM367,15378,4931,320653.0
+Limpopo,Molemole Local Municipality,LIM353,2001,581,290355.0
+Limpopo,Musina Local Municipality,LIM341,4071,1336,328175.0
+Limpopo,Polokwane Local Municipality,LIM354,59936,19734,329251.0
+Limpopo,Thabazimbi Local Municipality,LIM361,8151,3046,373696.0
+Limpopo,Thulamela Local Municipality,LIM343,27756,8280,298314.0
+North West,City of Matlosana Local Municipality,NW403,40659,10739,264124.0
+North West,Ditsobotla Local Municipality,NW384,9692,2549,263000.0
+North West,Greater Taung Local Municipality,NW394,6166,1646,266948.0
+North West,Kagisano/Molopo Local Municipality,NW397,3113,785,252168.0
+North West,Kgetlengrivier Local Municipality,NW374,2512,608,242038.0
+North West,Lekwa-Teemane Local Municipality,NW396,2614,694,265493.0
+North West,Madibeng Local Municipality,NW372,30862,10032,325060.0
+North West,Mafikeng Local Municipality,NW383,18446,5931,321533.0
+North West,Mamusa Local Municipality,NW393,2572,572,222395.0
+North West,Maquassi Hills Local Municipality,NW404,3450,614,177971.0
+North West,Moretele Local Municipality,NW371,4129,1048,253814.0
+North West,Moses Kotane Local Municipality,NW375,7974,2100,263356.0
+North West,Naledi Local Municipality,NW392,5708,1305,228626.0
+North West,Ramotshere Moiloa Local Municipality,NW385,5548,1467,264420.0
+North West,Ratlou Local Municipality,NW381,1194,303,253769.0
+North West,Rustenburg Local Municipality,NW373,66757,23171,347095.0
+North West,Tswaing Local Municipality,NW382,4293,894,208246.0
+North West,Ventersdorp/Tlokwe Local Municipality,NW405,28822,8150,282770.0
+Mpumalanga,Albert Luthuli Local Municipality,MP301,6252,1602,256238.0
+Mpumalanga,Bushbuckridge Local Municipality,MP325,16232,4186,257886.0
+Mpumalanga,Dipaleseng Local Municipality,MP306,3341,700,209518.0
+Mpumalanga,Dr JS Moroka Local Municipality,MP316,7378,1761,238683.0
+Mpumalanga,Emakhazeni Local Municipality,MP314,2495,644,258116.0
+Mpumalanga,Emalahleni Local Municipality,MP312,57522,20104,349501.0
+Mpumalanga,Govan Mbeki Local Municipality,MP307,51775,15784,304858.0
+Mpumalanga,Lekwa Local Municipality,MP305,13623,3717,272847.0
+Mpumalanga,Mbombela/Umjindi Local Municipality,MP326,64300,18950,294712.0
+Mpumalanga,Mkhondo Local Municipality,MP303,7360,2058,279620.0
+Mpumalanga,Msukaligwa Local Municipality,MP302,14185,3739,263588.0
+Mpumalanga,Nkomazi Local Municipality,MP324,16113,4145,257246.0
+Mpumalanga,Pixley Ka Seme Local Municipality,MP304,5219,1145,219391.0
+Mpumalanga,Steve Tshwete Local Municipality,MP313,33147,11193,337678.0
+Mpumalanga,Thaba Chweu Local Municipality,MP321,9369,3442,367382.0
+Mpumalanga,Thembisile Local Municipality,MP315,9599,2237,233045.0
+Mpumalanga,Victor Khanye Local Municipality,MP311,7251,1949,268791.0
+Northern Cape,!Kheis Local Municipality,NC084,901,160,177580.0
+Northern Cape,Dawid Kruiper Local Municipality,NC087,12107,3158,260841.0
+Northern Cape,Dikgatlong Local Municipality,NC092,2223,542,243815.0
+Northern Cape,Emthanjeni Local Municipality,NC073,3492,925,264891.0
+Northern Cape,Gamagara Local Municipality,NC453,7782,3655,469674.0
+Northern Cape,Ga-Segonyana Local Municipality,NC452,12519,3922,313284.0
+Northern Cape,Hantam Local Municipality,NC065,1752,342,195205.0
+Northern Cape,Joe Morolong Local Municipality,NC451,1730,703,406358.0
+Northern Cape,Kai !Garib Local Municipality,NC082,4069,971,238634.0
+Northern Cape,Kamiesberg Local Municipality,NC064,561,108,192513.0
+Northern Cape,Kareeberg Local Municipality,NC074,710,125,176056.0
+Northern Cape,Karoo Hoogland Local Municipality,NC066,1616,358,221535.0
+Northern Cape,Kgatelopele Local Municipality,NC086,2151,732,340307.0
+Northern Cape,Khâi-Ma Local Municipality,NC067,2828,870,307638.0
+Northern Cape,Magareng Local Municipality,NC093,1389,352,253420.0
+Northern Cape,Nama Khoi Local Municipality,NC062,5452,1413,259171.0
+Northern Cape,Phokwane Local Municipality,NC094,4487,1143,254736.0
+Northern Cape,Renosterberg Local Municipality,NC075,729,202,277092.0
+Northern Cape,Richtersveld Local Municipality,NC061,1005,221,219900.0
+Northern Cape,Siyancuma Local Municipality,NC078,2468,559,226499.0
+Northern Cape,Siyathemba Local Municipality,NC077,1547,345,223012.0
+Northern Cape,Sol Plaatjie Local Municipality,NC091,35129,10795,307296.0
+Northern Cape,Thembelihle Local Municipality,NC076,1439,245,170257.0
+Northern Cape,Tsantsabane Local Municipality,NC085,4388,1737,395852.0
+Northern Cape,Ubuntu Local Municipality,NC071,1103,221,200363.0
+Northern Cape,Umsobomvu Local Municipality,NC072,1506,368,244356.0
+Western Cape,Beaufort West Local Municipality,WC053,4143,851,205407.0
+Western Cape,Bergrivier Local Municipality,WC013,6190,1605,259289.0
+Western Cape,Bitou Local Municipality,WC047,5500,1463,266000.0
+Western Cape,Breede Valley Local Municipality,WC025,20259,5150,254208.0
+Western Cape,Cape Agulhas Local Municipality,WC033,4816,1181,245224.0
+Western Cape,Cederberg Local Municipality,WC012,4007,938,234090.0
+Western Cape,City of Cape Town Metropolitan Municipality,CPT,702976,236939,337051.0
+Western Cape,Drakenstein Local Municipality,WC023,37977,11884,312926.0
+Western Cape,George Local Municipality,WC044,30647,7954,259536.0
+Western Cape,Hessequa Local Municipality,WC042,7509,1650,219736.0
+Western Cape,Kannaland Local Municipality,WC041,1616,337,208540.0
+Western Cape,Knysna Local Municipality,WC048,10124,2636,260371.0
+Western Cape,Laingsburg Local Municipality,WC051,721,125,173370.0
+Western Cape,Langeberg Local Municipality,WC026,9208,2195,238380.0
+Western Cape,Matzikama Local Municipality,WC011,5857,1617,276080.0
+Western Cape,Mossel Bay Local Municipality,WC043,21068,5387,255696.0
+Western Cape,Oudtshoorn Local Municipality,WC045,10328,2530,244965.0
+Western Cape,Overstrand Local Municipality,WC032,16886,4375,259090.0
+Western Cape,Prince Albert Local Municipality,WC052,829,177,213510.0
+Western Cape,Saldanha Bay Local Municipality,WC014,18651,4882,261755.0
+Western Cape,Stellenbosch Local Municipality,WC024,24513,10113,412557.0
+Western Cape,Swartland Local Municipality,WC015,12805,3501,273409.0
+Western Cape,Swellendam Local Municipality,WC034,3875,959,247484.0
+Western Cape,Theewaterskloof Local Municipality,WC031,10981,2621,238685.0
+Western Cape,Witzenberg Local Municipality,WC022,9121,2325,254906.0

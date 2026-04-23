@@ -1,0 +1,28 @@
+province,littering,count
+Western Cape,Yes,1898658
+Western Cape,No,5332200
+Western Cape,Unspecified,0
+Eastern Cape,Yes,2672789
+Eastern Cape,No,3866266
+Eastern Cape,Unspecified,0
+Northern Cape,Yes,586257
+Northern Cape,No,707787
+Northern Cape,Unspecified,0
+Free State,Yes,1677910
+Free State,No,1322527
+Free State,Unspecified,0
+KwaZulu-Natal,Yes,3564018
+KwaZulu-Natal,No,8258024
+KwaZulu-Natal,Unspecified,0
+North West,Yes,1331083
+North West,No,2875325
+North West,Unspecified,0
+Gauteng,Yes,4559493
+Gauteng,No,11700364
+Gauteng,Unspecified,6739
+Mpumalanga,Yes,2322393
+Mpumalanga,No,2534816
+Mpumalanga,Unspecified,0
+Limpopo,Yes,1534624
+Limpopo,No,4632896
+Limpopo,Unspecified,0

@@ -1,0 +1,83 @@
+SuperWEB2(tm)
+
+"General Household Survey 2022"
+"Province by Distance of water source from the dwelling"
+"Counting: Person Weight"
+
+Filters:
+"Default Summation","Person Weight"
+
+"Summation Options","Province","Distance of water source from the dwelling","Count",
+"Person Weight","Western Cape","201â€“500 metres",51088.9973924
+"Person Weight","Western Cape","501 metres â€“ 1 kilometre",5543.3429664
+"Person Weight","Western Cape","More than 1 kilometre",0
+"Person Weight","Western Cape","DO NOT KNOW",0
+"Person Weight","Western Cape","Not applicable",6689800.5572998
+"Person Weight","Western Cape","Less than 200 metres",484425.2104931
+"Person Weight","Western Cape","Total",7230858.1081517
+"Person Weight","Eastern Cape","201â€“500 metres",859947.8750804
+"Person Weight","Eastern Cape","501 metres â€“ 1 kilometre",217494.599012
+"Person Weight","Eastern Cape","More than 1 kilometre",113953.3850145
+"Person Weight","Eastern Cape","DO NOT KNOW",614.0285436
+"Person Weight","Eastern Cape","Not applicable",4316766.9591517
+"Person Weight","Eastern Cape","Less than 200 metres",1030277.5912075
+"Person Weight","Eastern Cape","Total",6539054.4380097
+"Person Weight","Northern Cape","201â€“500 metres",56934.5985178
+"Person Weight","Northern Cape","501 metres â€“ 1 kilometre",12565.1054408
+"Person Weight","Northern Cape","More than 1 kilometre",11920.6562988
+"Person Weight","Northern Cape","DO NOT KNOW",0
+"Person Weight","Northern Cape","Not applicable",1062353.9580132
+"Person Weight","Northern Cape","Less than 200 metres",150269.3859221
+"Person Weight","Northern Cape","Total",1294043.7041927
+"Person Weight","Free State","201â€“500 metres",37988.0521033
+"Person Weight","Free State","501 metres â€“ 1 kilometre",12714.0141834
+"Person Weight","Free State","More than 1 kilometre",31603.5982756
+"Person Weight","Free State","DO NOT KNOW",0
+"Person Weight","Free State","Not applicable",2709369.847572
+"Person Weight","Free State","Less than 200 metres",208761.8765996
+"Person Weight","Free State","Total",3000437.388734
+"Person Weight","KwaZulu-Natal","201â€“500 metres",1641165.3539883
+"Person Weight","KwaZulu-Natal","501 metres â€“ 1 kilometre",625226.1186625
+"Person Weight","KwaZulu-Natal","More than 1 kilometre",278997.9175742
+"Person Weight","KwaZulu-Natal","DO NOT KNOW",35112.4418308
+"Person Weight","KwaZulu-Natal","Not applicable",7973396.8890451
+"Person Weight","KwaZulu-Natal","Less than 200 metres",1268143.0898295
+"Person Weight","KwaZulu-Natal","Total",11822041.8109305
+"Person Weight","North West","201â€“500 metres",379630.4485435
+"Person Weight","North West","501 metres â€“ 1 kilometre",63134.8776546
+"Person Weight","North West","More than 1 kilometre",2612.1788902
+"Person Weight","North West","DO NOT KNOW",14640.9281476
+"Person Weight","North West","Not applicable",2954750.9653607
+"Person Weight","North West","Less than 200 metres",791639.006485
+"Person Weight","North West","Total",4206408.4050816
+"Person Weight","Gauteng","201â€“500 metres",87973.0234116
+"Person Weight","Gauteng","501 metres â€“ 1 kilometre",0
+"Person Weight","Gauteng","More than 1 kilometre",3756.082221
+"Person Weight","Gauteng","DO NOT KNOW",1664.9692228
+"Person Weight","Gauteng","Not applicable",15495793.1282433
+"Person Weight","Gauteng","Less than 200 metres",677407.5391201
+"Person Weight","Gauteng","Total",16266594.7422187
+"Person Weight","Mpumalanga","201â€“500 metres",309735.4235882
+"Person Weight","Mpumalanga","501 metres â€“ 1 kilometre",82987.5152187
+"Person Weight","Mpumalanga","More than 1 kilometre",60576.0523078
+"Person Weight","Mpumalanga","DO NOT KNOW",43278.0384015
+"Person Weight","Mpumalanga","Not applicable",3770648.1516842
+"Person Weight","Mpumalanga","Less than 200 metres",589984.6771367
+"Person Weight","Mpumalanga","Total",4857209.8583372
+"Person Weight","Limpopo","201â€“500 metres",924781.1370912
+"Person Weight","Limpopo","501 metres â€“ 1 kilometre",211581.4848744
+"Person Weight","Limpopo","More than 1 kilometre",66427.6223525
+"Person Weight","Limpopo","DO NOT KNOW",14733.258214
+"Person Weight","Limpopo","Not applicable",3569893.0849947
+"Person Weight","Limpopo","Less than 200 metres",1380102.8871631
+"Person Weight","Limpopo","Total",6167519.4746898
+"Person Weight","Total","201â€“500 metres",4349244.9097167
+"Person Weight","Total","501 metres â€“ 1 kilometre",1231247.0580127
+"Person Weight","Total","More than 1 kilometre",569847.4929344
+"Person Weight","Total","DO NOT KNOW",110043.6643602
+"Person Weight","Total","Not applicable",48542773.5413649
+"Person Weight","Total","Less than 200 metres",6581011.2639568
+"Person Weight","Total","Total",61384167.9303451
+
+
+(c) Copyright Statistics South Africa

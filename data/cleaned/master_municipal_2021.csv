@@ -1,0 +1,249 @@
+muni_code,muni_name,muni_long_name,province,muni_category,miif_category,num_taxpayers,taxable_income_rm,avg_taxable_income,total_capex_rm,total_budget_rm,spending_ratio,underspend_pct,opinion_code,opinion_label,governance_score,uifw_total_rm,uifw_pct_budget
+BUF,Buffalo City,"Buffalo City, Eastern Cape",Eastern Cape,A,A,97402.0,28809.0,295774.0,3003.87,3512.7,0.855,14.5,qualified,Qualified,3.0,311.22,8.86
+CPT,Cape Town,"Cape Town, Western Cape",Western Cape,A,A,702976.0,236939.0,337051.0,8945.06,14392.87,0.621,37.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,774.51,5.38
+EC101,Dr Beyers Naude,"Dr Beyers Naude, Eastern Cape",Eastern Cape,B,B3,5682.0,1210.0,212953.0,90.78,148.88,0.61,39.0,qualified,Qualified,3.0,90.6,60.85
+EC102,Blue Crane Route,"Blue Crane Route, Eastern Cape",Eastern Cape,B,B3,2503.0,538.0,214942.0,83.67,106.63,0.785,21.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,8.23,7.72
+EC103,Ikwezi,"Ikwezi, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC104,Makana,"Makana, Eastern Cape",Eastern Cape,B,B2,6754.0,1898.0,281019.0,50.11,115.16,0.435,56.5,disclaimer,Disclaimer of opinion,1.0,129.21,112.2
+EC105,Ndlambe,"Ndlambe, Eastern Cape",Eastern Cape,B,B3,5689.0,1337.0,235015.0,324.9,263.48,1.233,-23.3,qualified,Qualified,3.0,277.07,105.16
+EC106,Sundays River Valley,"Sundays River Valley, Eastern Cape",Eastern Cape,B,B3,3472.0,763.0,219758.0,1421.29,49.02,28.995,-2799.5,disclaimer,Disclaimer of opinion,1.0,76.56,156.18
+EC107,Baviaans,"Baviaans, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC108,Kouga,"Kouga, Eastern Cape",Eastern Cape,B,B3,13730.0,3494.0,254479.0,193.16,239.38,0.807,19.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,3.58,1.5
+EC109,Kou-Kamma,"Kou-Kamma, Eastern Cape",Eastern Cape,B,B3,2248.0,463.0,205961.0,36.29,48.97,0.741,25.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,11.88,24.26
+EC121,Mbhashe,"Mbhashe, Eastern Cape",Eastern Cape,B,B4,7760.0,1776.0,228866.0,194.84,173.94,1.12,-12.0,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,21.32,12.26
+EC122,Mnquma,"Mnquma, Eastern Cape",Eastern Cape,B,B4,9551.0,2584.0,270548.0,92.81,272.02,0.341,65.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,1.45,0.53
+EC123,Great Kei,"Great Kei, Eastern Cape",Eastern Cape,B,B3,1135.0,265.0,233480.0,27.73,32.26,0.86,14.0,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,36.99,114.66
+EC124,Amahlathi,"Amahlathi, Eastern Cape",Eastern Cape,B,B3,4577.0,1049.0,229189.0,39.43,83.59,0.472,52.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,70.59,84.45
+EC126,Ngqushwa,"Ngqushwa, Eastern Cape",Eastern Cape,B,B4,3813.0,747.0,195909.0,52.87,63.94,0.827,17.3,qualified,Qualified,3.0,20.91,32.7
+EC127,Nkonkobe,"Nkonkobe, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC128,Nxuba,"Nxuba, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC129,Raymond Mhlaba,"Raymond Mhlaba, Eastern Cape",Eastern Cape,B,B3,8155.0,1983.0,243164.0,48.76,96.24,0.507,49.3,qualified,Qualified,3.0,41.51,43.13
+EC131,Inxuba Yethemba,"Inxuba Yethemba, Eastern Cape",Eastern Cape,B,B3,4863.0,1124.0,231133.0,119.04,86.36,1.378,-37.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,223.53,258.84
+EC132,Tsolwana,"Tsolwana, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC133,Inkwanca,"Inkwanca, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC134,Lukanji,"Lukanji, Eastern Cape",Eastern Cape,B,B2,,,,,,,,,,,,
+EC135,Intsika Yethu,"Intsika Yethu, Eastern Cape",Eastern Cape,B,B4,4170.0,1024.0,245564.0,74.18,170.39,0.435,56.5,qualified,Qualified,3.0,37.81,22.19
+EC136,Emalahleni (EC),"Emalahleni (EC), Eastern Cape",Eastern Cape,B,B4,3166.0,676.0,213519.0,78.68,72.11,1.091,-9.1,qualified,Qualified,3.0,21.86,30.31
+EC137,Dr. A.B. Xuma,"Dr. A.B. Xuma, Eastern Cape",Eastern Cape,B,B4,4218.0,898.0,212897.0,,,,,qualified,Qualified,3.0,7.53,
+EC138,Sakhisizwe,"Sakhisizwe, Eastern Cape",Eastern Cape,B,B3,2362.0,550.0,232854.0,24.28,50.03,0.485,51.5,qualified,Qualified,3.0,14.06,28.1
+EC139,Enoch Mgijima,"Enoch Mgijima, Eastern Cape",Eastern Cape,B,B2,14773.0,4087.0,276653.0,89.65,143.66,0.624,37.6,qualified,Qualified,3.0,364.32,253.6
+EC141,Elundini,"Elundini, Eastern Cape",Eastern Cape,B,B4,3849.0,892.0,231749.0,94.57,156.66,0.604,39.6,unqualified,Unqualified - No findings,5.0,12.95,8.27
+EC142,Senqu,"Senqu, Eastern Cape",Eastern Cape,B,B4,4722.0,1126.0,238458.0,47.61,198.76,0.24,76.0,unqualified,Unqualified - No findings,5.0,0.55,0.28
+EC143,Maletswai,"Maletswai, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC144,Gariep,"Gariep, Eastern Cape",Eastern Cape,B,B3,,,,,,,,,,,,
+EC145,Walter Sisulu,"Walter Sisulu, Eastern Cape",Eastern Cape,B,B3,4906.0,1167.0,237872.0,4.93,55.52,0.089,91.1,disclaimer,Disclaimer of opinion,1.0,141.8,255.4
+EC153,Ngquza Hills,"Ngquza Hills, Eastern Cape",Eastern Cape,B,B4,11757.0,2614.0,222336.0,171.82,278.6,0.617,38.3,qualified,Qualified,3.0,1.91,0.69
+EC154,Port St Johns,"Port St Johns, Eastern Cape",Eastern Cape,B,B4,3854.0,960.0,249092.0,110.93,190.9,0.581,41.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,107.92,56.53
+EC155,Nyandeni,"Nyandeni, Eastern Cape",Eastern Cape,B,B4,8395.0,1973.0,235021.0,199.39,211.04,0.945,5.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,253.37,120.06
+EC156,Mhlontlo,"Mhlontlo, Eastern Cape",Eastern Cape,B,B4,7687.0,1819.0,236633.0,120.7,156.52,0.771,22.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,6.03,3.85
+EC157,King Sabata Dalindyebo,"King Sabata Dalindyebo, Eastern Cape",Eastern Cape,B,B2,33986.0,9740.0,286589.0,485.15,452.69,1.072,-7.2,qualified,Qualified,3.0,32.49,7.18
+EC441,Matatiele,"Matatiele, Eastern Cape",Eastern Cape,B,B3,8106.0,1968.0,242783.0,169.05,247.52,0.683,31.7,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,85.63,34.6
+EC442,Umzimvubu,"Umzimvubu, Eastern Cape",Eastern Cape,B,B4,8702.0,2128.0,244541.0,257.6,308.27,0.836,16.4,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,0.06,0.02
+EC443,Winnie Madikizela-Mandela,"Winnie Madikizela-Mandela, Eastern Cape",Eastern Cape,B,B4,8807.0,2065.0,234473.0,166.55,245.57,0.678,32.2,unqualified,Unqualified - No findings,5.0,1.59,0.65
+EC444,Ntabankulu,"Ntabankulu, Eastern Cape",Eastern Cape,B,B4,2354.0,569.0,241716.0,54.72,96.22,0.569,43.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,39.19,40.73
+EKU,City of Ekurhuleni,"City of Ekurhuleni, Gauteng",Gauteng,A,A,509774.0,166960.0,327518.0,9158.92,9810.74,0.934,6.6,unqualified,Unqualified - No findings,5.0,226.67,2.31
+ETH,eThekwini,"eThekwini, Kwazulu-Natal",KwaZulu-Natal,A,A,461463.0,139860.0,303080.0,8388.7,11252.75,0.745,25.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,779.9,6.93
+FS161,Letsemeng,"Letsemeng, Free State",Free State,B,B3,2342.0,498.0,212639.0,24.77,178.74,0.139,86.1,qualified,Qualified,3.0,349.94,195.78
+FS162,Kopanong,"Kopanong, Free State",Free State,B,B3,3295.0,790.0,239757.0,10.14,126.29,0.08,92.0,outstanding,Outstanding,0.0,0.0,0.0
+FS163,Mohokare,"Mohokare, Free State",Free State,B,B3,1852.0,371.0,200324.0,52.07,121.38,0.429,57.1,outstanding,Outstanding,0.0,89.68,73.88
+FS164,Naledi,"Naledi, Free State",Free State,B,B3,,,,,,,,,,,,
+FS181,Masilonyana,"Masilonyana, Free State",Free State,B,B3,3864.0,798.0,206522.0,0.77,62.45,0.012,98.8,outstanding,Outstanding,0.0,0.0,0.0
+FS182,Tokologo,"Tokologo, Free State",Free State,B,B3,1316.0,248.0,188450.0,43.15,96.94,0.445,55.5,outstanding,Outstanding,0.0,0.0,0.0
+FS183,Tswelopele,"Tswelopele, Free State",Free State,B,B3,3292.0,593.0,180134.0,37.19,64.66,0.575,42.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,26.69,41.28
+FS184,Matjhabeng,"Matjhabeng, Free State",Free State,B,B1,38881.0,11815.0,303876.0,132.55,355.48,0.373,62.7,qualified,Qualified,3.0,1833.11,515.67
+FS185,Nala,"Nala, Free State",Free State,B,B3,4807.0,1104.0,229665.0,237.36,349.22,0.68,32.0,outstanding,Outstanding,0.0,263.21,75.37
+FS191,Setsoto,"Setsoto, Free State",Free State,B,B3,6441.0,1440.0,223568.0,162.15,332.47,0.488,51.2,qualified,Qualified,3.0,415.28,124.91
+FS192,Dihlabeng,"Dihlabeng, Free State",Free State,B,B2,13019.0,3242.0,249021.0,81.66,205.68,0.397,60.3,qualified,Qualified,3.0,428.05,208.11
+FS193,Nketoana,"Nketoana, Free State",Free State,B,B3,3560.0,660.0,185393.0,55.14,135.09,0.408,59.2,outstanding,Outstanding,0.0,0.0,0.0
+FS194,Maluti-a-Phofung,"Maluti-a-Phofung, Free State",Free State,B,B3,22524.0,5703.0,253197.0,301.8,612.27,0.493,50.7,outstanding,Outstanding,0.0,327.25,53.45
+FS195,Phumelela,"Phumelela, Free State",Free State,B,B3,2519.0,558.0,221516.0,72.75,105.25,0.691,30.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,115.25,109.5
+FS196,Mantsopa,"Mantsopa, Free State",Free State,B,B3,3067.0,712.0,232149.0,34.74,64.02,0.543,45.7,outstanding,Outstanding,0.0,188.32,294.16
+FS201,Moqhaka,"Moqhaka, Free State",Free State,B,B2,14055.0,3457.0,245962.0,125.46,189.44,0.662,33.8,qualified,Qualified,3.0,222.7,117.56
+FS203,Ngwathe,"Ngwathe, Free State",Free State,B,B3,9422.0,2209.0,234451.0,135.6,201.36,0.673,32.7,qualified,Qualified,3.0,129.69,64.41
+FS204,Metsimaholo,"Metsimaholo, Free State",Free State,B,B2,22410.0,6496.0,289871.0,58.45,319.48,0.183,81.7,qualified,Qualified,3.0,90.69,28.39
+FS205,Mafube,"Mafube, Free State",Free State,B,B3,3454.0,752.0,217719.0,43.29,112.28,0.386,61.4,outstanding,Outstanding,0.0,0.0,0.0
+GT421,Emfuleni,"Emfuleni, Gauteng",Gauteng,B,B1,88205.0,25554.0,289711.0,649.72,1184.01,0.549,45.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,1632.2,137.85
+GT422,Midvaal,"Midvaal, Gauteng",Gauteng,B,B2,15245.0,5079.0,333158.0,467.44,522.66,0.894,10.6,unqualified,Unqualified - No findings,5.0,9.76,1.87
+GT423,Lesedi,"Lesedi, Gauteng",Gauteng,B,B3,10549.0,3186.0,302019.0,117.48,198.49,0.592,40.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,36.89,18.59
+GT481,Mogale City,"Mogale City, Gauteng",Gauteng,B,B1,50088.0,17247.0,344334.0,974.62,1018.21,0.957,4.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,107.58,10.57
+GT482,Randfontein,"Randfontein, Gauteng",Gauteng,B,B2,,,,,,,,,,,,
+GT483,Westonaria,"Westonaria, Gauteng",Gauteng,B,B2,,,,,,,,,,,,
+GT484,Merafong City,"Merafong City, Gauteng",Gauteng,B,B2,19158.0,5902.0,308070.0,263.98,319.38,0.827,17.3,adverse,Adverse opinion,2.0,80.01,25.05
+GT485,Rand West City,"Rand West City, Gauteng",Gauteng,B,B2,27694.0,8124.0,293349.0,166.35,525.45,0.317,68.3,qualified,Qualified,3.0,425.93,81.06
+JHB,City of Johannesburg,"City of Johannesburg, Gauteng",Gauteng,A,A,726663.0,324629.0,446739.0,10841.05,14099.74,0.769,23.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,2132.64,15.13
+KZN211,Vulamehlo,"Vulamehlo, KwaZulu-Natal",KwaZulu-Natal,B,B4,,,,,,,,,,,,
+KZN212,Umdoni,"Umdoni, Kwazulu-Natal",KwaZulu-Natal,B,B2,10149.0,2543.0,250567.0,92.05,142.86,0.644,35.6,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,123.97,86.78
+KZN213,Umzumbe,"Umzumbe, Kwazulu-Natal",KwaZulu-Natal,B,B4,1263.0,323.0,255740.0,605.51,224.23,2.7,-170.0,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,60.79,27.11
+KZN214,uMuziwabantu,"uMuziwabantu, Kwazulu-Natal",KwaZulu-Natal,B,B3,2964.0,765.0,258097.0,68.24,89.87,0.759,24.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,26.49,29.48
+KZN215,Ezingoleni,"Ezingoleni, KwaZulu-Natal",KwaZulu-Natal,B,B4,,,,,,,,,,,,
+KZN216,Ray Nkonyeni,"Ray Nkonyeni, Kwazulu-Natal",KwaZulu-Natal,B,B2,27593.0,7072.0,256297.0,222.53,261.63,0.851,14.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,32.02,12.24
+KZN221,uMshwathi,"uMshwathi, Kwazulu-Natal",KwaZulu-Natal,B,B4,3416.0,943.0,276054.0,1111.71,65.53,16.966,-1596.6,qualified,Qualified,3.0,77.22,117.84
+KZN222,uMngeni,"uMngeni, Kwazulu-Natal",KwaZulu-Natal,B,B2,13313.0,3983.0,299181.0,111.17,108.43,1.025,-2.5,qualified,Qualified,3.0,108.67,100.22
+KZN223,Mpofana,"Mpofana, Kwazulu-Natal",KwaZulu-Natal,B,B3,1601.0,368.0,229856.0,6.97,24.46,0.285,71.5,qualified,Qualified,3.0,103.36,422.57
+KZN224,Impendle,"Impendle, Kwazulu-Natal",KwaZulu-Natal,B,B4,764.0,168.0,219895.0,,,,,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,19.95,
+KZN225,Msunduzi,"Msunduzi, Kwazulu-Natal",KwaZulu-Natal,B,B1,70214.0,21512.0,306378.0,4377.0,1459.85,2.998,-199.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,979.89,67.12
+KZN226,Mkhambathini,"Mkhambathini, Kwazulu-Natal",KwaZulu-Natal,B,B3,1782.0,429.0,240741.0,78.35,86.33,0.908,9.2,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,5.14,5.95
+KZN227,Richmond,"Richmond, Kwazulu-Natal",KwaZulu-Natal,B,B4,1915.0,457.0,238642.0,58.92,62.99,0.935,6.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,29.78,47.28
+KZN232,Emnambithi/Ladysmith,"Emnambithi/Ladysmith, KwaZulu-Natal",KwaZulu-Natal,B,B2,,,,,,,,,,,,
+KZN233,Indaka,"Indaka, KwaZulu-Natal",KwaZulu-Natal,B,B4,,,,,,,,,,,,
+KZN234,Umtshezi,"Umtshezi, KwaZulu-Natal",KwaZulu-Natal,B,B3,,,,,,,,,,,,
+KZN235,Okhahlamba,"Okhahlamba, Kwazulu-Natal",KwaZulu-Natal,B,B4,3504.0,846.0,241438.0,78.75,94.87,0.83,17.0,unqualified,Unqualified - No findings,5.0,3.69,3.89
+KZN236,Imbabazane,"Imbabazane, KwaZulu-Natal",KwaZulu-Natal,B,B4,,,,,,,,,,,,
+KZN237,Inkosi Langalibalele,"Inkosi Langalibalele, Kwazulu-Natal",KwaZulu-Natal,B,B3,6834.0,1719.0,251536.0,49.93,195.83,0.255,74.5,disclaimer,Disclaimer of opinion,1.0,69.79,35.64
+KZN238,Alfred Duma,"Alfred Duma, Kwazulu-Natal",KwaZulu-Natal,B,B2,16612.0,4402.0,264989.0,124.39,319.4,0.389,61.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,2.59,0.81
+KZN241,Endumeni,"Endumeni, Kwazulu-Natal",KwaZulu-Natal,B,B3,7160.0,1951.0,272486.0,32.0,49.07,0.652,34.8,qualified,Qualified,3.0,43.59,88.83
+KZN242,Nquthu,"Nquthu, Kwazulu-Natal",KwaZulu-Natal,B,B4,1693.0,418.0,246899.0,137.27,205.53,0.668,33.2,disclaimer,Disclaimer of opinion,1.0,217.78,105.96
+KZN244,Msinga,"Msinga, Kwazulu-Natal",KwaZulu-Natal,B,B4,2872.0,687.0,239206.0,64.97,107.62,0.604,39.6,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,25.52,23.71
+KZN245,Umvoti,"Umvoti, Kwazulu-Natal",KwaZulu-Natal,B,B3,5038.0,1320.0,262009.0,96.32,102.06,0.944,5.6,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,60.91,59.68
+KZN252,Newcastle,"Newcastle, Kwazulu-Natal",KwaZulu-Natal,B,B1,29377.0,8253.0,280934.0,454.22,549.0,0.827,17.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,36.01,6.56
+KZN253,Emadlangeni,"Emadlangeni, Kwazulu-Natal",KwaZulu-Natal,B,B3,1124.0,265.0,235765.0,17.13,24.17,0.708,29.2,qualified,Qualified,3.0,41.35,171.08
+KZN254,Dannhauser,"Dannhauser, Kwazulu-Natal",KwaZulu-Natal,B,B4,3088.0,720.0,233161.0,105.75,130.91,0.808,19.2,qualified,Qualified,3.0,21.64,16.53
+KZN261,eDumbe,"eDumbe, Kwazulu-Natal",KwaZulu-Natal,B,B3,2222.0,521.0,234473.0,,,,,qualified,Qualified,3.0,48.49,
+KZN262,uPhongolo,"uPhongolo, Kwazulu-Natal",KwaZulu-Natal,B,B4,4238.0,1068.0,252006.0,53.37,98.44,0.542,45.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,21.59,21.93
+KZN263,Abaqulusi,"Abaqulusi, Kwazulu-Natal",KwaZulu-Natal,B,B3,10075.0,2723.0,270273.0,78.48,117.92,0.666,33.4,qualified,Qualified,3.0,218.24,185.07
+KZN265,Nongoma,"Nongoma, Kwazulu-Natal",KwaZulu-Natal,B,B4,6732.0,1583.0,235146.0,65.92,71.2,0.926,7.4,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,44.77,62.88
+KZN266,Ulundi,"Ulundi, Kwazulu-Natal",KwaZulu-Natal,B,B4,7036.0,1860.0,264355.0,86.0,107.12,0.803,19.7,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,44.19,41.25
+KZN271,Umhlabuyalingana,"Umhlabuyalingana, Kwazulu-Natal",KwaZulu-Natal,B,B4,4563.0,1102.0,241508.0,,,,,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,26.08,
+KZN272,Jozini,"Jozini, Kwazulu-Natal",KwaZulu-Natal,B,B4,5788.0,1408.0,243262.0,84.14,79.4,1.06,-6.0,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,64.82,81.64
+KZN273,The Big 5 False Bay,"The Big 5 False Bay, KwaZulu-Natal",KwaZulu-Natal,B,B3,,,,,,,,,,,,
+KZN274,Hlabisa,"Hlabisa, KwaZulu-Natal",KwaZulu-Natal,B,B4,,,,,,,,,,,,
+KZN275,Mtubatuba,"Mtubatuba, Kwazulu-Natal",KwaZulu-Natal,B,B3,8498.0,2066.0,243116.0,66.25,95.04,0.697,30.3,qualified,Qualified,3.0,216.86,228.18
+KZN276,Hlabisa Big Five,"Hlabisa Big Five, Kwazulu-Natal",KwaZulu-Natal,B,B3,3356.0,766.0,228248.0,,,,,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,53.9,
+KZN281,Mfolozi,"Mfolozi, Kwazulu-Natal",KwaZulu-Natal,B,B4,1148.0,286.0,249129.0,59.49,86.2,0.69,31.0,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,54.7,63.46
+KZN282,uMhlathuze,"uMhlathuze, Kwazulu-Natal",KwaZulu-Natal,B,B1,46633.0,14902.0,319559.0,1452.74,1399.84,1.038,-3.8,unqualified,Unqualified - No findings,5.0,12.48,0.89
+KZN283,Ntambanana,"Ntambanana, KwaZulu-Natal",KwaZulu-Natal,B,B4,,,,,,,,,,,,
+KZN284,uMlalazi,"uMlalazi, Kwazulu-Natal",KwaZulu-Natal,B,B4,7989.0,2186.0,273626.0,151.47,168.89,0.897,10.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,35.14,20.81
+KZN285,Mthonjaneni,"Mthonjaneni, Kwazulu-Natal",KwaZulu-Natal,B,B3,1947.0,472.0,242424.0,62.53,75.0,0.834,16.6,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,24.55,32.73
+KZN286,Nkandla,"Nkandla, Kwazulu-Natal",KwaZulu-Natal,B,B4,2887.0,759.0,262903.0,,,,,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,9.55,
+KZN291,Mandeni,"Mandeni, Kwazulu-Natal",KwaZulu-Natal,B,B4,5927.0,1387.0,234014.0,,,,,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,10.51,
+KZN292,KwaDukuza,"KwaDukuza, Kwazulu-Natal",KwaZulu-Natal,B,B2,21303.0,7630.0,358166.0,272.12,380.77,0.715,28.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,85.84,22.54
+KZN293,Ndwedwe,"Ndwedwe, Kwazulu-Natal",KwaZulu-Natal,B,B4,2999.0,694.0,231410.0,110.07,133.65,0.824,17.6,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,0.0,0.0
+KZN294,Maphumulo,"Maphumulo, Kwazulu-Natal",KwaZulu-Natal,B,B4,1214.0,285.0,234761.0,53.7,79.96,0.672,32.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,0.2,0.25
+KZN431,Ingwe,"Ingwe, KwaZulu-Natal",KwaZulu-Natal,B,B4,,,,,,,,,,,,
+KZN432,Kwa Sani,"Kwa Sani, KwaZulu-Natal",KwaZulu-Natal,B,B3,,,,,,,,,,,,
+KZN433,Greater Kokstad,"Greater Kokstad, Kwazulu-Natal",KwaZulu-Natal,B,B2,5667.0,1498.0,264337.0,133.5,212.48,0.628,37.2,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,49.71,23.4
+KZN434,Ubuhlebezwe,"Ubuhlebezwe, Kwazulu-Natal",KwaZulu-Natal,B,B4,3278.0,826.0,251983.0,36.75,97.85,0.376,62.4,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,66.54,68.0
+KZN435,Umzimkhulu,"Umzimkhulu, Kwazulu-Natal",KwaZulu-Natal,B,B4,5319.0,1358.0,255311.0,150.74,191.35,0.788,21.2,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,21.39,11.18
+KZN436,Dr Nkosazana Dlamini Zuma,"Dr Nkosazana Dlamini Zuma, Kwazulu-Natal",KwaZulu-Natal,B,B3,2532.0,627.0,247630.0,110.15,166.16,0.663,33.7,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,11.13,6.7
+LIM331,Greater Giyani,"Greater Giyani, Limpopo",Limpopo,B,B4,10138.0,2920.0,288025.0,129.44,256.74,0.504,49.6,qualified,Qualified,3.0,61.96,24.13
+LIM332,Greater Letaba,"Greater Letaba, Limpopo",Limpopo,B,B4,4346.0,1242.0,285780.0,155.27,202.86,0.765,23.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,54.7,26.96
+LIM333,Greater Tzaneen,"Greater Tzaneen, Limpopo",Limpopo,B,B4,17744.0,5298.0,298580.0,149.58,355.9,0.42,58.0,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,50.82,14.28
+LIM334,Ba-Phalaborwa,"Ba-Phalaborwa, Limpopo",Limpopo,B,B3,9877.0,3673.0,371874.0,86.48,157.88,0.548,45.2,qualified,Qualified,3.0,55.76,35.32
+LIM335,Maruleng,"Maruleng, Limpopo",Limpopo,B,B4,3813.0,1078.0,282717.0,111.36,202.91,0.549,45.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,73.44,36.19
+LIM341,Musina,"Musina, Limpopo",Limpopo,B,B3,4071.0,1336.0,328175.0,31.96,85.68,0.373,62.7,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,23.24,27.12
+LIM342,Mutale,"Mutale, Limpopo",Limpopo,B,B4,,,,,,,,,,,,
+LIM343,Thulamela,"Thulamela, Limpopo",Limpopo,B,B4,27756.0,8280.0,298314.0,190.21,285.24,0.667,33.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,0.2,0.07
+LIM344,Makhado,"Makhado, Limpopo",Limpopo,B,B4,20407.0,6024.0,295193.0,177.96,448.5,0.397,60.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,0.0,0.0
+LIM345,Collins Chabane,"Collins Chabane, Limpopo",Limpopo,B,B4,9849.0,2731.0,277287.0,316.88,411.83,0.769,23.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,127.8,31.03
+LIM351,Blouberg,"Blouberg, Limpopo",Limpopo,B,B4,4394.0,1181.0,268776.0,69.35,130.41,0.532,46.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,30.29,23.23
+LIM352,Aganang,"Aganang, Limpopo",Limpopo,B,B4,,,,,,,,,,,,
+LIM353,Molemole,"Molemole, Limpopo",Limpopo,B,B4,2001.0,581.0,290355.0,81.78,100.25,0.816,18.4,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,2.33,2.32
+LIM354,Polokwane,"Polokwane, Limpopo",Limpopo,B,B1,59936.0,19734.0,329251.0,1391.67,1950.94,0.713,28.7,qualified,Qualified,3.0,687.21,35.22
+LIM355,Lepelle-Nkumpi,"Lepelle-Nkumpi, Limpopo",Limpopo,B,B4,13236.0,3776.0,285283.0,75.48,214.24,0.352,64.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,267.65,124.93
+LIM361,Thabazimbi,"Thabazimbi, Limpopo",Limpopo,B,B3,8151.0,3046.0,373696.0,103.01,156.96,0.656,34.4,qualified,Qualified,3.0,112.8,71.87
+LIM362,Lephalale,"Lephalale, Limpopo",Limpopo,B,B3,12122.0,3668.0,302590.0,205.3,332.63,0.617,38.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,23.1,6.94
+LIM364,Mookgopong,"Mookgopong, Limpopo",Limpopo,B,B3,,,,,,,,,,,,
+LIM365,Modimolle,"Modimolle, Limpopo",Limpopo,B,B3,,,,,,,,,,,,
+LIM366,Bela Bela,"Bela Bela, Limpopo",Limpopo,B,B3,4491.0,1146.0,255177.0,84.67,138.86,0.61,39.0,outstanding,Outstanding,0.0,86.28,62.13
+LIM367,Mogalakwena,"Mogalakwena, Limpopo",Limpopo,B,B2,15378.0,4931.0,320653.0,206.63,393.84,0.525,47.5,qualified,Qualified,3.0,829.81,210.7
+LIM368,Modimolle-Mookgopong,"Modimolle-Mookgopong, Limpopo",Limpopo,B,B3,5503.0,1271.0,230965.0,101.95,193.21,0.528,47.2,qualified,Qualified,3.0,195.39,101.13
+LIM471,Ephraim Mogale,"Ephraim Mogale, Limpopo",Limpopo,B,B4,5101.0,1193.0,233876.0,84.58,158.99,0.532,46.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,10.92,6.87
+LIM472,Elias Motsoaledi,"Elias Motsoaledi, Limpopo",Limpopo,B,B4,11040.0,2772.0,251087.0,96.46,166.02,0.581,41.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,120.51,72.59
+LIM473,Makhuduthamaga,"Makhuduthamaga, Limpopo",Limpopo,B,B4,7327.0,2026.0,276512.0,2299.3,235.51,9.763,-876.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,100.5,42.67
+LIM474,Fetakgomo,"Fetakgomo, Limpopo",Limpopo,B,B4,,,,,,,,,,,,
+LIM475,Greater Tubatse,"Greater Tubatse, Limpopo",Limpopo,B,B4,,,,,,,,,,,,
+LIM476,Tubatse Fetakgomo,"Tubatse Fetakgomo, Limpopo",Limpopo,B,B4,18443.0,5748.0,311663.0,202.12,395.57,0.511,48.9,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,239.73,60.6
+MAN,Mangaung,"Mangaung, Free State",Free State,A,A,100535.0,30659.0,304958.0,2247.78,1875.53,1.198,-19.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,780.56,41.62
+MP301,Albert Luthuli,"Albert Luthuli, Mpumalanga",Mpumalanga,B,B4,6252.0,1602.0,256238.0,410.48,433.41,0.947,5.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,26.17,6.04
+MP302,Msukaligwa,"Msukaligwa, Mpumalanga",Mpumalanga,B,B2,14185.0,3739.0,263588.0,228.49,338.31,0.675,32.5,qualified,Qualified,3.0,258.23,76.33
+MP303,Mkhondo,"Mkhondo, Mpumalanga",Mpumalanga,B,B3,7360.0,2058.0,279620.0,183.29,331.15,0.553,44.7,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,179.71,54.27
+MP304,Pixley Ka Seme (MP),"Pixley Ka Seme (MP), Mpumalanga",Mpumalanga,B,B3,5219.0,1145.0,219391.0,50.28,139.67,0.36,64.0,qualified,Qualified,3.0,10.2,7.3
+MP305,Lekwa,"Lekwa, Mpumalanga",Mpumalanga,B,B3,13623.0,3717.0,272847.0,45.74,211.64,0.216,78.4,disclaimer,Disclaimer of opinion,1.0,285.74,135.01
+MP306,Dipaleseng,"Dipaleseng, Mpumalanga",Mpumalanga,B,B3,3341.0,700.0,209518.0,36.74,108.65,0.338,66.2,disclaimer,Disclaimer of opinion,1.0,29.41,27.07
+MP307,Govan Mbeki,"Govan Mbeki, Mpumalanga",Mpumalanga,B,B1,51775.0,15784.0,304858.0,406.27,585.93,0.693,30.7,qualified,Qualified,3.0,980.3,167.31
+MP311,Victor Khanye,"Victor Khanye, Mpumalanga",Mpumalanga,B,B3,7251.0,1949.0,268791.0,65.02,107.01,0.608,39.2,qualified,Qualified,3.0,182.42,170.47
+MP312,Emalahleni (MP),"Emalahleni (MP), Mpumalanga",Mpumalanga,B,B1,57522.0,20104.0,349501.0,299.0,672.21,0.445,55.5,qualified,Qualified,3.0,643.61,95.75
+MP313,Steve Tshwete,"Steve Tshwete, Mpumalanga",Mpumalanga,B,B1,33147.0,11193.0,337678.0,875.53,990.09,0.884,11.6,unqualified,Unqualified - No findings,5.0,107.08,10.82
+MP314,Emakhazeni,"Emakhazeni, Mpumalanga",Mpumalanga,B,B2,2495.0,644.0,258116.0,84.2,163.4,0.515,48.5,adverse,Adverse opinion,2.0,22.64,13.86
+MP315,Thembisile Hani,"Thembisile Hani, Mpumalanga",Mpumalanga,B,B4,9599.0,2237.0,233045.0,235.75,345.28,0.683,31.7,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,20.51,5.94
+MP316,Dr J.S. Moroka,"Dr J.S. Moroka, Mpumalanga",Mpumalanga,B,B4,7378.0,1761.0,238683.0,160.67,321.31,0.5,50.0,disclaimer,Disclaimer of opinion,1.0,49.47,15.4
+MP321,Thaba Chweu,"Thaba Chweu, Mpumalanga",Mpumalanga,B,B3,9369.0,3442.0,367382.0,133.87,147.18,0.91,9.0,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,336.07,228.34
+MP322,Mbombela,"Mbombela, Mpumalanga",Mpumalanga,B,B1,,,,,,,,,,,,
+MP323,Umjindi,"Umjindi, Mpumalanga",Mpumalanga,B,B3,,,,,,,,,,,,
+MP324,Nkomazi,"Nkomazi, Mpumalanga",Mpumalanga,B,B4,16113.0,4145.0,257246.0,257.59,470.94,0.547,45.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,72.3,15.35
+MP325,Bushbuckridge,"Bushbuckridge, Mpumalanga",Mpumalanga,B,B4,16232.0,4186.0,257886.0,369.81,930.91,0.397,60.3,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,211.57,22.73
+MP326,City of Mbombela,"City of Mbombela, Mpumalanga",Mpumalanga,B,B1,64300.0,18950.0,294712.0,631.74,1243.11,0.508,49.2,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,537.11,43.21
+NC061,Richtersveld,"Richtersveld, Northern Cape",Northern Cape,B,B3,1005.0,221.0,219900.0,10.38,30.44,0.341,65.9,qualified,Qualified,3.0,28.29,92.94
+NC062,Nama Khoi,"Nama Khoi, Northern Cape",Northern Cape,B,B3,5452.0,1413.0,259171.0,49.7,96.92,0.513,48.7,outstanding,Outstanding,0.0,20.62,21.28
+NC064,Kamiesberg,"Kamiesberg, Northern Cape",Northern Cape,B,B3,561.0,108.0,192513.0,5.21,36.54,0.143,85.7,qualified,Qualified,3.0,61.74,168.97
+NC065,Hantam,"Hantam, Northern Cape",Northern Cape,B,B3,1752.0,342.0,195205.0,79.51,130.03,0.612,38.8,outstanding,Outstanding,0.0,47.98,36.9
+NC066,Karoo Hoogland,"Karoo Hoogland, Northern Cape",Northern Cape,B,B3,1616.0,358.0,221535.0,16.05,18.19,0.882,11.8,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,19.4,106.65
+NC067,Khai-Ma,"Khai-Ma, Northern Cape",Northern Cape,B,B3,2828.0,870.0,307638.0,7.61,14.68,0.519,48.1,qualified,Qualified,3.0,8.39,57.15
+NC071,Ubuntu,"Ubuntu, Northern Cape",Northern Cape,B,B3,1103.0,221.0,200363.0,17.83,51.84,0.344,65.6,qualified,Qualified,3.0,63.76,122.99
+NC072,Umsobomvu,"Umsobomvu, Northern Cape",Northern Cape,B,B3,1506.0,368.0,244356.0,18.8,64.29,0.292,70.8,qualified,Qualified,3.0,38.54,59.95
+NC073,Emthanjeni,"Emthanjeni, Northern Cape",Northern Cape,B,B3,3492.0,925.0,264891.0,32.02,29.35,1.091,-9.1,qualified,Qualified,3.0,97.59,332.5
+NC074,Kareeberg,"Kareeberg, Northern Cape",Northern Cape,B,B3,710.0,125.0,176056.0,20.62,66.63,0.309,69.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,3.84,5.76
+NC075,Renosterberg,"Renosterberg, Northern Cape",Northern Cape,B,B3,729.0,202.0,277092.0,16.18,28.64,0.565,43.5,outstanding,Outstanding,0.0,1.87,6.53
+NC076,Thembelihle,"Thembelihle, Northern Cape",Northern Cape,B,B3,1439.0,245.0,170257.0,1.79,34.21,0.052,94.8,qualified,Qualified,3.0,14.65,42.82
+NC077,Siyathemba,"Siyathemba, Northern Cape",Northern Cape,B,B3,1547.0,345.0,223012.0,140.92,68.78,2.049,-104.9,qualified,Qualified,3.0,136.97,199.14
+NC078,Siyancuma,"Siyancuma, Northern Cape",Northern Cape,B,B3,2468.0,559.0,226499.0,31.87,76.6,0.416,58.4,qualified,Qualified,3.0,68.96,90.03
+NC081,Mier,"Mier, Northern Cape",Northern Cape,B,B3,,,,,,,,,,,,
+NC082,!Kai! Garib,"!Kai! Garib, Northern Cape",Northern Cape,B,B3,4069.0,971.0,238634.0,20.65,31.35,0.659,34.1,outstanding,Outstanding,0.0,0.0,0.0
+NC083,//Khara Hais,"//Khara Hais, Northern Cape",Northern Cape,B,B2,,,,,,,,,,,,
+NC084,!Kheis,"!Kheis, Northern Cape",Northern Cape,B,B3,901.0,160.0,177580.0,11.42,30.5,0.374,62.6,outstanding,Outstanding,0.0,36.51,119.7
+NC085,Tsantsabane,"Tsantsabane, Northern Cape",Northern Cape,B,B3,4388.0,1737.0,395852.0,80.97,158.2,0.512,48.8,qualified,Qualified,3.0,44.75,28.29
+NC086,Kgatelopele,"Kgatelopele, Northern Cape",Northern Cape,B,B3,2151.0,732.0,340307.0,40.84,39.12,1.044,-4.4,outstanding,Outstanding,0.0,2.89,7.39
+NC087,Dawid Kruiper,"Dawid Kruiper, Northern Cape",Northern Cape,B,B2,12107.0,3158.0,260841.0,1193.29,225.41,5.294,-429.4,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,54.75,24.29
+NC091,Sol Plaatje,"Sol Plaatje, Northern Cape",Northern Cape,B,B1,35129.0,10795.0,307296.0,346.84,492.64,0.704,29.6,qualified,Qualified,3.0,130.26,26.44
+NC092,Dikgatlong,"Dikgatlong, Northern Cape",Northern Cape,B,B3,2223.0,542.0,243815.0,16.96,55.02,0.308,69.2,qualified,Qualified,3.0,104.55,190.02
+NC093,Magareng,"Magareng, Northern Cape",Northern Cape,B,B3,1389.0,352.0,253420.0,42.8,76.97,0.556,44.4,qualified,Qualified,3.0,84.9,110.3
+NC094,Phokwane,"Phokwane, Northern Cape",Northern Cape,B,B3,4487.0,1143.0,254736.0,54.04,220.92,0.245,75.5,outstanding,Outstanding,0.0,0.0,0.0
+NC451,Joe Morolong,"Joe Morolong, Northern Cape",Northern Cape,B,B4,1730.0,703.0,406358.0,89.5,282.74,0.317,68.3,outstanding,Outstanding,0.0,4.42,1.56
+NC452,Ga-Segonyana,"Ga-Segonyana, Northern Cape",Northern Cape,B,B3,12519.0,3922.0,313284.0,223.51,254.21,0.879,12.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,86.67,34.09
+NC453,Gamagara,"Gamagara, Northern Cape",Northern Cape,B,B3,7782.0,3655.0,469674.0,115.54,88.89,1.3,-30.0,qualified,Qualified,3.0,725.89,816.62
+NMA,Nelson Mandela Bay,"Nelson Mandela Bay, Eastern Cape",Eastern Cape,A,A,157336.0,44654.0,283813.0,,,,,qualified,Qualified,3.0,2237.89,
+NW371,Moretele,"Moretele, North West",North West,B,B4,4129.0,1048.0,253814.0,168.79,387.83,0.435,56.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,120.73,31.13
+NW372,Madibeng,"Madibeng, North West",North West,B,B1,30862.0,10032.0,325060.0,382.61,999.28,0.383,61.7,disclaimer,Disclaimer of opinion,1.0,551.72,55.21
+NW373,Rustenburg,"Rustenburg, North West",North West,B,B1,66757.0,23171.0,347095.0,717.35,1191.03,0.602,39.8,qualified,Qualified,3.0,619.07,51.98
+NW374,Kgetlengrivier,"Kgetlengrivier, North West",North West,B,B3,2512.0,608.0,242038.0,29.02,60.56,0.479,52.1,disclaimer,Disclaimer of opinion,1.0,226.46,373.94
+NW375,Moses Kotane,"Moses Kotane, North West",North West,B,B4,7974.0,2100.0,263356.0,373.41,444.18,0.841,15.9,qualified,Qualified,3.0,466.29,104.98
+NW381,Ratlou,"Ratlou, North West",North West,B,B4,1194.0,303.0,253769.0,39.59,66.78,0.593,40.7,disclaimer,Disclaimer of opinion,1.0,92.9,139.11
+NW382,Tswaing,"Tswaing, North West",North West,B,B3,4293.0,894.0,208246.0,5.63,75.31,0.075,92.5,qualified,Qualified,3.0,238.96,317.3
+NW383,Mafikeng,"Mafikeng, North West",North West,B,B2,18446.0,5931.0,321533.0,150.06,229.25,0.655,34.5,qualified,Qualified,3.0,331.13,144.44
+NW384,Ditsobotla,"Ditsobotla, North West",North West,B,B3,9692.0,2549.0,263000.0,41.47,107.19,0.387,61.3,outstanding,Outstanding,0.0,276.59,258.04
+NW385,Ramotshere Moiloa,"Ramotshere Moiloa, North West",North West,B,B3,5548.0,1467.0,264420.0,12.33,79.12,0.156,84.4,outstanding,Outstanding,0.0,152.83,193.16
+NW392,Naledi (NW),"Naledi (NW), North West",North West,B,B3,5708.0,1305.0,228626.0,16.95,75.94,0.223,77.7,disclaimer,Disclaimer of opinion,1.0,36.73,48.37
+NW393,Mamusa,"Mamusa, North West",North West,B,B3,2572.0,572.0,222395.0,5.06,74.37,0.068,93.2,disclaimer,Disclaimer of opinion,1.0,173.7,233.56
+NW394,Greater Taung,"Greater Taung, North West",North West,B,B4,6166.0,1646.0,266948.0,93.54,174.48,0.536,46.4,disclaimer,Disclaimer of opinion,1.0,31.46,18.03
+NW396,Lekwa-Teemane,"Lekwa-Teemane, North West",North West,B,B3,2614.0,694.0,265493.0,15.62,45.37,0.344,65.6,qualified,Qualified,3.0,301.83,665.26
+NW397,Kagisano-Molopo,"Kagisano-Molopo, North West",North West,B,B4,3113.0,785.0,252168.0,27.38,79.73,0.343,65.7,qualified,Qualified,3.0,148.65,186.44
+NW401,Ventersdorp,"Ventersdorp, North West",North West,B,B3,,,,,,,,,,,,
+NW402,Tlokwe City Council,"Tlokwe City Council, North West",North West,B,B1,,,,,,,,,,,,
+NW403,City of Matlosana,"City of Matlosana, North West",North West,B,B1,40659.0,10739.0,264124.0,638.98,814.49,0.785,21.5,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,1131.75,138.95
+NW404,Maquassi Hills,"Maquassi Hills, North West",North West,B,B3,3450.0,614.0,177971.0,48.23,132.56,0.364,63.6,disclaimer,Disclaimer of opinion,1.0,145.6,109.84
+NW405,J B Marks,"J B Marks, North West",North West,B,B1,28822.0,8150.0,282770.0,169.55,510.87,0.332,66.8,qualified,Qualified,3.0,365.87,71.62
+TSH,City of Tshwane,"City of Tshwane, Gauteng",Gauteng,A,A,554434.0,215439.0,388575.0,6449.88,7695.25,0.838,16.2,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,3490.4,45.36
+WC011,Matzikama,"Matzikama, Western Cape",Western Cape,B,B3,5857.0,1617.0,276080.0,52.33,105.04,0.498,50.2,unqualified,Unqualified - No findings,5.0,37.83,36.01
+WC012,Cederberg,"Cederberg, Western Cape",Western Cape,B,B3,4007.0,938.0,234090.0,91.26,99.83,0.914,8.6,unqualified,Unqualified - No findings,5.0,18.05,18.08
+WC013,Bergrivier,"Bergrivier, Western Cape",Western Cape,B,B3,6190.0,1605.0,259289.0,69.26,102.35,0.677,32.3,unqualified,Unqualified - No findings,5.0,0.86,0.84
+WC014,Saldanha Bay,"Saldanha Bay, Western Cape",Western Cape,B,B2,18651.0,4882.0,261755.0,366.74,516.17,0.71,29.0,unqualified,Unqualified - No findings,5.0,0.45,0.09
+WC015,Swartland,"Swartland, Western Cape",Western Cape,B,B3,12805.0,3501.0,273409.0,339.23,357.15,0.95,5.0,unqualified,Unqualified - No findings,5.0,28.68,8.03
+WC022,Witzenberg,"Witzenberg, Western Cape",Western Cape,B,B3,9121.0,2325.0,254906.0,85.8,149.2,0.575,42.5,unqualified,Unqualified - No findings,5.0,1.94,1.3
+WC023,Drakenstein,"Drakenstein, Western Cape",Western Cape,B,B1,37977.0,11884.0,312926.0,569.18,732.2,0.777,22.3,unqualified,Unqualified - No findings,5.0,3.11,0.42
+WC024,Stellenbosch,"Stellenbosch, Western Cape",Western Cape,B,B1,24513.0,10113.0,412557.0,382.36,738.63,0.518,48.2,unqualified,Unqualified - No findings,5.0,89.82,12.16
+WC025,Breede Valley,"Breede Valley, Western Cape",Western Cape,B,B2,20259.0,5150.0,254208.0,255.73,289.41,0.884,11.6,unqualified,Unqualified - No findings,5.0,0.0,0.0
+WC026,Langeberg,"Langeberg, Western Cape",Western Cape,B,B3,9208.0,2195.0,238380.0,160.19,178.79,0.896,10.4,unqualified,Unqualified - No findings,5.0,5.88,3.29
+WC031,Theewaterskloof,"Theewaterskloof, Western Cape",Western Cape,B,B3,10981.0,2621.0,238685.0,200.01,355.19,0.563,43.7,unqualified,Unqualified - No findings,5.0,4.48,1.26
+WC032,Overstrand,"Overstrand, Western Cape",Western Cape,B,B2,16886.0,4375.0,259090.0,545.09,643.24,0.847,15.3,unqualified,Unqualified - No findings,5.0,15.7,2.44
+WC033,Cape Agulhas,"Cape Agulhas, Western Cape",Western Cape,B,B3,4816.0,1181.0,245224.0,123.2,240.46,0.512,48.8,unqualified,Unqualified - No findings,5.0,11.79,4.9
+WC034,Swellendam,"Swellendam, Western Cape",Western Cape,B,B3,3875.0,959.0,247484.0,46.85,79.9,0.586,41.4,unqualified,Unqualified - No findings,5.0,23.68,29.64
+WC041,Kannaland,"Kannaland, Western Cape",Western Cape,B,B3,1616.0,337.0,208540.0,52.88,82.93,0.638,36.2,outstanding,Outstanding,0.0,31.6,38.1
+WC042,Hessequa,"Hessequa, Western Cape",Western Cape,B,B3,7509.0,1650.0,219736.0,185.23,239.76,0.773,22.7,unqualified,Unqualified - No findings,5.0,2.75,1.15
+WC043,Mossel Bay,"Mossel Bay, Western Cape",Western Cape,B,B2,21068.0,5387.0,255696.0,615.61,506.01,1.217,-21.7,unqualified,Unqualified - No findings,5.0,57.99,11.46
+WC044,George,"George, Western Cape",Western Cape,B,B1,30647.0,7954.0,259536.0,423.65,523.49,0.809,19.1,unqualified,Unqualified - No findings,5.0,89.69,17.13
+WC045,Oudtshoorn,"Oudtshoorn, Western Cape",Western Cape,B,B2,10328.0,2530.0,244965.0,126.39,165.61,0.763,23.7,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,24.61,14.86
+WC047,Bitou,"Bitou, Western Cape",Western Cape,B,B3,5500.0,1463.0,266000.0,140.35,157.89,0.889,11.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,79.48,50.34
+WC048,Knysna,"Knysna, Western Cape",Western Cape,B,B2,10124.0,2636.0,260371.0,301.14,256.48,1.174,-17.4,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,77.65,30.28
+WC051,Laingsburg,"Laingsburg, Western Cape",Western Cape,B,B3,721.0,125.0,173370.0,67.36,33.42,2.016,-101.6,outstanding,Outstanding,0.0,24.89,74.48
+WC052,Prince Albert,"Prince Albert, Western Cape",Western Cape,B,B3,829.0,177.0,213510.0,46.19,45.71,1.011,-1.1,unqualified_emphasis_of_matter,Unqualified - Emphasis of Matter items,4.0,2.02,4.42
+WC053,Beaufort West,"Beaufort West, Western Cape",Western Cape,B,B3,4143.0,851.0,205407.0,24.26,56.59,0.429,57.1,outstanding,Outstanding,0.0,127.17,224.72

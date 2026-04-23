@@ -1,0 +1,143 @@
+SuperWEB2(tm)
+
+"General Household Survey 2022"
+"Province by Refuse removal"
+"Counting: Person Weight"
+
+Filters:
+"Default Summation","Person Weight"
+
+"Summation Options","Province","Refuse removal","Count",
+"Person Weight","Western Cape","Removed by local authority/private company at least once a week",6399264.6647286
+"Person Weight","Western Cape","Removed by local authority/private company less often than once a week",65665.0950344
+"Person Weight","Western Cape","Removed by community members; contracted by the municipality; at least once a week",9459.9241957
+"Person Weight","Western Cape","Removed by community members; contracted by the municipality; less often than once a week",8133.6942318
+"Person Weight","Western Cape","Removed by community members at least once a week",67935.8113306
+"Person Weight","Western Cape","Removed by community members less often than once a week",11254.4914505
+"Person Weight","Western Cape","Communal refuse dump",310524.742382
+"Person Weight","Western Cape","Communal container/central collection point",256535.1905169
+"Person Weight","Western Cape","Own refuse dump",68833.2246065
+"Person Weight","Western Cape","Dump or leave rubbish anywhere",9280.6692624
+"Person Weight","Western Cape","Other",23970.6004123
+"Person Weight","Western Cape","Unspecified",0
+"Person Weight","Western Cape","Total",7230858.1081517
+"Person Weight","Eastern Cape","Removed by local authority/private company at least once a week",2182618.1933934
+"Person Weight","Eastern Cape","Removed by local authority/private company less often than once a week",173209.8666724
+"Person Weight","Eastern Cape","Removed by community members; contracted by the municipality; at least once a week",65863.6073152
+"Person Weight","Eastern Cape","Removed by community members; contracted by the municipality; less often than once a week",5341.636744
+"Person Weight","Eastern Cape","Removed by community members at least once a week",5362.0267654
+"Person Weight","Eastern Cape","Removed by community members less often than once a week",0
+"Person Weight","Eastern Cape","Communal refuse dump",80389.0925825
+"Person Weight","Eastern Cape","Communal container/central collection point",91556.461017
+"Person Weight","Eastern Cape","Own refuse dump",3717856.3248347
+"Person Weight","Eastern Cape","Dump or leave rubbish anywhere",200469.9293413
+"Person Weight","Eastern Cape","Other",16387.2993439
+"Person Weight","Eastern Cape","Unspecified",0
+"Person Weight","Eastern Cape","Total",6539054.4380097
+"Person Weight","Northern Cape","Removed by local authority/private company at least once a week",756812.3415644
+"Person Weight","Northern Cape","Removed by local authority/private company less often than once a week",29762.4063151
+"Person Weight","Northern Cape","Removed by community members; contracted by the municipality; at least once a week",36897.4705029
+"Person Weight","Northern Cape","Removed by community members; contracted by the municipality; less often than once a week",0
+"Person Weight","Northern Cape","Removed by community members at least once a week",621.4282046
+"Person Weight","Northern Cape","Removed by community members less often than once a week",388.7164808
+"Person Weight","Northern Cape","Communal refuse dump",30033.4032444
+"Person Weight","Northern Cape","Communal container/central collection point",3755.2572617
+"Person Weight","Northern Cape","Own refuse dump",367224.6716774
+"Person Weight","Northern Cape","Dump or leave rubbish anywhere",45769.3376281
+"Person Weight","Northern Cape","Other",22778.6713131
+"Person Weight","Northern Cape","Unspecified",0
+"Person Weight","Northern Cape","Total",1294043.7041927
+"Person Weight","Free State","Removed by local authority/private company at least once a week",1948000.6350142
+"Person Weight","Free State","Removed by local authority/private company less often than once a week",184646.2281645
+"Person Weight","Free State","Removed by community members; contracted by the municipality; at least once a week",13650.0558299
+"Person Weight","Free State","Removed by community members; contracted by the municipality; less often than once a week",7447.3489069
+"Person Weight","Free State","Removed by community members at least once a week",7437.4392789
+"Person Weight","Free State","Removed by community members less often than once a week",8577.5732606
+"Person Weight","Free State","Communal refuse dump",72519.089457
+"Person Weight","Free State","Communal container/central collection point",83722.7519732
+"Person Weight","Free State","Own refuse dump",465062.6429598
+"Person Weight","Free State","Dump or leave rubbish anywhere",166624.1156634
+"Person Weight","Free State","Other",42749.5082257
+"Person Weight","Free State","Unspecified",0
+"Person Weight","Free State","Total",3000437.388734
+"Person Weight","KwaZulu-Natal","Removed by local authority/private company at least once a week",4625584.0121223
+"Person Weight","KwaZulu-Natal","Removed by local authority/private company less often than once a week",176751.8049272
+"Person Weight","KwaZulu-Natal","Removed by community members; contracted by the municipality; at least once a week",143525.945437
+"Person Weight","KwaZulu-Natal","Removed by community members; contracted by the municipality; less often than once a week",58494.6837198
+"Person Weight","KwaZulu-Natal","Removed by community members at least once a week",3165.8573586
+"Person Weight","KwaZulu-Natal","Removed by community members less often than once a week",21957.6741288
+"Person Weight","KwaZulu-Natal","Communal refuse dump",170729.122616
+"Person Weight","KwaZulu-Natal","Communal container/central collection point",161899.6794533
+"Person Weight","KwaZulu-Natal","Own refuse dump",6377999.0182421
+"Person Weight","KwaZulu-Natal","Dump or leave rubbish anywhere",60429.4720268
+"Person Weight","KwaZulu-Natal","Other",21504.5408985
+"Person Weight","KwaZulu-Natal","Unspecified",0
+"Person Weight","KwaZulu-Natal","Total",11822041.8109305
+"Person Weight","North West","Removed by local authority/private company at least once a week",2046511.7854929
+"Person Weight","North West","Removed by local authority/private company less often than once a week",99066.7805772
+"Person Weight","North West","Removed by community members; contracted by the municipality; at least once a week",71535.7702012
+"Person Weight","North West","Removed by community members; contracted by the municipality; less often than once a week",4671.2977211
+"Person Weight","North West","Removed by community members at least once a week",3364.265614
+"Person Weight","North West","Removed by community members less often than once a week",11365.3429021
+"Person Weight","North West","Communal refuse dump",147841.7684459
+"Person Weight","North West","Communal container/central collection point",19462.1232893
+"Person Weight","North West","Own refuse dump",1655391.0519243
+"Person Weight","North West","Dump or leave rubbish anywhere",136827.535746
+"Person Weight","North West","Other",10370.6831675
+"Person Weight","North West","Unspecified",0
+"Person Weight","North West","Total",4206408.4050816
+"Person Weight","Gauteng","Removed by local authority/private company at least once a week",12960040.2741171
+"Person Weight","Gauteng","Removed by local authority/private company less often than once a week",292131.6803237
+"Person Weight","Gauteng","Removed by community members; contracted by the municipality; at least once a week",633486.2021247
+"Person Weight","Gauteng","Removed by community members; contracted by the municipality; less often than once a week",139160.0376822
+"Person Weight","Gauteng","Removed by community members at least once a week",7542.2097729
+"Person Weight","Gauteng","Removed by community members less often than once a week",16089.8603102
+"Person Weight","Gauteng","Communal refuse dump",528578.3306827
+"Person Weight","Gauteng","Communal container/central collection point",424931.0067528
+"Person Weight","Gauteng","Own refuse dump",840836.8590069
+"Person Weight","Gauteng","Dump or leave rubbish anywhere",333266.3577443
+"Person Weight","Gauteng","Other",83793.2801724
+"Person Weight","Gauteng","Unspecified",6738.6435288
+"Person Weight","Gauteng","Total",16266594.7422187
+"Person Weight","Mpumalanga","Removed by local authority/private company at least once a week",1824866.57076
+"Person Weight","Mpumalanga","Removed by local authority/private company less often than once a week",50823.2344029
+"Person Weight","Mpumalanga","Removed by community members; contracted by the municipality; at least once a week",91215.6143145
+"Person Weight","Mpumalanga","Removed by community members; contracted by the municipality; less often than once a week",9837.7745352
+"Person Weight","Mpumalanga","Removed by community members at least once a week",9118.7584814
+"Person Weight","Mpumalanga","Removed by community members less often than once a week",17906.2157331
+"Person Weight","Mpumalanga","Communal refuse dump",172878.4829149
+"Person Weight","Mpumalanga","Communal container/central collection point",30102.0019946
+"Person Weight","Mpumalanga","Own refuse dump",2528221.4543774
+"Person Weight","Mpumalanga","Dump or leave rubbish anywhere",119278.3054641
+"Person Weight","Mpumalanga","Other",2961.445359
+"Person Weight","Mpumalanga","Unspecified",0
+"Person Weight","Mpumalanga","Total",4857209.8583372
+"Person Weight","Limpopo","Removed by local authority/private company at least once a week",1124470.695451
+"Person Weight","Limpopo","Removed by local authority/private company less often than once a week",104397.9473381
+"Person Weight","Limpopo","Removed by community members; contracted by the municipality; at least once a week",114508.5062248
+"Person Weight","Limpopo","Removed by community members; contracted by the municipality; less often than once a week",39314.6248225
+"Person Weight","Limpopo","Removed by community members at least once a week",0
+"Person Weight","Limpopo","Removed by community members less often than once a week",4138.6117984
+"Person Weight","Limpopo","Communal refuse dump",237590.5565818
+"Person Weight","Limpopo","Communal container/central collection point",78015.4417253
+"Person Weight","Limpopo","Own refuse dump",4228793.7821182
+"Person Weight","Limpopo","Dump or leave rubbish anywhere",225881.5742379
+"Person Weight","Limpopo","Other",10407.7343919
+"Person Weight","Limpopo","Unspecified",0
+"Person Weight","Limpopo","Total",6167519.4746898
+"Person Weight","Total","Removed by local authority/private company at least once a week",33868169.172644
+"Person Weight","Total","Removed by local authority/private company less often than once a week",1176455.0437555
+"Person Weight","Total","Removed by community members; contracted by the municipality; at least once a week",1180143.0961458
+"Person Weight","Total","Removed by community members; contracted by the municipality; less often than once a week",272401.0983636
+"Person Weight","Total","Removed by community members at least once a week",104547.7968063
+"Person Weight","Total","Removed by community members less often than once a week",91678.4860645
+"Person Weight","Total","Communal refuse dump",1751084.5889072
+"Person Weight","Total","Communal container/central collection point",1149979.9139841
+"Person Weight","Total","Own refuse dump",20250219.0297471
+"Person Weight","Total","Dump or leave rubbish anywhere",1297827.2971142
+"Person Weight","Total","Other",234923.7632844
+"Person Weight","Total","Unspecified",6738.6435288
+"Person Weight","Total","Total",61384167.9303451
+
+
+(c) Copyright Statistics South Africa

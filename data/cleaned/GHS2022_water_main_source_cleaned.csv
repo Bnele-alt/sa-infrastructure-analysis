@@ -1,0 +1,127 @@
+province,water_source,count
+Western Cape,Piped (tap) water in dwelling,6058027
+Western Cape,Piped (tap) water on site or in yard,610768
+Western Cape,Borehole on site,20363
+Western Cape,Rain-water tank on site,643
+Western Cape,Neighbour's tap,6001
+Western Cape,Public/communal tap,518073
+Western Cape,Water-carrier/tanker,0
+Western Cape,Water vendor,0
+Western Cape,Borehole outside yard,6264
+Western Cape,Flowing water/stream/river,6162
+Western Cape,Stagnant water/dam/pool,0
+Western Cape,Well,0
+Western Cape,Spring,1593
+Western Cape,Other source of drinking water,2963
+Eastern Cape,Piped (tap) water in dwelling,2083324
+Eastern Cape,Piped (tap) water on site or in yard,925758
+Eastern Cape,Borehole on site,15615
+Eastern Cape,Rain-water tank on site,1292071
+Eastern Cape,Neighbour's tap,45975
+Eastern Cape,Public/communal tap,1028926
+Eastern Cape,Water-carrier/tanker,24374
+Eastern Cape,Water vendor,31978
+Eastern Cape,Borehole outside yard,30244
+Eastern Cape,Flowing water/stream/river,488674
+Eastern Cape,Stagnant water/dam/pool,31135
+Eastern Cape,Well,510
+Eastern Cape,Spring,439392
+Eastern Cape,Other source of drinking water,101080
+Northern Cape,Piped (tap) water in dwelling,625529
+Northern Cape,Piped (tap) water on site or in yard,412250
+Northern Cape,Borehole on site,22011
+Northern Cape,Rain-water tank on site,2564
+Northern Cape,Neighbour's tap,24121
+Northern Cape,Public/communal tap,148613
+Northern Cape,Water-carrier/tanker,12531
+Northern Cape,Water vendor,22432
+Northern Cape,Borehole outside yard,20551
+Northern Cape,Flowing water/stream/river,2141
+Northern Cape,Stagnant water/dam/pool,0
+Northern Cape,Well,0
+Northern Cape,Spring,0
+Northern Cape,Other source of drinking water,1300
+Free State,Piped (tap) water in dwelling,1310100
+Free State,Piped (tap) water on site or in yard,1391154
+Free State,Borehole on site,8116
+Free State,Rain-water tank on site,0
+Free State,Neighbour's tap,49164
+Free State,Public/communal tap,98237
+Free State,Water-carrier/tanker,26941
+Free State,Water vendor,36514
+Free State,Borehole outside yard,62408
+Free State,Flowing water/stream/river,0
+Free State,Stagnant water/dam/pool,0
+Free State,Well,0
+Free State,Spring,6294
+Free State,Other source of drinking water,11509
+KwaZulu-Natal,Piped (tap) water in dwelling,3982786
+KwaZulu-Natal,Piped (tap) water on site or in yard,3624817
+KwaZulu-Natal,Borehole on site,208746
+KwaZulu-Natal,Rain-water tank on site,157047
+KwaZulu-Natal,Neighbour's tap,327633
+KwaZulu-Natal,Public/communal tap,1632643
+KwaZulu-Natal,Water-carrier/tanker,469265
+KwaZulu-Natal,Water vendor,76470
+KwaZulu-Natal,Borehole outside yard,297891
+KwaZulu-Natal,Flowing water/stream/river,730551
+KwaZulu-Natal,Stagnant water/dam/pool,19357
+KwaZulu-Natal,Well,112428
+KwaZulu-Natal,Spring,111885
+KwaZulu-Natal,Other source of drinking water,70523
+North West,Piped (tap) water in dwelling,1212296
+North West,Piped (tap) water on site or in yard,1541581
+North West,Borehole on site,200500
+North West,Rain-water tank on site,374
+North West,Neighbour's tap,128330
+North West,Public/communal tap,733695
+North West,Water-carrier/tanker,76772
+North West,Water vendor,211464
+North West,Borehole outside yard,80613
+North West,Flowing water/stream/river,5643
+North West,Stagnant water/dam/pool,0
+North West,Well,493
+North West,Spring,0
+North West,Other source of drinking water,14647
+Gauteng,Piped (tap) water in dwelling,10988393
+Gauteng,Piped (tap) water on site or in yard,4411362
+Gauteng,Borehole on site,90342
+Gauteng,Rain-water tank on site,5696
+Gauteng,Neighbour's tap,76898
+Gauteng,Public/communal tap,542334
+Gauteng,Water-carrier/tanker,104238
+Gauteng,Water vendor,17512
+Gauteng,Borehole outside yard,14508
+Gauteng,Flowing water/stream/river,651
+Gauteng,Stagnant water/dam/pool,2104
+Gauteng,Well,0
+Gauteng,Spring,0
+Gauteng,Other source of drinking water,12557
+Mpumalanga,Piped (tap) water in dwelling,1487306
+Mpumalanga,Piped (tap) water on site or in yard,2165872
+Mpumalanga,Borehole on site,99800
+Mpumalanga,Rain-water tank on site,17671
+Mpumalanga,Neighbour's tap,148385
+Mpumalanga,Public/communal tap,409372
+Mpumalanga,Water-carrier/tanker,139131
+Mpumalanga,Water vendor,190516
+Mpumalanga,Borehole outside yard,70228
+Mpumalanga,Flowing water/stream/river,38786
+Mpumalanga,Stagnant water/dam/pool,0
+Mpumalanga,Well,46341
+Mpumalanga,Spring,24248
+Mpumalanga,Other source of drinking water,19553
+Limpopo,Piped (tap) water in dwelling,936125
+Limpopo,Piped (tap) water on site or in yard,1920939
+Limpopo,Borehole on site,691131
+Limpopo,Rain-water tank on site,21698
+Limpopo,Neighbour's tap,241047
+Limpopo,Public/communal tap,1080363
+Limpopo,Water-carrier/tanker,51377
+Limpopo,Water vendor,655630
+Limpopo,Borehole outside yard,176767
+Limpopo,Flowing water/stream/river,76456
+Limpopo,Stagnant water/dam/pool,15258
+Limpopo,Well,49541
+Limpopo,Spring,45105
+Limpopo,Other source of drinking water,206082

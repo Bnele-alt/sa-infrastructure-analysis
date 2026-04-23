@@ -1,0 +1,28 @@
+province,electricity_access,count
+Western Cape,Yes,7123512
+Western Cape,No,107346
+Western Cape,Unspecified,0
+Eastern Cape,Yes,6292748
+Eastern Cape,No,246306
+Eastern Cape,Unspecified,0
+Northern Cape,Yes,1242681
+Northern Cape,No,51363
+Northern Cape,Unspecified,0
+Free State,Yes,2877752
+Free State,No,122686
+Free State,Unspecified,0
+KwaZulu-Natal,Yes,11634621
+KwaZulu-Natal,No,187421
+KwaZulu-Natal,Unspecified,0
+North West,Yes,3987861
+North West,No,218547
+North West,Unspecified,0
+Gauteng,Yes,15363314
+Gauteng,No,896542
+Gauteng,Unspecified,6739
+Mpumalanga,Yes,4611515
+Mpumalanga,No,245695
+Mpumalanga,Unspecified,0
+Limpopo,Yes,6073533
+Limpopo,No,93987
+Limpopo,Unspecified,0
